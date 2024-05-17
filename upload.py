@@ -1,5 +1,6 @@
 import argparse
 import csv
+import os
 import os.path
 
 from google.auth.transport.requests import Request
@@ -13,8 +14,9 @@ SCOPES = [
     "https://www.googleapis.com/auth/spreadsheets",
 ]
 
-TOKEN_FILE = "creds/token.json"
-CREDENTIALS_FILE = "creds/creds.json"
+CREDS_DIR = "creds"
+TOKEN_FILE = f"{CREDS_DIR}/token.json"
+CREDENTIALS_FILE = f"{CREDS_DIR}/creds.json"
 
 SPREADSHEET_ID = "1JJxZRA4OnsbzUOaL6aYvD5qSf1uq2uoO9Ew1c-TFIH4"
 SHEET_NAME = "Combined Data"
@@ -25,6 +27,9 @@ def auth(credentials_file: str):
     # The file token.json stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
     # time.
+    if not os.path.exists(CREDS_DIR):
+        os.mkdir(CREDS_DIR)
+
     if os.path.exists(TOKEN_FILE):
         creds = Credentials.from_authorized_user_file(TOKEN_FILE, SCOPES)
 
