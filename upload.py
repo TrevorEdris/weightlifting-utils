@@ -1,3 +1,4 @@
+import argparse
 import csv
 import os.path
 
@@ -7,26 +8,19 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-
 # If modifying these scopes, delete the file token.json.
 SCOPES = [
-    "https://www.googleapis.com/auth/spreadsheets.readonly",
     "https://www.googleapis.com/auth/spreadsheets",
 ]
-
-# The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms"
-SAMPLE_RANGE_NAME = "Class Data!A2:E"
 
 TOKEN_FILE = "creds/token.json"
 CREDENTIALS_FILE = "creds/creds.json"
 
-LIFTING_SPREADSHEET_ID = "REDACTED"
-LIFTING_SHEET = "TEST_SHEET"
-LIFTING_RANGE = "Combined Data!A1:M"
+SPREADSHEET_ID = "1JJxZRA4OnsbzUOaL6aYvD5qSf1uq2uoO9Ew1c-TFIH4"
+SHEET_NAME = "Combined Data"
 
 
-def auth():
+def auth(credentials_file: str):
     creds = None
     # The file token.json stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
@@ -39,101 +33,72 @@ def auth():
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
         else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                CREDENTIALS_FILE, SCOPES
-            )
+            flow = InstalledAppFlow.from_client_secrets_file(credentials_file, SCOPES)
             creds = flow.run_local_server(port=0)
         # Save the credentials for the next run
         with open(TOKEN_FILE, "w") as token:
             token.write(creds.to_json())
 
-    # creds = Credentials.from_service_account_file(CREDENTIALS_FILE)
     return creds
 
 
-def read_lifting_sheet():
-    creds = auth()
-    try:
-        service = build("sheets", "v4", credentials=creds)
-
-        sheet = service.spreadsheets()
-        result = (
-            sheet.values()
-            .get(spreadsheetId=LIFTING_SPREADSHEET_ID, range=LIFTING_RANGE)
-            .execute()
-        )
-        values = result.get("values", [])
-
-        if not values:
-            print("No data found")
-            return
-        
-        for row in values:
-            print(",".join(row))
-    except HttpError as err:
-        print(err)
-
-
-def upload_to_lifting_sheet(
-        filename: str,
-        spreadsheet_id: str = LIFTING_SPREADSHEET_ID,
-        spreadsheet_range: str = LIFTING_RANGE,
-        ):
+def upload(
+    creds,
+    person: str,
+    filename: str,
+    spreadsheet_id: str,
+    sheet_name: str,
+):
     with open(filename, "r") as file:
         reader = csv.reader(file)
-        rows = list(reader)
-        rows = rows[1:]
+        raw = list(reader)[1:]  # Exclude header row
 
-    creds = auth()
+    # The exports from the Strong app obviously don't include a first name column
+    # but distinguishing between personal exports is necessary when analyzing
+    # a group of people's lifting data together, such as the use-case that
+    # inspired this script.
+    rows = [[person] + row for row in raw]
+    print(f"Attempting to upload {len(rows)} rows to sheet")
+
     try:
         service = build("sheets", "v4", credentials=creds)
 
-        # Append rows to Google Sheets
-        print(f"Attempting to upload {len(rows)} rows to sheet")
         value_range_body = {"values": rows}
-        result = service.spreadsheets().values().append(
+        service.spreadsheets().values().append(
             spreadsheetId=spreadsheet_id,
-            range=spreadsheet_range,
+            range=sheet_name,
             valueInputOption="USER_ENTERED",
-            body=value_range_body
+            body=value_range_body,
         ).execute()
+
         print("Success")
     except HttpError as err:
         print("Failure")
         print(err)
 
 
-def sample():
-    """Shows basic usage of the Sheets API.
-    Prints values from a sample spreadsheet.
-    """
-
-    creds = auth()
-    try:
-        service = build("sheets", "v4", credentials=creds)
-
-        # Call the Sheets API
-        sheet = service.spreadsheets()
-        result = (
-            sheet.values()
-            .get(spreadsheetId=SAMPLE_SPREADSHEET_ID, range=SAMPLE_RANGE_NAME)
-            .execute()
-        )
-        values = result.get("values", [])
-
-        if not values:
-            print("No data found.")
-            return
-
-        print("Name, Major:")
-        for row in values:
-            # Print columns A and E, which correspond to indices 0 and 4.
-            print(f"{row[0]}, {row[4]}")
-    except HttpError as err:
-        print(err)
-
-
 if __name__ == "__main__":
-    #sample()
-    #read_lifting_sheet()
-    upload_to_lifting_sheet("strong.csv", LIFTING_SPREADSHEET_ID, LIFTING_SHEET)
+    parser = argparse.ArgumentParser(description="Append CSV data to Google Sheets")
+    parser.add_argument(
+        "-c",
+        "--credentials",
+        default=CREDENTIALS_FILE,
+        help="Path to Google Sheets credentials JSON file",
+    )
+    parser.add_argument(
+        "-p", "--person", required=True, help="First name of person the data belongs to"
+    )
+    parser.add_argument(
+        "-f", "--filename", required=True, help="Path to CSV file with data to upload"
+    )
+    parser.add_argument(
+        "-i",
+        "--spreadsheet-id",
+        default=SPREADSHEET_ID,
+        help="Google Sheets spreadsheet ID",
+    )
+    parser.add_argument("-s", "--sheet-name", default=SHEET_NAME, help="Sheet name")
+    args = parser.parse_args()
+
+    creds = auth(args.credentials)
+    upload(creds, args.person, args.filename, args.spreadsheet_id, args.sheet_name)
