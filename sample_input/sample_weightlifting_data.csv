@@ -1,0 +1,1351 @@
+Person,Date,Workout Name,Duration,Exercise Name,Set Order,Weight,Reps,Distance,Seconds,Notes,Workout Notes,RPE
+Trevor,2024-01-01,Trevor Workout,1h,Bench Press (Barbell),1,89.06,5,0,0,Lorem ipsum dolor sit amet,,7.4
+Trevor,2024-01-02,Trevor Workout,1h,Bench Press (Barbell),1,89.19,10,0,0,Lorem ipsum dolor sit amet,,8.2
+Trevor,2024-01-03,Trevor Workout,1h,Bench Press (Barbell),1,89.25,9,0,0,Lorem ipsum dolor sit amet,,7.4
+Trevor,2024-01-04,Trevor Workout,1h,Bench Press (Barbell),1,89.3,9,0,0,Lorem ipsum dolor sit amet,,6.6
+Trevor,2024-01-05,Trevor Workout,1h,Bench Press (Barbell),1,89.35,7,0,0,Lorem ipsum dolor sit amet,,9.4
+Trevor,2024-01-06,Trevor Workout,1h,Bench Press (Barbell),1,89.37,10,0,0,Lorem ipsum dolor sit amet,,7.2
+Trevor,2024-01-07,Trevor Workout,1h,Bench Press (Barbell),1,89.45,10,0,0,Lorem ipsum dolor sit amet,,8.8
+Trevor,2024-01-08,Trevor Workout,1h,Bench Press (Barbell),1,89.63,5,0,0,Lorem ipsum dolor sit amet,,6.3
+Trevor,2024-01-09,Trevor Workout,1h,Bench Press (Barbell),1,89.79,9,0,0,Lorem ipsum dolor sit amet,,6.7
+Trevor,2024-01-10,Trevor Workout,1h,Bench Press (Barbell),1,89.91,7,0,0,Lorem ipsum dolor sit amet,,7.1
+Trevor,2024-01-11,Trevor Workout,1h,Bench Press (Barbell),1,89.91,6,0,0,Lorem ipsum dolor sit amet,,7.6
+Trevor,2024-01-12,Trevor Workout,1h,Bench Press (Barbell),1,90.06,7,0,0,Lorem ipsum dolor sit amet,,7.5
+Trevor,2024-01-13,Trevor Workout,1h,Bench Press (Barbell),1,90.38,8,0,0,Lorem ipsum dolor sit amet,,6.2
+Trevor,2024-01-14,Trevor Workout,1h,Bench Press (Barbell),1,90.56,6,0,0,Lorem ipsum dolor sit amet,,7.0
+Trevor,2024-01-15,Trevor Workout,1h,Bench Press (Barbell),1,90.54,5,0,0,Lorem ipsum dolor sit amet,,8.1
+Trevor,2024-01-16,Trevor Workout,1h,Bench Press (Barbell),1,90.68,10,0,0,Lorem ipsum dolor sit amet,,6.5
+Trevor,2024-01-17,Trevor Workout,1h,Bench Press (Barbell),1,90.82,10,0,0,Lorem ipsum dolor sit amet,,8.5
+Trevor,2024-01-18,Trevor Workout,1h,Bench Press (Barbell),1,90.94,7,0,0,Lorem ipsum dolor sit amet,,9.7
+Trevor,2024-01-19,Trevor Workout,1h,Bench Press (Barbell),1,91.15,10,0,0,Lorem ipsum dolor sit amet,,7.1
+Trevor,2024-01-20,Trevor Workout,1h,Bench Press (Barbell),1,91.24,9,0,0,Lorem ipsum dolor sit amet,,6.2
+Trevor,2024-01-21,Trevor Workout,1h,Bench Press (Barbell),1,91.43,5,0,0,Lorem ipsum dolor sit amet,,7.5
+Trevor,2024-01-22,Trevor Workout,1h,Bench Press (Barbell),1,91.43,7,0,0,Lorem ipsum dolor sit amet,,9.8
+Trevor,2024-01-23,Trevor Workout,1h,Bench Press (Barbell),1,91.63,5,0,0,Lorem ipsum dolor sit amet,,6.8
+Trevor,2024-01-24,Trevor Workout,1h,Bench Press (Barbell),1,91.79,8,0,0,Lorem ipsum dolor sit amet,,6.8
+Trevor,2024-01-25,Trevor Workout,1h,Bench Press (Barbell),1,91.77,6,0,0,Lorem ipsum dolor sit amet,,9.4
+Trevor,2024-01-26,Trevor Workout,1h,Bench Press (Barbell),1,91.81,8,0,0,Lorem ipsum dolor sit amet,,8.8
+Trevor,2024-01-27,Trevor Workout,1h,Bench Press (Barbell),1,92.33,7,0,0,Lorem ipsum dolor sit amet,,7.6
+Trevor,2024-01-28,Trevor Workout,1h,Bench Press (Barbell),1,92.43,8,0,0,Lorem ipsum dolor sit amet,,7.6
+Trevor,2024-01-29,Trevor Workout,1h,Bench Press (Barbell),1,92.47,5,0,0,Lorem ipsum dolor sit amet,,6.2
+Trevor,2024-01-30,Trevor Workout,1h,Bench Press (Barbell),1,92.57,5,0,0,Lorem ipsum dolor sit amet,,9.1
+Trevor,2024-01-31,Trevor Workout,1h,Bench Press (Barbell),1,92.69,9,0,0,Lorem ipsum dolor sit amet,,6.1
+Trevor,2024-02-01,Trevor Workout,1h,Bench Press (Barbell),1,92.75,8,0,0,Lorem ipsum dolor sit amet,,9.6
+Trevor,2024-02-02,Trevor Workout,1h,Bench Press (Barbell),1,92.79,10,0,0,Lorem ipsum dolor sit amet,,7.5
+Trevor,2024-02-03,Trevor Workout,1h,Bench Press (Barbell),1,93.0,8,0,0,Lorem ipsum dolor sit amet,,7.6
+Trevor,2024-02-04,Trevor Workout,1h,Bench Press (Barbell),1,93.3,10,0,0,Lorem ipsum dolor sit amet,,9.0
+Trevor,2024-02-05,Trevor Workout,1h,Bench Press (Barbell),1,93.56,5,0,0,Lorem ipsum dolor sit amet,,9.6
+Trevor,2024-02-06,Trevor Workout,1h,Bench Press (Barbell),1,93.67,7,0,0,Lorem ipsum dolor sit amet,,6.9
+Trevor,2024-02-07,Trevor Workout,1h,Bench Press (Barbell),1,93.85,7,0,0,Lorem ipsum dolor sit amet,,8.8
+Trevor,2024-02-08,Trevor Workout,1h,Bench Press (Barbell),1,94.01,7,0,0,Lorem ipsum dolor sit amet,,7.4
+Trevor,2024-02-09,Trevor Workout,1h,Bench Press (Barbell),1,94.55,10,0,0,Lorem ipsum dolor sit amet,,7.4
+Trevor,2024-02-10,Trevor Workout,1h,Bench Press (Barbell),1,94.92,10,0,0,Lorem ipsum dolor sit amet,,9.0
+Trevor,2024-02-11,Trevor Workout,1h,Bench Press (Barbell),1,95.35,10,0,0,Lorem ipsum dolor sit amet,,10.0
+Trevor,2024-02-12,Trevor Workout,1h,Bench Press (Barbell),1,95.45,7,0,0,Lorem ipsum dolor sit amet,,8.8
+Trevor,2024-02-13,Trevor Workout,1h,Bench Press (Barbell),1,95.9,9,0,0,Lorem ipsum dolor sit amet,,8.3
+Trevor,2024-02-14,Trevor Workout,1h,Bench Press (Barbell),1,96.29,10,0,0,Lorem ipsum dolor sit amet,,6.2
+Trevor,2024-02-15,Trevor Workout,1h,Bench Press (Barbell),1,96.49,7,0,0,Lorem ipsum dolor sit amet,,8.7
+Trevor,2024-02-16,Trevor Workout,1h,Bench Press (Barbell),1,96.59,8,0,0,Lorem ipsum dolor sit amet,,6.4
+Trevor,2024-02-17,Trevor Workout,1h,Bench Press (Barbell),1,96.8,6,0,0,Lorem ipsum dolor sit amet,,9.2
+Trevor,2024-02-18,Trevor Workout,1h,Bench Press (Barbell),1,97.04,5,0,0,Lorem ipsum dolor sit amet,,8.3
+Trevor,2024-02-19,Trevor Workout,1h,Bench Press (Barbell),1,97.24,9,0,0,Lorem ipsum dolor sit amet,,9.8
+Trevor,2024-02-20,Trevor Workout,1h,Bench Press (Barbell),1,97.44,6,0,0,Lorem ipsum dolor sit amet,,6.3
+Trevor,2024-02-21,Trevor Workout,1h,Bench Press (Barbell),1,97.57,5,0,0,Lorem ipsum dolor sit amet,,9.6
+Trevor,2024-02-22,Trevor Workout,1h,Bench Press (Barbell),1,97.69,5,0,0,Lorem ipsum dolor sit amet,,9.6
+Trevor,2024-02-23,Trevor Workout,1h,Bench Press (Barbell),1,98.11,6,0,0,Lorem ipsum dolor sit amet,,9.9
+Trevor,2024-02-24,Trevor Workout,1h,Bench Press (Barbell),1,98.55,5,0,0,Lorem ipsum dolor sit amet,,8.3
+Trevor,2024-02-25,Trevor Workout,1h,Bench Press (Barbell),1,98.94,8,0,0,Lorem ipsum dolor sit amet,,9.7
+Trevor,2024-02-26,Trevor Workout,1h,Bench Press (Barbell),1,99.18,8,0,0,Lorem ipsum dolor sit amet,,6.5
+Trevor,2024-02-27,Trevor Workout,1h,Bench Press (Barbell),1,99.48,10,0,0,Lorem ipsum dolor sit amet,,9.0
+Trevor,2024-02-28,Trevor Workout,1h,Bench Press (Barbell),1,99.81,7,0,0,Lorem ipsum dolor sit amet,,9.1
+Trevor,2024-02-29,Trevor Workout,1h,Bench Press (Barbell),1,99.89,10,0,0,Lorem ipsum dolor sit amet,,7.3
+Trevor,2024-03-01,Trevor Workout,1h,Bench Press (Barbell),1,100.48,6,0,0,Lorem ipsum dolor sit amet,,9.3
+Trevor,2024-03-02,Trevor Workout,1h,Bench Press (Barbell),1,100.53,9,0,0,Lorem ipsum dolor sit amet,,6.3
+Trevor,2024-03-03,Trevor Workout,1h,Bench Press (Barbell),1,100.58,9,0,0,Lorem ipsum dolor sit amet,,8.9
+Trevor,2024-03-04,Trevor Workout,1h,Bench Press (Barbell),1,100.86,10,0,0,Lorem ipsum dolor sit amet,,9.2
+Trevor,2024-03-05,Trevor Workout,1h,Bench Press (Barbell),1,101.03,5,0,0,Lorem ipsum dolor sit amet,,9.7
+Trevor,2024-03-06,Trevor Workout,1h,Bench Press (Barbell),1,101.35,10,0,0,Lorem ipsum dolor sit amet,,9.8
+Trevor,2024-03-07,Trevor Workout,1h,Bench Press (Barbell),1,101.73,6,0,0,Lorem ipsum dolor sit amet,,6.3
+Trevor,2024-03-08,Trevor Workout,1h,Bench Press (Barbell),1,101.87,5,0,0,Lorem ipsum dolor sit amet,,8.0
+Trevor,2024-03-09,Trevor Workout,1h,Bench Press (Barbell),1,102.43,7,0,0,Lorem ipsum dolor sit amet,,7.0
+Trevor,2024-03-10,Trevor Workout,1h,Bench Press (Barbell),1,102.69,5,0,0,Lorem ipsum dolor sit amet,,7.8
+Trevor,2024-03-11,Trevor Workout,1h,Bench Press (Barbell),1,103.03,5,0,0,Lorem ipsum dolor sit amet,,9.2
+Trevor,2024-03-12,Trevor Workout,1h,Bench Press (Barbell),1,103.21,6,0,0,Lorem ipsum dolor sit amet,,9.0
+Trevor,2024-03-13,Trevor Workout,1h,Bench Press (Barbell),1,103.92,5,0,0,Lorem ipsum dolor sit amet,,6.2
+Trevor,2024-03-14,Trevor Workout,1h,Bench Press (Barbell),1,104.07,6,0,0,Lorem ipsum dolor sit amet,,8.9
+Trevor,2024-03-15,Trevor Workout,1h,Bench Press (Barbell),1,104.58,8,0,0,Lorem ipsum dolor sit amet,,7.9
+Trevor,2024-03-16,Trevor Workout,1h,Bench Press (Barbell),1,104.84,6,0,0,Lorem ipsum dolor sit amet,,9.7
+Trevor,2024-03-17,Trevor Workout,1h,Bench Press (Barbell),1,105.02,6,0,0,Lorem ipsum dolor sit amet,,9.1
+Trevor,2024-03-18,Trevor Workout,1h,Bench Press (Barbell),1,105.37,10,0,0,Lorem ipsum dolor sit amet,,9.2
+Trevor,2024-03-19,Trevor Workout,1h,Bench Press (Barbell),1,105.91,9,0,0,Lorem ipsum dolor sit amet,,6.9
+Trevor,2024-03-20,Trevor Workout,1h,Bench Press (Barbell),1,106.35,6,0,0,Lorem ipsum dolor sit amet,,9.7
+Trevor,2024-03-21,Trevor Workout,1h,Bench Press (Barbell),1,106.58,7,0,0,Lorem ipsum dolor sit amet,,6.4
+Trevor,2024-03-22,Trevor Workout,1h,Bench Press (Barbell),1,106.86,6,0,0,Lorem ipsum dolor sit amet,,7.7
+Trevor,2024-03-23,Trevor Workout,1h,Bench Press (Barbell),1,107.15,7,0,0,Lorem ipsum dolor sit amet,,7.3
+Trevor,2024-03-24,Trevor Workout,1h,Bench Press (Barbell),1,107.13,10,0,0,Lorem ipsum dolor sit amet,,7.2
+Trevor,2024-03-25,Trevor Workout,1h,Bench Press (Barbell),1,107.32,6,0,0,Lorem ipsum dolor sit amet,,7.3
+Trevor,2024-03-26,Trevor Workout,1h,Bench Press (Barbell),1,107.54,10,0,0,Lorem ipsum dolor sit amet,,7.8
+Trevor,2024-03-27,Trevor Workout,1h,Bench Press (Barbell),1,107.65,10,0,0,Lorem ipsum dolor sit amet,,9.0
+Trevor,2024-03-28,Trevor Workout,1h,Bench Press (Barbell),1,107.89,8,0,0,Lorem ipsum dolor sit amet,,8.1
+Trevor,2024-03-29,Trevor Workout,1h,Bench Press (Barbell),1,108.18,8,0,0,Lorem ipsum dolor sit amet,,8.1
+Trevor,2024-03-30,Trevor Workout,1h,Bench Press (Barbell),1,108.16,6,0,0,Lorem ipsum dolor sit amet,,8.6
+Trevor,2024-01-01,Trevor Workout,1h,Deadlift (Barbell),1,62.11,8,0,0,Lorem ipsum dolor sit amet,,9.5
+Trevor,2024-01-02,Trevor Workout,1h,Deadlift (Barbell),1,62.3,7,0,0,Lorem ipsum dolor sit amet,,8.5
+Trevor,2024-01-03,Trevor Workout,1h,Deadlift (Barbell),1,62.65,5,0,0,Lorem ipsum dolor sit amet,,9.2
+Trevor,2024-01-04,Trevor Workout,1h,Deadlift (Barbell),1,62.81,5,0,0,Lorem ipsum dolor sit amet,,7.6
+Trevor,2024-01-05,Trevor Workout,1h,Deadlift (Barbell),1,62.97,7,0,0,Lorem ipsum dolor sit amet,,9.6
+Trevor,2024-01-06,Trevor Workout,1h,Deadlift (Barbell),1,62.99,9,0,0,Lorem ipsum dolor sit amet,,6.7
+Trevor,2024-01-07,Trevor Workout,1h,Deadlift (Barbell),1,63.34,7,0,0,Lorem ipsum dolor sit amet,,9.8
+Trevor,2024-01-08,Trevor Workout,1h,Deadlift (Barbell),1,63.59,6,0,0,Lorem ipsum dolor sit amet,,9.9
+Trevor,2024-01-09,Trevor Workout,1h,Deadlift (Barbell),1,63.89,5,0,0,Lorem ipsum dolor sit amet,,8.9
+Trevor,2024-01-10,Trevor Workout,1h,Deadlift (Barbell),1,64.14,8,0,0,Lorem ipsum dolor sit amet,,9.2
+Trevor,2024-01-11,Trevor Workout,1h,Deadlift (Barbell),1,64.36,7,0,0,Lorem ipsum dolor sit amet,,9.3
+Trevor,2024-01-12,Trevor Workout,1h,Deadlift (Barbell),1,64.48,9,0,0,Lorem ipsum dolor sit amet,,7.4
+Trevor,2024-01-13,Trevor Workout,1h,Deadlift (Barbell),1,64.67,5,0,0,Lorem ipsum dolor sit amet,,8.2
+Trevor,2024-01-14,Trevor Workout,1h,Deadlift (Barbell),1,65.0,8,0,0,Lorem ipsum dolor sit amet,,7.4
+Trevor,2024-01-15,Trevor Workout,1h,Deadlift (Barbell),1,65.27,7,0,0,Lorem ipsum dolor sit amet,,7.5
+Trevor,2024-01-16,Trevor Workout,1h,Deadlift (Barbell),1,65.46,5,0,0,Lorem ipsum dolor sit amet,,8.6
+Trevor,2024-01-17,Trevor Workout,1h,Deadlift (Barbell),1,65.71,10,0,0,Lorem ipsum dolor sit amet,,8.5
+Trevor,2024-01-18,Trevor Workout,1h,Deadlift (Barbell),1,66.23,10,0,0,Lorem ipsum dolor sit amet,,9.0
+Trevor,2024-01-19,Trevor Workout,1h,Deadlift (Barbell),1,66.37,8,0,0,Lorem ipsum dolor sit amet,,8.2
+Trevor,2024-01-20,Trevor Workout,1h,Deadlift (Barbell),1,66.76,10,0,0,Lorem ipsum dolor sit amet,,10.0
+Trevor,2024-01-21,Trevor Workout,1h,Deadlift (Barbell),1,67.15,9,0,0,Lorem ipsum dolor sit amet,,7.5
+Trevor,2024-01-22,Trevor Workout,1h,Deadlift (Barbell),1,67.1,10,0,0,Lorem ipsum dolor sit amet,,8.3
+Trevor,2024-01-23,Trevor Workout,1h,Deadlift (Barbell),1,67.2,7,0,0,Lorem ipsum dolor sit amet,,10.0
+Trevor,2024-01-24,Trevor Workout,1h,Deadlift (Barbell),1,67.49,6,0,0,Lorem ipsum dolor sit amet,,7.3
+Trevor,2024-01-25,Trevor Workout,1h,Deadlift (Barbell),1,67.69,5,0,0,Lorem ipsum dolor sit amet,,9.9
+Trevor,2024-01-26,Trevor Workout,1h,Deadlift (Barbell),1,67.95,6,0,0,Lorem ipsum dolor sit amet,,9.6
+Trevor,2024-01-27,Trevor Workout,1h,Deadlift (Barbell),1,68.27,6,0,0,Lorem ipsum dolor sit amet,,7.8
+Trevor,2024-01-28,Trevor Workout,1h,Deadlift (Barbell),1,68.42,6,0,0,Lorem ipsum dolor sit amet,,8.7
+Trevor,2024-01-29,Trevor Workout,1h,Deadlift (Barbell),1,68.81,5,0,0,Lorem ipsum dolor sit amet,,7.8
+Trevor,2024-01-30,Trevor Workout,1h,Deadlift (Barbell),1,69.04,10,0,0,Lorem ipsum dolor sit amet,,8.9
+Trevor,2024-01-31,Trevor Workout,1h,Deadlift (Barbell),1,69.45,7,0,0,Lorem ipsum dolor sit amet,,8.4
+Trevor,2024-02-01,Trevor Workout,1h,Deadlift (Barbell),1,69.61,9,0,0,Lorem ipsum dolor sit amet,,8.8
+Trevor,2024-02-02,Trevor Workout,1h,Deadlift (Barbell),1,69.8,10,0,0,Lorem ipsum dolor sit amet,,6.4
+Trevor,2024-02-03,Trevor Workout,1h,Deadlift (Barbell),1,70.05,5,0,0,Lorem ipsum dolor sit amet,,9.2
+Trevor,2024-02-04,Trevor Workout,1h,Deadlift (Barbell),1,70.36,8,0,0,Lorem ipsum dolor sit amet,,7.0
+Trevor,2024-02-05,Trevor Workout,1h,Deadlift (Barbell),1,70.91,8,0,0,Lorem ipsum dolor sit amet,,6.7
+Trevor,2024-02-06,Trevor Workout,1h,Deadlift (Barbell),1,71.14,9,0,0,Lorem ipsum dolor sit amet,,6.5
+Trevor,2024-02-07,Trevor Workout,1h,Deadlift (Barbell),1,71.42,8,0,0,Lorem ipsum dolor sit amet,,8.3
+Trevor,2024-02-08,Trevor Workout,1h,Deadlift (Barbell),1,71.77,9,0,0,Lorem ipsum dolor sit amet,,6.3
+Trevor,2024-02-09,Trevor Workout,1h,Deadlift (Barbell),1,72.32,10,0,0,Lorem ipsum dolor sit amet,,7.8
+Trevor,2024-02-10,Trevor Workout,1h,Deadlift (Barbell),1,72.43,6,0,0,Lorem ipsum dolor sit amet,,6.8
+Trevor,2024-02-11,Trevor Workout,1h,Deadlift (Barbell),1,72.89,6,0,0,Lorem ipsum dolor sit amet,,7.5
+Trevor,2024-02-12,Trevor Workout,1h,Deadlift (Barbell),1,73.09,9,0,0,Lorem ipsum dolor sit amet,,6.1
+Trevor,2024-02-13,Trevor Workout,1h,Deadlift (Barbell),1,73.46,8,0,0,Lorem ipsum dolor sit amet,,9.3
+Trevor,2024-02-14,Trevor Workout,1h,Deadlift (Barbell),1,73.52,8,0,0,Lorem ipsum dolor sit amet,,9.5
+Trevor,2024-02-15,Trevor Workout,1h,Deadlift (Barbell),1,73.8,7,0,0,Lorem ipsum dolor sit amet,,6.2
+Trevor,2024-02-16,Trevor Workout,1h,Deadlift (Barbell),1,74.12,7,0,0,Lorem ipsum dolor sit amet,,6.6
+Trevor,2024-02-17,Trevor Workout,1h,Deadlift (Barbell),1,74.34,6,0,0,Lorem ipsum dolor sit amet,,6.2
+Trevor,2024-02-18,Trevor Workout,1h,Deadlift (Barbell),1,74.82,5,0,0,Lorem ipsum dolor sit amet,,6.3
+Trevor,2024-02-19,Trevor Workout,1h,Deadlift (Barbell),1,75.46,6,0,0,Lorem ipsum dolor sit amet,,7.2
+Trevor,2024-02-20,Trevor Workout,1h,Deadlift (Barbell),1,76.06,10,0,0,Lorem ipsum dolor sit amet,,6.7
+Trevor,2024-02-21,Trevor Workout,1h,Deadlift (Barbell),1,76.29,9,0,0,Lorem ipsum dolor sit amet,,8.9
+Trevor,2024-02-22,Trevor Workout,1h,Deadlift (Barbell),1,76.37,9,0,0,Lorem ipsum dolor sit amet,,9.3
+Trevor,2024-02-23,Trevor Workout,1h,Deadlift (Barbell),1,76.6,7,0,0,Lorem ipsum dolor sit amet,,8.5
+Trevor,2024-02-24,Trevor Workout,1h,Deadlift (Barbell),1,77.21,7,0,0,Lorem ipsum dolor sit amet,,7.1
+Trevor,2024-02-25,Trevor Workout,1h,Deadlift (Barbell),1,77.58,9,0,0,Lorem ipsum dolor sit amet,,9.3
+Trevor,2024-02-26,Trevor Workout,1h,Deadlift (Barbell),1,78.05,5,0,0,Lorem ipsum dolor sit amet,,7.9
+Trevor,2024-02-27,Trevor Workout,1h,Deadlift (Barbell),1,78.43,7,0,0,Lorem ipsum dolor sit amet,,8.1
+Trevor,2024-02-28,Trevor Workout,1h,Deadlift (Barbell),1,78.71,6,0,0,Lorem ipsum dolor sit amet,,8.8
+Trevor,2024-02-29,Trevor Workout,1h,Deadlift (Barbell),1,78.88,10,0,0,Lorem ipsum dolor sit amet,,8.3
+Trevor,2024-03-01,Trevor Workout,1h,Deadlift (Barbell),1,79.18,10,0,0,Lorem ipsum dolor sit amet,,8.6
+Trevor,2024-03-02,Trevor Workout,1h,Deadlift (Barbell),1,79.55,10,0,0,Lorem ipsum dolor sit amet,,9.6
+Trevor,2024-03-03,Trevor Workout,1h,Deadlift (Barbell),1,80.04,10,0,0,Lorem ipsum dolor sit amet,,7.2
+Trevor,2024-03-04,Trevor Workout,1h,Deadlift (Barbell),1,80.54,9,0,0,Lorem ipsum dolor sit amet,,7.7
+Trevor,2024-03-05,Trevor Workout,1h,Deadlift (Barbell),1,80.87,9,0,0,Lorem ipsum dolor sit amet,,7.0
+Trevor,2024-03-06,Trevor Workout,1h,Deadlift (Barbell),1,81.28,9,0,0,Lorem ipsum dolor sit amet,,8.6
+Trevor,2024-03-07,Trevor Workout,1h,Deadlift (Barbell),1,81.6,8,0,0,Lorem ipsum dolor sit amet,,7.8
+Trevor,2024-03-08,Trevor Workout,1h,Deadlift (Barbell),1,81.78,7,0,0,Lorem ipsum dolor sit amet,,8.6
+Trevor,2024-03-09,Trevor Workout,1h,Deadlift (Barbell),1,82.23,7,0,0,Lorem ipsum dolor sit amet,,6.5
+Trevor,2024-03-10,Trevor Workout,1h,Deadlift (Barbell),1,82.78,5,0,0,Lorem ipsum dolor sit amet,,8.0
+Trevor,2024-03-11,Trevor Workout,1h,Deadlift (Barbell),1,83.3,5,0,0,Lorem ipsum dolor sit amet,,7.6
+Trevor,2024-03-12,Trevor Workout,1h,Deadlift (Barbell),1,84.02,6,0,0,Lorem ipsum dolor sit amet,,8.8
+Trevor,2024-03-13,Trevor Workout,1h,Deadlift (Barbell),1,84.26,6,0,0,Lorem ipsum dolor sit amet,,7.6
+Trevor,2024-03-14,Trevor Workout,1h,Deadlift (Barbell),1,84.7,10,0,0,Lorem ipsum dolor sit amet,,8.2
+Trevor,2024-03-15,Trevor Workout,1h,Deadlift (Barbell),1,85.28,9,0,0,Lorem ipsum dolor sit amet,,6.4
+Trevor,2024-03-16,Trevor Workout,1h,Deadlift (Barbell),1,85.39,10,0,0,Lorem ipsum dolor sit amet,,6.6
+Trevor,2024-03-17,Trevor Workout,1h,Deadlift (Barbell),1,85.94,10,0,0,Lorem ipsum dolor sit amet,,9.2
+Trevor,2024-03-18,Trevor Workout,1h,Deadlift (Barbell),1,86.5,9,0,0,Lorem ipsum dolor sit amet,,6.9
+Trevor,2024-03-19,Trevor Workout,1h,Deadlift (Barbell),1,87.27,8,0,0,Lorem ipsum dolor sit amet,,8.6
+Trevor,2024-03-20,Trevor Workout,1h,Deadlift (Barbell),1,87.59,7,0,0,Lorem ipsum dolor sit amet,,7.0
+Trevor,2024-03-21,Trevor Workout,1h,Deadlift (Barbell),1,88.25,9,0,0,Lorem ipsum dolor sit amet,,6.1
+Trevor,2024-03-22,Trevor Workout,1h,Deadlift (Barbell),1,88.79,5,0,0,Lorem ipsum dolor sit amet,,9.6
+Trevor,2024-03-23,Trevor Workout,1h,Deadlift (Barbell),1,89.32,9,0,0,Lorem ipsum dolor sit amet,,8.5
+Trevor,2024-03-24,Trevor Workout,1h,Deadlift (Barbell),1,89.65,5,0,0,Lorem ipsum dolor sit amet,,9.3
+Trevor,2024-03-25,Trevor Workout,1h,Deadlift (Barbell),1,90.17,9,0,0,Lorem ipsum dolor sit amet,,8.4
+Trevor,2024-03-26,Trevor Workout,1h,Deadlift (Barbell),1,90.57,7,0,0,Lorem ipsum dolor sit amet,,8.9
+Trevor,2024-03-27,Trevor Workout,1h,Deadlift (Barbell),1,91.24,6,0,0,Lorem ipsum dolor sit amet,,7.1
+Trevor,2024-03-28,Trevor Workout,1h,Deadlift (Barbell),1,91.76,9,0,0,Lorem ipsum dolor sit amet,,9.6
+Trevor,2024-03-29,Trevor Workout,1h,Deadlift (Barbell),1,92.28,7,0,0,Lorem ipsum dolor sit amet,,8.8
+Trevor,2024-03-30,Trevor Workout,1h,Deadlift (Barbell),1,93.0,9,0,0,Lorem ipsum dolor sit amet,,9.9
+Trevor,2024-01-01,Trevor Workout,1h,Squat (Barbell),1,95.05,6,0,0,Lorem ipsum dolor sit amet,,9.1
+Trevor,2024-01-02,Trevor Workout,1h,Squat (Barbell),1,95.79,10,0,0,Lorem ipsum dolor sit amet,,7.8
+Trevor,2024-01-03,Trevor Workout,1h,Squat (Barbell),1,96.34,8,0,0,Lorem ipsum dolor sit amet,,6.3
+Trevor,2024-01-04,Trevor Workout,1h,Squat (Barbell),1,96.7,8,0,0,Lorem ipsum dolor sit amet,,6.2
+Trevor,2024-01-05,Trevor Workout,1h,Squat (Barbell),1,97.17,5,0,0,Lorem ipsum dolor sit amet,,7.0
+Trevor,2024-01-06,Trevor Workout,1h,Squat (Barbell),1,97.55,7,0,0,Lorem ipsum dolor sit amet,,9.8
+Trevor,2024-01-07,Trevor Workout,1h,Squat (Barbell),1,97.95,5,0,0,Lorem ipsum dolor sit amet,,6.5
+Trevor,2024-01-08,Trevor Workout,1h,Squat (Barbell),1,98.35,6,0,0,Lorem ipsum dolor sit amet,,7.1
+Trevor,2024-01-09,Trevor Workout,1h,Squat (Barbell),1,98.83,9,0,0,Lorem ipsum dolor sit amet,,8.9
+Trevor,2024-01-10,Trevor Workout,1h,Squat (Barbell),1,99.38,9,0,0,Lorem ipsum dolor sit amet,,8.0
+Trevor,2024-01-11,Trevor Workout,1h,Squat (Barbell),1,99.71,7,0,0,Lorem ipsum dolor sit amet,,7.7
+Trevor,2024-01-12,Trevor Workout,1h,Squat (Barbell),1,100.18,5,0,0,Lorem ipsum dolor sit amet,,9.2
+Trevor,2024-01-13,Trevor Workout,1h,Squat (Barbell),1,100.59,8,0,0,Lorem ipsum dolor sit amet,,9.3
+Trevor,2024-01-14,Trevor Workout,1h,Squat (Barbell),1,101.09,10,0,0,Lorem ipsum dolor sit amet,,9.4
+Trevor,2024-01-15,Trevor Workout,1h,Squat (Barbell),1,101.76,5,0,0,Lorem ipsum dolor sit amet,,7.1
+Trevor,2024-01-16,Trevor Workout,1h,Squat (Barbell),1,102.22,9,0,0,Lorem ipsum dolor sit amet,,6.1
+Trevor,2024-01-17,Trevor Workout,1h,Squat (Barbell),1,102.92,9,0,0,Lorem ipsum dolor sit amet,,6.5
+Trevor,2024-01-18,Trevor Workout,1h,Squat (Barbell),1,103.35,7,0,0,Lorem ipsum dolor sit amet,,8.4
+Trevor,2024-01-19,Trevor Workout,1h,Squat (Barbell),1,103.88,7,0,0,Lorem ipsum dolor sit amet,,6.8
+Trevor,2024-01-20,Trevor Workout,1h,Squat (Barbell),1,104.45,9,0,0,Lorem ipsum dolor sit amet,,9.5
+Trevor,2024-01-21,Trevor Workout,1h,Squat (Barbell),1,105.19,6,0,0,Lorem ipsum dolor sit amet,,7.3
+Trevor,2024-01-22,Trevor Workout,1h,Squat (Barbell),1,105.81,7,0,0,Lorem ipsum dolor sit amet,,7.8
+Trevor,2024-01-23,Trevor Workout,1h,Squat (Barbell),1,106.36,9,0,0,Lorem ipsum dolor sit amet,,7.2
+Trevor,2024-01-24,Trevor Workout,1h,Squat (Barbell),1,106.79,6,0,0,Lorem ipsum dolor sit amet,,7.6
+Trevor,2024-01-25,Trevor Workout,1h,Squat (Barbell),1,107.42,6,0,0,Lorem ipsum dolor sit amet,,8.7
+Trevor,2024-01-26,Trevor Workout,1h,Squat (Barbell),1,107.97,8,0,0,Lorem ipsum dolor sit amet,,7.3
+Trevor,2024-01-27,Trevor Workout,1h,Squat (Barbell),1,108.6,7,0,0,Lorem ipsum dolor sit amet,,7.4
+Trevor,2024-01-28,Trevor Workout,1h,Squat (Barbell),1,109.51,9,0,0,Lorem ipsum dolor sit amet,,6.5
+Trevor,2024-01-29,Trevor Workout,1h,Squat (Barbell),1,109.98,9,0,0,Lorem ipsum dolor sit amet,,7.7
+Trevor,2024-01-30,Trevor Workout,1h,Squat (Barbell),1,110.76,8,0,0,Lorem ipsum dolor sit amet,,7.2
+Trevor,2024-01-31,Trevor Workout,1h,Squat (Barbell),1,111.39,6,0,0,Lorem ipsum dolor sit amet,,9.6
+Trevor,2024-02-01,Trevor Workout,1h,Squat (Barbell),1,112.0,10,0,0,Lorem ipsum dolor sit amet,,7.6
+Trevor,2024-02-02,Trevor Workout,1h,Squat (Barbell),1,112.41,5,0,0,Lorem ipsum dolor sit amet,,6.8
+Trevor,2024-02-03,Trevor Workout,1h,Squat (Barbell),1,112.99,7,0,0,Lorem ipsum dolor sit amet,,8.7
+Trevor,2024-02-04,Trevor Workout,1h,Squat (Barbell),1,113.57,9,0,0,Lorem ipsum dolor sit amet,,9.7
+Trevor,2024-02-05,Trevor Workout,1h,Squat (Barbell),1,114.02,10,0,0,Lorem ipsum dolor sit amet,,6.3
+Trevor,2024-02-06,Trevor Workout,1h,Squat (Barbell),1,114.74,7,0,0,Lorem ipsum dolor sit amet,,6.5
+Trevor,2024-02-07,Trevor Workout,1h,Squat (Barbell),1,115.13,5,0,0,Lorem ipsum dolor sit amet,,8.0
+Trevor,2024-02-08,Trevor Workout,1h,Squat (Barbell),1,115.83,8,0,0,Lorem ipsum dolor sit amet,,8.1
+Trevor,2024-02-09,Trevor Workout,1h,Squat (Barbell),1,116.53,7,0,0,Lorem ipsum dolor sit amet,,6.2
+Trevor,2024-02-10,Trevor Workout,1h,Squat (Barbell),1,117.34,6,0,0,Lorem ipsum dolor sit amet,,9.7
+Trevor,2024-02-11,Trevor Workout,1h,Squat (Barbell),1,118.27,5,0,0,Lorem ipsum dolor sit amet,,7.6
+Trevor,2024-02-12,Trevor Workout,1h,Squat (Barbell),1,118.72,6,0,0,Lorem ipsum dolor sit amet,,9.0
+Trevor,2024-02-13,Trevor Workout,1h,Squat (Barbell),1,119.42,8,0,0,Lorem ipsum dolor sit amet,,7.2
+Trevor,2024-02-14,Trevor Workout,1h,Squat (Barbell),1,120.34,10,0,0,Lorem ipsum dolor sit amet,,8.7
+Trevor,2024-02-15,Trevor Workout,1h,Squat (Barbell),1,121.16,8,0,0,Lorem ipsum dolor sit amet,,6.5
+Trevor,2024-02-16,Trevor Workout,1h,Squat (Barbell),1,122.07,10,0,0,Lorem ipsum dolor sit amet,,9.5
+Trevor,2024-02-17,Trevor Workout,1h,Squat (Barbell),1,122.29,7,0,0,Lorem ipsum dolor sit amet,,6.6
+Trevor,2024-02-18,Trevor Workout,1h,Squat (Barbell),1,123.19,9,0,0,Lorem ipsum dolor sit amet,,9.9
+Trevor,2024-02-19,Trevor Workout,1h,Squat (Barbell),1,124.26,5,0,0,Lorem ipsum dolor sit amet,,8.8
+Trevor,2024-02-20,Trevor Workout,1h,Squat (Barbell),1,125.15,7,0,0,Lorem ipsum dolor sit amet,,8.4
+Trevor,2024-02-21,Trevor Workout,1h,Squat (Barbell),1,125.81,10,0,0,Lorem ipsum dolor sit amet,,8.4
+Trevor,2024-02-22,Trevor Workout,1h,Squat (Barbell),1,126.57,7,0,0,Lorem ipsum dolor sit amet,,6.1
+Trevor,2024-02-23,Trevor Workout,1h,Squat (Barbell),1,127.58,10,0,0,Lorem ipsum dolor sit amet,,7.7
+Trevor,2024-02-24,Trevor Workout,1h,Squat (Barbell),1,128.42,10,0,0,Lorem ipsum dolor sit amet,,8.8
+Trevor,2024-02-25,Trevor Workout,1h,Squat (Barbell),1,129.19,5,0,0,Lorem ipsum dolor sit amet,,6.5
+Trevor,2024-02-26,Trevor Workout,1h,Squat (Barbell),1,129.73,7,0,0,Lorem ipsum dolor sit amet,,7.1
+Trevor,2024-02-27,Trevor Workout,1h,Squat (Barbell),1,130.51,7,0,0,Lorem ipsum dolor sit amet,,8.3
+Trevor,2024-02-28,Trevor Workout,1h,Squat (Barbell),1,131.33,7,0,0,Lorem ipsum dolor sit amet,,6.5
+Trevor,2024-02-29,Trevor Workout,1h,Squat (Barbell),1,132.17,5,0,0,Lorem ipsum dolor sit amet,,7.9
+Trevor,2024-03-01,Trevor Workout,1h,Squat (Barbell),1,133.04,5,0,0,Lorem ipsum dolor sit amet,,8.3
+Trevor,2024-03-02,Trevor Workout,1h,Squat (Barbell),1,133.94,7,0,0,Lorem ipsum dolor sit amet,,8.7
+Trevor,2024-03-03,Trevor Workout,1h,Squat (Barbell),1,134.7,10,0,0,Lorem ipsum dolor sit amet,,9.5
+Trevor,2024-03-04,Trevor Workout,1h,Squat (Barbell),1,135.44,5,0,0,Lorem ipsum dolor sit amet,,8.7
+Trevor,2024-03-05,Trevor Workout,1h,Squat (Barbell),1,136.12,7,0,0,Lorem ipsum dolor sit amet,,6.3
+Trevor,2024-03-06,Trevor Workout,1h,Squat (Barbell),1,137.08,10,0,0,Lorem ipsum dolor sit amet,,7.6
+Trevor,2024-03-07,Trevor Workout,1h,Squat (Barbell),1,138.02,8,0,0,Lorem ipsum dolor sit amet,,8.2
+Trevor,2024-03-08,Trevor Workout,1h,Squat (Barbell),1,139.2,8,0,0,Lorem ipsum dolor sit amet,,9.2
+Trevor,2024-03-09,Trevor Workout,1h,Squat (Barbell),1,139.95,8,0,0,Lorem ipsum dolor sit amet,,9.4
+Trevor,2024-03-10,Trevor Workout,1h,Squat (Barbell),1,140.94,10,0,0,Lorem ipsum dolor sit amet,,8.4
+Trevor,2024-03-11,Trevor Workout,1h,Squat (Barbell),1,142.01,9,0,0,Lorem ipsum dolor sit amet,,7.3
+Trevor,2024-03-12,Trevor Workout,1h,Squat (Barbell),1,142.84,9,0,0,Lorem ipsum dolor sit amet,,6.1
+Trevor,2024-03-13,Trevor Workout,1h,Squat (Barbell),1,143.54,5,0,0,Lorem ipsum dolor sit amet,,8.4
+Trevor,2024-03-14,Trevor Workout,1h,Squat (Barbell),1,144.63,5,0,0,Lorem ipsum dolor sit amet,,7.1
+Trevor,2024-03-15,Trevor Workout,1h,Squat (Barbell),1,145.39,7,0,0,Lorem ipsum dolor sit amet,,6.4
+Trevor,2024-03-16,Trevor Workout,1h,Squat (Barbell),1,146.08,9,0,0,Lorem ipsum dolor sit amet,,9.1
+Trevor,2024-03-17,Trevor Workout,1h,Squat (Barbell),1,146.75,9,0,0,Lorem ipsum dolor sit amet,,9.6
+Trevor,2024-03-18,Trevor Workout,1h,Squat (Barbell),1,147.52,5,0,0,Lorem ipsum dolor sit amet,,7.1
+Trevor,2024-03-19,Trevor Workout,1h,Squat (Barbell),1,148.64,5,0,0,Lorem ipsum dolor sit amet,,8.1
+Trevor,2024-03-20,Trevor Workout,1h,Squat (Barbell),1,149.31,8,0,0,Lorem ipsum dolor sit amet,,7.6
+Trevor,2024-03-21,Trevor Workout,1h,Squat (Barbell),1,150.22,7,0,0,Lorem ipsum dolor sit amet,,7.1
+Trevor,2024-03-22,Trevor Workout,1h,Squat (Barbell),1,150.98,8,0,0,Lorem ipsum dolor sit amet,,9.7
+Trevor,2024-03-23,Trevor Workout,1h,Squat (Barbell),1,151.8,10,0,0,Lorem ipsum dolor sit amet,,9.0
+Trevor,2024-03-24,Trevor Workout,1h,Squat (Barbell),1,152.54,5,0,0,Lorem ipsum dolor sit amet,,6.1
+Trevor,2024-03-25,Trevor Workout,1h,Squat (Barbell),1,153.32,5,0,0,Lorem ipsum dolor sit amet,,6.9
+Trevor,2024-03-26,Trevor Workout,1h,Squat (Barbell),1,154.21,5,0,0,Lorem ipsum dolor sit amet,,7.7
+Trevor,2024-03-27,Trevor Workout,1h,Squat (Barbell),1,155.07,9,0,0,Lorem ipsum dolor sit amet,,6.2
+Trevor,2024-03-28,Trevor Workout,1h,Squat (Barbell),1,155.65,5,0,0,Lorem ipsum dolor sit amet,,7.5
+Trevor,2024-03-29,Trevor Workout,1h,Squat (Barbell),1,156.93,6,0,0,Lorem ipsum dolor sit amet,,9.6
+Trevor,2024-03-30,Trevor Workout,1h,Squat (Barbell),1,157.87,6,0,0,Lorem ipsum dolor sit amet,,9.9
+Chris,2024-01-01,Chris Workout,1h,Bench Press (Barbell),1,59.29,9,0,0,Lorem ipsum dolor sit amet,,8.9
+Chris,2024-01-02,Chris Workout,1h,Bench Press (Barbell),1,59.92,7,0,0,Lorem ipsum dolor sit amet,,7.2
+Chris,2024-01-03,Chris Workout,1h,Bench Press (Barbell),1,60.31,6,0,0,Lorem ipsum dolor sit amet,,9.6
+Chris,2024-01-04,Chris Workout,1h,Bench Press (Barbell),1,60.89,8,0,0,Lorem ipsum dolor sit amet,,9.0
+Chris,2024-01-05,Chris Workout,1h,Bench Press (Barbell),1,61.26,7,0,0,Lorem ipsum dolor sit amet,,8.0
+Chris,2024-01-06,Chris Workout,1h,Bench Press (Barbell),1,61.83,7,0,0,Lorem ipsum dolor sit amet,,7.5
+Chris,2024-01-07,Chris Workout,1h,Bench Press (Barbell),1,62.16,6,0,0,Lorem ipsum dolor sit amet,,7.8
+Chris,2024-01-08,Chris Workout,1h,Bench Press (Barbell),1,62.68,9,0,0,Lorem ipsum dolor sit amet,,6.0
+Chris,2024-01-09,Chris Workout,1h,Bench Press (Barbell),1,63.17,10,0,0,Lorem ipsum dolor sit amet,,8.9
+Chris,2024-01-10,Chris Workout,1h,Bench Press (Barbell),1,63.73,10,0,0,Lorem ipsum dolor sit amet,,9.7
+Chris,2024-01-11,Chris Workout,1h,Bench Press (Barbell),1,64.19,9,0,0,Lorem ipsum dolor sit amet,,8.3
+Chris,2024-01-12,Chris Workout,1h,Bench Press (Barbell),1,64.89,9,0,0,Lorem ipsum dolor sit amet,,7.4
+Chris,2024-01-13,Chris Workout,1h,Bench Press (Barbell),1,65.23,9,0,0,Lorem ipsum dolor sit amet,,6.5
+Chris,2024-01-14,Chris Workout,1h,Bench Press (Barbell),1,65.99,6,0,0,Lorem ipsum dolor sit amet,,7.7
+Chris,2024-01-15,Chris Workout,1h,Bench Press (Barbell),1,66.38,8,0,0,Lorem ipsum dolor sit amet,,9.0
+Chris,2024-01-16,Chris Workout,1h,Bench Press (Barbell),1,66.94,7,0,0,Lorem ipsum dolor sit amet,,8.0
+Chris,2024-01-17,Chris Workout,1h,Bench Press (Barbell),1,67.58,7,0,0,Lorem ipsum dolor sit amet,,8.0
+Chris,2024-01-18,Chris Workout,1h,Bench Press (Barbell),1,68.11,8,0,0,Lorem ipsum dolor sit amet,,8.3
+Chris,2024-01-19,Chris Workout,1h,Bench Press (Barbell),1,68.76,5,0,0,Lorem ipsum dolor sit amet,,7.5
+Chris,2024-01-20,Chris Workout,1h,Bench Press (Barbell),1,69.29,6,0,0,Lorem ipsum dolor sit amet,,7.9
+Chris,2024-01-21,Chris Workout,1h,Bench Press (Barbell),1,69.76,7,0,0,Lorem ipsum dolor sit amet,,7.2
+Chris,2024-01-22,Chris Workout,1h,Bench Press (Barbell),1,70.31,9,0,0,Lorem ipsum dolor sit amet,,8.2
+Chris,2024-01-23,Chris Workout,1h,Bench Press (Barbell),1,70.68,8,0,0,Lorem ipsum dolor sit amet,,6.5
+Chris,2024-01-24,Chris Workout,1h,Bench Press (Barbell),1,71.19,5,0,0,Lorem ipsum dolor sit amet,,9.7
+Chris,2024-01-25,Chris Workout,1h,Bench Press (Barbell),1,71.83,7,0,0,Lorem ipsum dolor sit amet,,7.9
+Chris,2024-01-26,Chris Workout,1h,Bench Press (Barbell),1,72.4,6,0,0,Lorem ipsum dolor sit amet,,8.9
+Chris,2024-01-27,Chris Workout,1h,Bench Press (Barbell),1,73.02,8,0,0,Lorem ipsum dolor sit amet,,9.9
+Chris,2024-01-28,Chris Workout,1h,Bench Press (Barbell),1,73.71,10,0,0,Lorem ipsum dolor sit amet,,9.2
+Chris,2024-01-29,Chris Workout,1h,Bench Press (Barbell),1,74.19,7,0,0,Lorem ipsum dolor sit amet,,9.7
+Chris,2024-01-30,Chris Workout,1h,Bench Press (Barbell),1,74.94,9,0,0,Lorem ipsum dolor sit amet,,7.1
+Chris,2024-01-31,Chris Workout,1h,Bench Press (Barbell),1,75.42,8,0,0,Lorem ipsum dolor sit amet,,8.1
+Chris,2024-02-01,Chris Workout,1h,Bench Press (Barbell),1,76.27,7,0,0,Lorem ipsum dolor sit amet,,7.0
+Chris,2024-02-02,Chris Workout,1h,Bench Press (Barbell),1,76.94,8,0,0,Lorem ipsum dolor sit amet,,6.9
+Chris,2024-02-03,Chris Workout,1h,Bench Press (Barbell),1,77.86,5,0,0,Lorem ipsum dolor sit amet,,6.4
+Chris,2024-02-04,Chris Workout,1h,Bench Press (Barbell),1,78.66,6,0,0,Lorem ipsum dolor sit amet,,8.2
+Chris,2024-02-05,Chris Workout,1h,Bench Press (Barbell),1,79.26,10,0,0,Lorem ipsum dolor sit amet,,6.1
+Chris,2024-02-06,Chris Workout,1h,Bench Press (Barbell),1,80.01,6,0,0,Lorem ipsum dolor sit amet,,7.6
+Chris,2024-02-07,Chris Workout,1h,Bench Press (Barbell),1,80.58,5,0,0,Lorem ipsum dolor sit amet,,9.2
+Chris,2024-02-08,Chris Workout,1h,Bench Press (Barbell),1,81.18,9,0,0,Lorem ipsum dolor sit amet,,6.4
+Chris,2024-02-09,Chris Workout,1h,Bench Press (Barbell),1,81.97,8,0,0,Lorem ipsum dolor sit amet,,9.5
+Chris,2024-02-10,Chris Workout,1h,Bench Press (Barbell),1,82.35,6,0,0,Lorem ipsum dolor sit amet,,6.1
+Chris,2024-02-11,Chris Workout,1h,Bench Press (Barbell),1,82.87,8,0,0,Lorem ipsum dolor sit amet,,9.7
+Chris,2024-02-12,Chris Workout,1h,Bench Press (Barbell),1,83.58,9,0,0,Lorem ipsum dolor sit amet,,8.2
+Chris,2024-02-13,Chris Workout,1h,Bench Press (Barbell),1,84.4,8,0,0,Lorem ipsum dolor sit amet,,8.1
+Chris,2024-02-14,Chris Workout,1h,Bench Press (Barbell),1,85.09,6,0,0,Lorem ipsum dolor sit amet,,9.0
+Chris,2024-02-15,Chris Workout,1h,Bench Press (Barbell),1,85.87,7,0,0,Lorem ipsum dolor sit amet,,9.5
+Chris,2024-02-16,Chris Workout,1h,Bench Press (Barbell),1,86.37,9,0,0,Lorem ipsum dolor sit amet,,6.3
+Chris,2024-02-17,Chris Workout,1h,Bench Press (Barbell),1,87.07,6,0,0,Lorem ipsum dolor sit amet,,9.1
+Chris,2024-02-18,Chris Workout,1h,Bench Press (Barbell),1,87.67,8,0,0,Lorem ipsum dolor sit amet,,6.2
+Chris,2024-02-19,Chris Workout,1h,Bench Press (Barbell),1,88.65,10,0,0,Lorem ipsum dolor sit amet,,7.5
+Chris,2024-02-20,Chris Workout,1h,Bench Press (Barbell),1,89.59,7,0,0,Lorem ipsum dolor sit amet,,6.6
+Chris,2024-02-21,Chris Workout,1h,Bench Press (Barbell),1,90.09,8,0,0,Lorem ipsum dolor sit amet,,8.0
+Chris,2024-02-22,Chris Workout,1h,Bench Press (Barbell),1,90.77,8,0,0,Lorem ipsum dolor sit amet,,6.4
+Chris,2024-02-23,Chris Workout,1h,Bench Press (Barbell),1,91.54,9,0,0,Lorem ipsum dolor sit amet,,7.3
+Chris,2024-02-24,Chris Workout,1h,Bench Press (Barbell),1,92.31,5,0,0,Lorem ipsum dolor sit amet,,6.9
+Chris,2024-02-25,Chris Workout,1h,Bench Press (Barbell),1,92.97,9,0,0,Lorem ipsum dolor sit amet,,8.0
+Chris,2024-02-26,Chris Workout,1h,Bench Press (Barbell),1,93.54,5,0,0,Lorem ipsum dolor sit amet,,9.2
+Chris,2024-02-27,Chris Workout,1h,Bench Press (Barbell),1,94.33,9,0,0,Lorem ipsum dolor sit amet,,7.9
+Chris,2024-02-28,Chris Workout,1h,Bench Press (Barbell),1,94.95,9,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-02-29,Chris Workout,1h,Bench Press (Barbell),1,95.64,10,0,0,Lorem ipsum dolor sit amet,,9.7
+Chris,2024-03-01,Chris Workout,1h,Bench Press (Barbell),1,96.38,6,0,0,Lorem ipsum dolor sit amet,,9.2
+Chris,2024-03-02,Chris Workout,1h,Bench Press (Barbell),1,97.35,7,0,0,Lorem ipsum dolor sit amet,,8.7
+Chris,2024-03-03,Chris Workout,1h,Bench Press (Barbell),1,98.1,8,0,0,Lorem ipsum dolor sit amet,,9.3
+Chris,2024-03-04,Chris Workout,1h,Bench Press (Barbell),1,98.98,8,0,0,Lorem ipsum dolor sit amet,,7.7
+Chris,2024-03-05,Chris Workout,1h,Bench Press (Barbell),1,99.77,5,0,0,Lorem ipsum dolor sit amet,,7.2
+Chris,2024-03-06,Chris Workout,1h,Bench Press (Barbell),1,100.79,8,0,0,Lorem ipsum dolor sit amet,,8.3
+Chris,2024-03-07,Chris Workout,1h,Bench Press (Barbell),1,101.28,10,0,0,Lorem ipsum dolor sit amet,,6.5
+Chris,2024-03-08,Chris Workout,1h,Bench Press (Barbell),1,102.03,8,0,0,Lorem ipsum dolor sit amet,,9.5
+Chris,2024-03-09,Chris Workout,1h,Bench Press (Barbell),1,102.94,7,0,0,Lorem ipsum dolor sit amet,,6.5
+Chris,2024-03-10,Chris Workout,1h,Bench Press (Barbell),1,103.6,6,0,0,Lorem ipsum dolor sit amet,,6.5
+Chris,2024-03-11,Chris Workout,1h,Bench Press (Barbell),1,104.37,8,0,0,Lorem ipsum dolor sit amet,,7.9
+Chris,2024-03-12,Chris Workout,1h,Bench Press (Barbell),1,104.89,6,0,0,Lorem ipsum dolor sit amet,,9.7
+Chris,2024-03-13,Chris Workout,1h,Bench Press (Barbell),1,105.62,5,0,0,Lorem ipsum dolor sit amet,,6.3
+Chris,2024-03-14,Chris Workout,1h,Bench Press (Barbell),1,106.54,5,0,0,Lorem ipsum dolor sit amet,,6.9
+Chris,2024-03-15,Chris Workout,1h,Bench Press (Barbell),1,107.32,5,0,0,Lorem ipsum dolor sit amet,,10.0
+Chris,2024-03-16,Chris Workout,1h,Bench Press (Barbell),1,108.27,7,0,0,Lorem ipsum dolor sit amet,,8.1
+Chris,2024-03-17,Chris Workout,1h,Bench Press (Barbell),1,108.79,5,0,0,Lorem ipsum dolor sit amet,,6.3
+Chris,2024-03-18,Chris Workout,1h,Bench Press (Barbell),1,109.48,8,0,0,Lorem ipsum dolor sit amet,,9.1
+Chris,2024-03-19,Chris Workout,1h,Bench Press (Barbell),1,110.55,8,0,0,Lorem ipsum dolor sit amet,,8.5
+Chris,2024-03-20,Chris Workout,1h,Bench Press (Barbell),1,111.25,10,0,0,Lorem ipsum dolor sit amet,,7.4
+Chris,2024-03-21,Chris Workout,1h,Bench Press (Barbell),1,112.19,5,0,0,Lorem ipsum dolor sit amet,,6.2
+Chris,2024-03-22,Chris Workout,1h,Bench Press (Barbell),1,113.27,10,0,0,Lorem ipsum dolor sit amet,,8.9
+Chris,2024-03-23,Chris Workout,1h,Bench Press (Barbell),1,114.32,5,0,0,Lorem ipsum dolor sit amet,,6.2
+Chris,2024-03-24,Chris Workout,1h,Bench Press (Barbell),1,114.99,6,0,0,Lorem ipsum dolor sit amet,,6.3
+Chris,2024-03-25,Chris Workout,1h,Bench Press (Barbell),1,116.1,7,0,0,Lorem ipsum dolor sit amet,,7.0
+Chris,2024-03-26,Chris Workout,1h,Bench Press (Barbell),1,116.98,9,0,0,Lorem ipsum dolor sit amet,,7.0
+Chris,2024-03-27,Chris Workout,1h,Bench Press (Barbell),1,117.79,9,0,0,Lorem ipsum dolor sit amet,,8.4
+Chris,2024-03-28,Chris Workout,1h,Bench Press (Barbell),1,118.84,9,0,0,Lorem ipsum dolor sit amet,,8.0
+Chris,2024-03-29,Chris Workout,1h,Bench Press (Barbell),1,119.72,6,0,0,Lorem ipsum dolor sit amet,,6.2
+Chris,2024-03-30,Chris Workout,1h,Bench Press (Barbell),1,120.91,8,0,0,Lorem ipsum dolor sit amet,,6.9
+Chris,2024-01-01,Chris Workout,1h,Deadlift (Barbell),1,93.21,7,0,0,Lorem ipsum dolor sit amet,,7.5
+Chris,2024-01-02,Chris Workout,1h,Deadlift (Barbell),1,93.44,5,0,0,Lorem ipsum dolor sit amet,,6.6
+Chris,2024-01-03,Chris Workout,1h,Deadlift (Barbell),1,93.77,7,0,0,Lorem ipsum dolor sit amet,,8.1
+Chris,2024-01-04,Chris Workout,1h,Deadlift (Barbell),1,94.0,7,0,0,Lorem ipsum dolor sit amet,,7.2
+Chris,2024-01-05,Chris Workout,1h,Deadlift (Barbell),1,94.23,10,0,0,Lorem ipsum dolor sit amet,,8.3
+Chris,2024-01-06,Chris Workout,1h,Deadlift (Barbell),1,94.43,8,0,0,Lorem ipsum dolor sit amet,,6.9
+Chris,2024-01-07,Chris Workout,1h,Deadlift (Barbell),1,94.72,6,0,0,Lorem ipsum dolor sit amet,,6.0
+Chris,2024-01-08,Chris Workout,1h,Deadlift (Barbell),1,95.03,9,0,0,Lorem ipsum dolor sit amet,,9.9
+Chris,2024-01-09,Chris Workout,1h,Deadlift (Barbell),1,95.19,9,0,0,Lorem ipsum dolor sit amet,,8.1
+Chris,2024-01-10,Chris Workout,1h,Deadlift (Barbell),1,95.3,10,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-01-11,Chris Workout,1h,Deadlift (Barbell),1,95.64,5,0,0,Lorem ipsum dolor sit amet,,9.2
+Chris,2024-01-12,Chris Workout,1h,Deadlift (Barbell),1,96.0,8,0,0,Lorem ipsum dolor sit amet,,6.1
+Chris,2024-01-13,Chris Workout,1h,Deadlift (Barbell),1,96.21,5,0,0,Lorem ipsum dolor sit amet,,9.5
+Chris,2024-01-14,Chris Workout,1h,Deadlift (Barbell),1,96.55,7,0,0,Lorem ipsum dolor sit amet,,7.6
+Chris,2024-01-15,Chris Workout,1h,Deadlift (Barbell),1,96.85,7,0,0,Lorem ipsum dolor sit amet,,8.5
+Chris,2024-01-16,Chris Workout,1h,Deadlift (Barbell),1,97.17,5,0,0,Lorem ipsum dolor sit amet,,6.3
+Chris,2024-01-17,Chris Workout,1h,Deadlift (Barbell),1,97.46,10,0,0,Lorem ipsum dolor sit amet,,8.7
+Chris,2024-01-18,Chris Workout,1h,Deadlift (Barbell),1,98.01,7,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-01-19,Chris Workout,1h,Deadlift (Barbell),1,98.33,5,0,0,Lorem ipsum dolor sit amet,,6.4
+Chris,2024-01-20,Chris Workout,1h,Deadlift (Barbell),1,98.54,10,0,0,Lorem ipsum dolor sit amet,,6.0
+Chris,2024-01-21,Chris Workout,1h,Deadlift (Barbell),1,98.95,6,0,0,Lorem ipsum dolor sit amet,,7.4
+Chris,2024-01-22,Chris Workout,1h,Deadlift (Barbell),1,99.34,5,0,0,Lorem ipsum dolor sit amet,,10.0
+Chris,2024-01-23,Chris Workout,1h,Deadlift (Barbell),1,99.59,5,0,0,Lorem ipsum dolor sit amet,,9.1
+Chris,2024-01-24,Chris Workout,1h,Deadlift (Barbell),1,100.04,10,0,0,Lorem ipsum dolor sit amet,,6.1
+Chris,2024-01-25,Chris Workout,1h,Deadlift (Barbell),1,100.47,6,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-01-26,Chris Workout,1h,Deadlift (Barbell),1,100.78,10,0,0,Lorem ipsum dolor sit amet,,9.0
+Chris,2024-01-27,Chris Workout,1h,Deadlift (Barbell),1,100.98,10,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-01-28,Chris Workout,1h,Deadlift (Barbell),1,101.46,10,0,0,Lorem ipsum dolor sit amet,,9.7
+Chris,2024-01-29,Chris Workout,1h,Deadlift (Barbell),1,101.69,6,0,0,Lorem ipsum dolor sit amet,,9.3
+Chris,2024-01-30,Chris Workout,1h,Deadlift (Barbell),1,102.24,8,0,0,Lorem ipsum dolor sit amet,,9.7
+Chris,2024-01-31,Chris Workout,1h,Deadlift (Barbell),1,102.61,6,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-02-01,Chris Workout,1h,Deadlift (Barbell),1,103.12,10,0,0,Lorem ipsum dolor sit amet,,7.8
+Chris,2024-02-02,Chris Workout,1h,Deadlift (Barbell),1,103.37,5,0,0,Lorem ipsum dolor sit amet,,6.6
+Chris,2024-02-03,Chris Workout,1h,Deadlift (Barbell),1,103.77,8,0,0,Lorem ipsum dolor sit amet,,6.8
+Chris,2024-02-04,Chris Workout,1h,Deadlift (Barbell),1,104.13,10,0,0,Lorem ipsum dolor sit amet,,7.1
+Chris,2024-02-05,Chris Workout,1h,Deadlift (Barbell),1,104.72,6,0,0,Lorem ipsum dolor sit amet,,8.6
+Chris,2024-02-06,Chris Workout,1h,Deadlift (Barbell),1,105.2,6,0,0,Lorem ipsum dolor sit amet,,10.0
+Chris,2024-02-07,Chris Workout,1h,Deadlift (Barbell),1,105.46,5,0,0,Lorem ipsum dolor sit amet,,9.4
+Chris,2024-02-08,Chris Workout,1h,Deadlift (Barbell),1,105.89,6,0,0,Lorem ipsum dolor sit amet,,8.8
+Chris,2024-02-09,Chris Workout,1h,Deadlift (Barbell),1,106.25,10,0,0,Lorem ipsum dolor sit amet,,9.1
+Chris,2024-02-10,Chris Workout,1h,Deadlift (Barbell),1,106.55,7,0,0,Lorem ipsum dolor sit amet,,8.3
+Chris,2024-02-11,Chris Workout,1h,Deadlift (Barbell),1,107.17,5,0,0,Lorem ipsum dolor sit amet,,6.5
+Chris,2024-02-12,Chris Workout,1h,Deadlift (Barbell),1,107.8,10,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-02-13,Chris Workout,1h,Deadlift (Barbell),1,108.37,5,0,0,Lorem ipsum dolor sit amet,,7.8
+Chris,2024-02-14,Chris Workout,1h,Deadlift (Barbell),1,108.66,9,0,0,Lorem ipsum dolor sit amet,,6.4
+Chris,2024-02-15,Chris Workout,1h,Deadlift (Barbell),1,108.96,8,0,0,Lorem ipsum dolor sit amet,,7.9
+Chris,2024-02-16,Chris Workout,1h,Deadlift (Barbell),1,109.36,6,0,0,Lorem ipsum dolor sit amet,,9.9
+Chris,2024-02-17,Chris Workout,1h,Deadlift (Barbell),1,109.89,10,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-02-18,Chris Workout,1h,Deadlift (Barbell),1,110.43,9,0,0,Lorem ipsum dolor sit amet,,8.0
+Chris,2024-02-19,Chris Workout,1h,Deadlift (Barbell),1,110.65,6,0,0,Lorem ipsum dolor sit amet,,6.6
+Chris,2024-02-20,Chris Workout,1h,Deadlift (Barbell),1,111.15,9,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-02-21,Chris Workout,1h,Deadlift (Barbell),1,111.38,6,0,0,Lorem ipsum dolor sit amet,,8.5
+Chris,2024-02-22,Chris Workout,1h,Deadlift (Barbell),1,111.78,9,0,0,Lorem ipsum dolor sit amet,,8.1
+Chris,2024-02-23,Chris Workout,1h,Deadlift (Barbell),1,112.27,10,0,0,Lorem ipsum dolor sit amet,,8.8
+Chris,2024-02-24,Chris Workout,1h,Deadlift (Barbell),1,112.67,7,0,0,Lorem ipsum dolor sit amet,,6.3
+Chris,2024-02-25,Chris Workout,1h,Deadlift (Barbell),1,112.93,10,0,0,Lorem ipsum dolor sit amet,,8.9
+Chris,2024-02-26,Chris Workout,1h,Deadlift (Barbell),1,113.29,5,0,0,Lorem ipsum dolor sit amet,,6.9
+Chris,2024-02-27,Chris Workout,1h,Deadlift (Barbell),1,113.54,8,0,0,Lorem ipsum dolor sit amet,,6.3
+Chris,2024-02-28,Chris Workout,1h,Deadlift (Barbell),1,113.6,8,0,0,Lorem ipsum dolor sit amet,,9.1
+Chris,2024-02-29,Chris Workout,1h,Deadlift (Barbell),1,113.87,6,0,0,Lorem ipsum dolor sit amet,,9.0
+Chris,2024-03-01,Chris Workout,1h,Deadlift (Barbell),1,114.16,7,0,0,Lorem ipsum dolor sit amet,,8.5
+Chris,2024-03-02,Chris Workout,1h,Deadlift (Barbell),1,114.5,9,0,0,Lorem ipsum dolor sit amet,,7.3
+Chris,2024-03-03,Chris Workout,1h,Deadlift (Barbell),1,114.77,9,0,0,Lorem ipsum dolor sit amet,,7.9
+Chris,2024-03-04,Chris Workout,1h,Deadlift (Barbell),1,115.54,9,0,0,Lorem ipsum dolor sit amet,,7.2
+Chris,2024-03-05,Chris Workout,1h,Deadlift (Barbell),1,115.69,5,0,0,Lorem ipsum dolor sit amet,,6.9
+Chris,2024-03-06,Chris Workout,1h,Deadlift (Barbell),1,116.41,8,0,0,Lorem ipsum dolor sit amet,,9.1
+Chris,2024-03-07,Chris Workout,1h,Deadlift (Barbell),1,116.95,6,0,0,Lorem ipsum dolor sit amet,,8.9
+Chris,2024-03-08,Chris Workout,1h,Deadlift (Barbell),1,117.28,7,0,0,Lorem ipsum dolor sit amet,,9.7
+Chris,2024-03-09,Chris Workout,1h,Deadlift (Barbell),1,117.77,8,0,0,Lorem ipsum dolor sit amet,,7.5
+Chris,2024-03-10,Chris Workout,1h,Deadlift (Barbell),1,118.09,6,0,0,Lorem ipsum dolor sit amet,,6.3
+Chris,2024-03-11,Chris Workout,1h,Deadlift (Barbell),1,118.96,9,0,0,Lorem ipsum dolor sit amet,,9.3
+Chris,2024-03-12,Chris Workout,1h,Deadlift (Barbell),1,119.41,9,0,0,Lorem ipsum dolor sit amet,,6.2
+Chris,2024-03-13,Chris Workout,1h,Deadlift (Barbell),1,119.8,6,0,0,Lorem ipsum dolor sit amet,,8.9
+Chris,2024-03-14,Chris Workout,1h,Deadlift (Barbell),1,120.11,10,0,0,Lorem ipsum dolor sit amet,,7.1
+Chris,2024-03-15,Chris Workout,1h,Deadlift (Barbell),1,120.46,6,0,0,Lorem ipsum dolor sit amet,,9.0
+Chris,2024-03-16,Chris Workout,1h,Deadlift (Barbell),1,120.75,5,0,0,Lorem ipsum dolor sit amet,,9.2
+Chris,2024-03-17,Chris Workout,1h,Deadlift (Barbell),1,121.52,7,0,0,Lorem ipsum dolor sit amet,,7.6
+Chris,2024-03-18,Chris Workout,1h,Deadlift (Barbell),1,122.11,8,0,0,Lorem ipsum dolor sit amet,,9.4
+Chris,2024-03-19,Chris Workout,1h,Deadlift (Barbell),1,122.56,9,0,0,Lorem ipsum dolor sit amet,,6.6
+Chris,2024-03-20,Chris Workout,1h,Deadlift (Barbell),1,123.08,9,0,0,Lorem ipsum dolor sit amet,,8.2
+Chris,2024-03-21,Chris Workout,1h,Deadlift (Barbell),1,123.57,7,0,0,Lorem ipsum dolor sit amet,,7.3
+Chris,2024-03-22,Chris Workout,1h,Deadlift (Barbell),1,124.08,8,0,0,Lorem ipsum dolor sit amet,,9.9
+Chris,2024-03-23,Chris Workout,1h,Deadlift (Barbell),1,124.5,7,0,0,Lorem ipsum dolor sit amet,,9.7
+Chris,2024-03-24,Chris Workout,1h,Deadlift (Barbell),1,124.56,5,0,0,Lorem ipsum dolor sit amet,,7.4
+Chris,2024-03-25,Chris Workout,1h,Deadlift (Barbell),1,125.11,6,0,0,Lorem ipsum dolor sit amet,,6.1
+Chris,2024-03-26,Chris Workout,1h,Deadlift (Barbell),1,125.64,5,0,0,Lorem ipsum dolor sit amet,,6.1
+Chris,2024-03-27,Chris Workout,1h,Deadlift (Barbell),1,126.17,8,0,0,Lorem ipsum dolor sit amet,,8.2
+Chris,2024-03-28,Chris Workout,1h,Deadlift (Barbell),1,126.68,6,0,0,Lorem ipsum dolor sit amet,,8.0
+Chris,2024-03-29,Chris Workout,1h,Deadlift (Barbell),1,127.27,6,0,0,Lorem ipsum dolor sit amet,,8.6
+Chris,2024-03-30,Chris Workout,1h,Deadlift (Barbell),1,127.8,5,0,0,Lorem ipsum dolor sit amet,,6.0
+Chris,2024-01-01,Chris Workout,1h,Squat (Barbell),1,86.2,5,0,0,Lorem ipsum dolor sit amet,,7.0
+Chris,2024-01-02,Chris Workout,1h,Squat (Barbell),1,86.52,9,0,0,Lorem ipsum dolor sit amet,,7.4
+Chris,2024-01-03,Chris Workout,1h,Squat (Barbell),1,86.9,5,0,0,Lorem ipsum dolor sit amet,,9.4
+Chris,2024-01-04,Chris Workout,1h,Squat (Barbell),1,87.16,5,0,0,Lorem ipsum dolor sit amet,,6.6
+Chris,2024-01-05,Chris Workout,1h,Squat (Barbell),1,87.4,5,0,0,Lorem ipsum dolor sit amet,,7.3
+Chris,2024-01-06,Chris Workout,1h,Squat (Barbell),1,87.6,10,0,0,Lorem ipsum dolor sit amet,,6.4
+Chris,2024-01-07,Chris Workout,1h,Squat (Barbell),1,87.62,7,0,0,Lorem ipsum dolor sit amet,,10.0
+Chris,2024-01-08,Chris Workout,1h,Squat (Barbell),1,87.77,5,0,0,Lorem ipsum dolor sit amet,,6.3
+Chris,2024-01-09,Chris Workout,1h,Squat (Barbell),1,88.04,5,0,0,Lorem ipsum dolor sit amet,,7.4
+Chris,2024-01-10,Chris Workout,1h,Squat (Barbell),1,88.32,9,0,0,Lorem ipsum dolor sit amet,,8.0
+Chris,2024-01-11,Chris Workout,1h,Squat (Barbell),1,88.47,7,0,0,Lorem ipsum dolor sit amet,,7.8
+Chris,2024-01-12,Chris Workout,1h,Squat (Barbell),1,88.89,6,0,0,Lorem ipsum dolor sit amet,,9.5
+Chris,2024-01-13,Chris Workout,1h,Squat (Barbell),1,89.26,7,0,0,Lorem ipsum dolor sit amet,,9.9
+Chris,2024-01-14,Chris Workout,1h,Squat (Barbell),1,89.52,10,0,0,Lorem ipsum dolor sit amet,,6.2
+Chris,2024-01-15,Chris Workout,1h,Squat (Barbell),1,89.88,7,0,0,Lorem ipsum dolor sit amet,,7.9
+Chris,2024-01-16,Chris Workout,1h,Squat (Barbell),1,90.25,6,0,0,Lorem ipsum dolor sit amet,,9.1
+Chris,2024-01-17,Chris Workout,1h,Squat (Barbell),1,90.49,5,0,0,Lorem ipsum dolor sit amet,,6.0
+Chris,2024-01-18,Chris Workout,1h,Squat (Barbell),1,90.81,10,0,0,Lorem ipsum dolor sit amet,,7.3
+Chris,2024-01-19,Chris Workout,1h,Squat (Barbell),1,90.95,10,0,0,Lorem ipsum dolor sit amet,,8.2
+Chris,2024-01-20,Chris Workout,1h,Squat (Barbell),1,91.39,5,0,0,Lorem ipsum dolor sit amet,,6.6
+Chris,2024-01-21,Chris Workout,1h,Squat (Barbell),1,91.58,6,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-01-22,Chris Workout,1h,Squat (Barbell),1,91.64,10,0,0,Lorem ipsum dolor sit amet,,7.4
+Chris,2024-01-23,Chris Workout,1h,Squat (Barbell),1,91.74,5,0,0,Lorem ipsum dolor sit amet,,9.2
+Chris,2024-01-24,Chris Workout,1h,Squat (Barbell),1,92.14,8,0,0,Lorem ipsum dolor sit amet,,8.5
+Chris,2024-01-25,Chris Workout,1h,Squat (Barbell),1,92.31,8,0,0,Lorem ipsum dolor sit amet,,6.3
+Chris,2024-01-26,Chris Workout,1h,Squat (Barbell),1,92.46,5,0,0,Lorem ipsum dolor sit amet,,9.8
+Chris,2024-01-27,Chris Workout,1h,Squat (Barbell),1,92.68,5,0,0,Lorem ipsum dolor sit amet,,6.5
+Chris,2024-01-28,Chris Workout,1h,Squat (Barbell),1,93.07,9,0,0,Lorem ipsum dolor sit amet,,7.4
+Chris,2024-01-29,Chris Workout,1h,Squat (Barbell),1,93.26,5,0,0,Lorem ipsum dolor sit amet,,9.0
+Chris,2024-01-30,Chris Workout,1h,Squat (Barbell),1,93.48,6,0,0,Lorem ipsum dolor sit amet,,8.3
+Chris,2024-01-31,Chris Workout,1h,Squat (Barbell),1,93.88,10,0,0,Lorem ipsum dolor sit amet,,8.0
+Chris,2024-02-01,Chris Workout,1h,Squat (Barbell),1,94.34,6,0,0,Lorem ipsum dolor sit amet,,9.5
+Chris,2024-02-02,Chris Workout,1h,Squat (Barbell),1,94.49,8,0,0,Lorem ipsum dolor sit amet,,7.3
+Chris,2024-02-03,Chris Workout,1h,Squat (Barbell),1,94.83,7,0,0,Lorem ipsum dolor sit amet,,8.2
+Chris,2024-02-04,Chris Workout,1h,Squat (Barbell),1,95.04,5,0,0,Lorem ipsum dolor sit amet,,9.2
+Chris,2024-02-05,Chris Workout,1h,Squat (Barbell),1,95.37,10,0,0,Lorem ipsum dolor sit amet,,6.2
+Chris,2024-02-06,Chris Workout,1h,Squat (Barbell),1,95.63,6,0,0,Lorem ipsum dolor sit amet,,6.2
+Chris,2024-02-07,Chris Workout,1h,Squat (Barbell),1,95.89,7,0,0,Lorem ipsum dolor sit amet,,6.8
+Chris,2024-02-08,Chris Workout,1h,Squat (Barbell),1,95.86,6,0,0,Lorem ipsum dolor sit amet,,6.5
+Chris,2024-02-09,Chris Workout,1h,Squat (Barbell),1,96.18,7,0,0,Lorem ipsum dolor sit amet,,6.6
+Chris,2024-02-10,Chris Workout,1h,Squat (Barbell),1,96.79,9,0,0,Lorem ipsum dolor sit amet,,9.7
+Chris,2024-02-11,Chris Workout,1h,Squat (Barbell),1,96.92,5,0,0,Lorem ipsum dolor sit amet,,6.8
+Chris,2024-02-12,Chris Workout,1h,Squat (Barbell),1,97.43,5,0,0,Lorem ipsum dolor sit amet,,9.9
+Chris,2024-02-13,Chris Workout,1h,Squat (Barbell),1,97.87,6,0,0,Lorem ipsum dolor sit amet,,7.2
+Chris,2024-02-14,Chris Workout,1h,Squat (Barbell),1,98.04,7,0,0,Lorem ipsum dolor sit amet,,9.1
+Chris,2024-02-15,Chris Workout,1h,Squat (Barbell),1,98.15,7,0,0,Lorem ipsum dolor sit amet,,9.2
+Chris,2024-02-16,Chris Workout,1h,Squat (Barbell),1,98.44,6,0,0,Lorem ipsum dolor sit amet,,7.5
+Chris,2024-02-17,Chris Workout,1h,Squat (Barbell),1,98.84,6,0,0,Lorem ipsum dolor sit amet,,8.4
+Chris,2024-02-18,Chris Workout,1h,Squat (Barbell),1,99.46,10,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-02-19,Chris Workout,1h,Squat (Barbell),1,100.03,7,0,0,Lorem ipsum dolor sit amet,,6.0
+Chris,2024-02-20,Chris Workout,1h,Squat (Barbell),1,100.49,9,0,0,Lorem ipsum dolor sit amet,,9.0
+Chris,2024-02-21,Chris Workout,1h,Squat (Barbell),1,100.83,7,0,0,Lorem ipsum dolor sit amet,,9.4
+Chris,2024-02-22,Chris Workout,1h,Squat (Barbell),1,101.12,6,0,0,Lorem ipsum dolor sit amet,,7.2
+Chris,2024-02-23,Chris Workout,1h,Squat (Barbell),1,101.66,6,0,0,Lorem ipsum dolor sit amet,,8.6
+Chris,2024-02-24,Chris Workout,1h,Squat (Barbell),1,102.19,5,0,0,Lorem ipsum dolor sit amet,,9.6
+Chris,2024-02-25,Chris Workout,1h,Squat (Barbell),1,102.45,6,0,0,Lorem ipsum dolor sit amet,,6.9
+Chris,2024-02-26,Chris Workout,1h,Squat (Barbell),1,102.77,9,0,0,Lorem ipsum dolor sit amet,,7.8
+Chris,2024-02-27,Chris Workout,1h,Squat (Barbell),1,103.23,8,0,0,Lorem ipsum dolor sit amet,,9.4
+Chris,2024-02-28,Chris Workout,1h,Squat (Barbell),1,103.67,10,0,0,Lorem ipsum dolor sit amet,,7.0
+Chris,2024-02-29,Chris Workout,1h,Squat (Barbell),1,104.05,10,0,0,Lorem ipsum dolor sit amet,,7.9
+Chris,2024-03-01,Chris Workout,1h,Squat (Barbell),1,104.57,8,0,0,Lorem ipsum dolor sit amet,,9.9
+Chris,2024-03-02,Chris Workout,1h,Squat (Barbell),1,104.96,6,0,0,Lorem ipsum dolor sit amet,,7.9
+Chris,2024-03-03,Chris Workout,1h,Squat (Barbell),1,105.22,9,0,0,Lorem ipsum dolor sit amet,,9.5
+Chris,2024-03-04,Chris Workout,1h,Squat (Barbell),1,105.86,6,0,0,Lorem ipsum dolor sit amet,,8.1
+Chris,2024-03-05,Chris Workout,1h,Squat (Barbell),1,106.25,8,0,0,Lorem ipsum dolor sit amet,,8.2
+Chris,2024-03-06,Chris Workout,1h,Squat (Barbell),1,106.4,6,0,0,Lorem ipsum dolor sit amet,,7.7
+Chris,2024-03-07,Chris Workout,1h,Squat (Barbell),1,106.6,7,0,0,Lorem ipsum dolor sit amet,,6.1
+Chris,2024-03-08,Chris Workout,1h,Squat (Barbell),1,107.16,8,0,0,Lorem ipsum dolor sit amet,,6.2
+Chris,2024-03-09,Chris Workout,1h,Squat (Barbell),1,107.53,8,0,0,Lorem ipsum dolor sit amet,,6.5
+Chris,2024-03-10,Chris Workout,1h,Squat (Barbell),1,107.89,9,0,0,Lorem ipsum dolor sit amet,,7.5
+Chris,2024-03-11,Chris Workout,1h,Squat (Barbell),1,108.21,5,0,0,Lorem ipsum dolor sit amet,,8.1
+Chris,2024-03-12,Chris Workout,1h,Squat (Barbell),1,108.69,6,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-03-13,Chris Workout,1h,Squat (Barbell),1,109.08,5,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-03-14,Chris Workout,1h,Squat (Barbell),1,109.61,9,0,0,Lorem ipsum dolor sit amet,,8.3
+Chris,2024-03-15,Chris Workout,1h,Squat (Barbell),1,110.05,9,0,0,Lorem ipsum dolor sit amet,,9.8
+Chris,2024-03-16,Chris Workout,1h,Squat (Barbell),1,110.26,6,0,0,Lorem ipsum dolor sit amet,,6.2
+Chris,2024-03-17,Chris Workout,1h,Squat (Barbell),1,110.77,7,0,0,Lorem ipsum dolor sit amet,,6.7
+Chris,2024-03-18,Chris Workout,1h,Squat (Barbell),1,111.01,7,0,0,Lorem ipsum dolor sit amet,,9.8
+Chris,2024-03-19,Chris Workout,1h,Squat (Barbell),1,111.31,9,0,0,Lorem ipsum dolor sit amet,,8.2
+Chris,2024-03-20,Chris Workout,1h,Squat (Barbell),1,111.68,6,0,0,Lorem ipsum dolor sit amet,,7.7
+Chris,2024-03-21,Chris Workout,1h,Squat (Barbell),1,111.96,6,0,0,Lorem ipsum dolor sit amet,,7.3
+Chris,2024-03-22,Chris Workout,1h,Squat (Barbell),1,112.18,8,0,0,Lorem ipsum dolor sit amet,,6.1
+Chris,2024-03-23,Chris Workout,1h,Squat (Barbell),1,112.42,7,0,0,Lorem ipsum dolor sit amet,,8.5
+Chris,2024-03-24,Chris Workout,1h,Squat (Barbell),1,112.67,6,0,0,Lorem ipsum dolor sit amet,,9.9
+Chris,2024-03-25,Chris Workout,1h,Squat (Barbell),1,113.04,9,0,0,Lorem ipsum dolor sit amet,,8.6
+Chris,2024-03-26,Chris Workout,1h,Squat (Barbell),1,113.54,8,0,0,Lorem ipsum dolor sit amet,,9.9
+Chris,2024-03-27,Chris Workout,1h,Squat (Barbell),1,113.78,10,0,0,Lorem ipsum dolor sit amet,,7.6
+Chris,2024-03-28,Chris Workout,1h,Squat (Barbell),1,114.26,7,0,0,Lorem ipsum dolor sit amet,,7.4
+Chris,2024-03-29,Chris Workout,1h,Squat (Barbell),1,114.63,8,0,0,Lorem ipsum dolor sit amet,,7.3
+Chris,2024-03-30,Chris Workout,1h,Squat (Barbell),1,115.2,7,0,0,Lorem ipsum dolor sit amet,,7.5
+Alice,2024-01-01,Alice Workout,1h,Bench Press (Barbell),1,98.6,10,0,0,Lorem ipsum dolor sit amet,,7.8
+Alice,2024-01-02,Alice Workout,1h,Bench Press (Barbell),1,99.0,6,0,0,Lorem ipsum dolor sit amet,,6.7
+Alice,2024-01-03,Alice Workout,1h,Bench Press (Barbell),1,99.35,7,0,0,Lorem ipsum dolor sit amet,,7.3
+Alice,2024-01-04,Alice Workout,1h,Bench Press (Barbell),1,99.73,8,0,0,Lorem ipsum dolor sit amet,,7.5
+Alice,2024-01-05,Alice Workout,1h,Bench Press (Barbell),1,100.14,8,0,0,Lorem ipsum dolor sit amet,,9.9
+Alice,2024-01-06,Alice Workout,1h,Bench Press (Barbell),1,100.52,10,0,0,Lorem ipsum dolor sit amet,,7.3
+Alice,2024-01-07,Alice Workout,1h,Bench Press (Barbell),1,101.11,10,0,0,Lorem ipsum dolor sit amet,,7.8
+Alice,2024-01-08,Alice Workout,1h,Bench Press (Barbell),1,101.55,6,0,0,Lorem ipsum dolor sit amet,,9.8
+Alice,2024-01-09,Alice Workout,1h,Bench Press (Barbell),1,101.76,6,0,0,Lorem ipsum dolor sit amet,,6.8
+Alice,2024-01-10,Alice Workout,1h,Bench Press (Barbell),1,102.36,5,0,0,Lorem ipsum dolor sit amet,,9.0
+Alice,2024-01-11,Alice Workout,1h,Bench Press (Barbell),1,102.91,8,0,0,Lorem ipsum dolor sit amet,,9.9
+Alice,2024-01-12,Alice Workout,1h,Bench Press (Barbell),1,103.36,7,0,0,Lorem ipsum dolor sit amet,,7.6
+Alice,2024-01-13,Alice Workout,1h,Bench Press (Barbell),1,103.84,5,0,0,Lorem ipsum dolor sit amet,,6.7
+Alice,2024-01-14,Alice Workout,1h,Bench Press (Barbell),1,104.33,9,0,0,Lorem ipsum dolor sit amet,,9.3
+Alice,2024-01-15,Alice Workout,1h,Bench Press (Barbell),1,104.87,8,0,0,Lorem ipsum dolor sit amet,,6.7
+Alice,2024-01-16,Alice Workout,1h,Bench Press (Barbell),1,105.35,6,0,0,Lorem ipsum dolor sit amet,,6.3
+Alice,2024-01-17,Alice Workout,1h,Bench Press (Barbell),1,105.68,6,0,0,Lorem ipsum dolor sit amet,,7.9
+Alice,2024-01-18,Alice Workout,1h,Bench Press (Barbell),1,106.38,6,0,0,Lorem ipsum dolor sit amet,,8.0
+Alice,2024-01-19,Alice Workout,1h,Bench Press (Barbell),1,106.79,7,0,0,Lorem ipsum dolor sit amet,,6.3
+Alice,2024-01-20,Alice Workout,1h,Bench Press (Barbell),1,107.31,6,0,0,Lorem ipsum dolor sit amet,,7.9
+Alice,2024-01-21,Alice Workout,1h,Bench Press (Barbell),1,107.84,5,0,0,Lorem ipsum dolor sit amet,,6.8
+Alice,2024-01-22,Alice Workout,1h,Bench Press (Barbell),1,108.19,8,0,0,Lorem ipsum dolor sit amet,,8.8
+Alice,2024-01-23,Alice Workout,1h,Bench Press (Barbell),1,108.8,8,0,0,Lorem ipsum dolor sit amet,,7.4
+Alice,2024-01-24,Alice Workout,1h,Bench Press (Barbell),1,109.18,8,0,0,Lorem ipsum dolor sit amet,,9.9
+Alice,2024-01-25,Alice Workout,1h,Bench Press (Barbell),1,109.75,7,0,0,Lorem ipsum dolor sit amet,,8.0
+Alice,2024-01-26,Alice Workout,1h,Bench Press (Barbell),1,109.99,6,0,0,Lorem ipsum dolor sit amet,,8.8
+Alice,2024-01-27,Alice Workout,1h,Bench Press (Barbell),1,110.59,5,0,0,Lorem ipsum dolor sit amet,,8.1
+Alice,2024-01-28,Alice Workout,1h,Bench Press (Barbell),1,111.12,9,0,0,Lorem ipsum dolor sit amet,,7.7
+Alice,2024-01-29,Alice Workout,1h,Bench Press (Barbell),1,111.76,7,0,0,Lorem ipsum dolor sit amet,,6.0
+Alice,2024-01-30,Alice Workout,1h,Bench Press (Barbell),1,112.26,10,0,0,Lorem ipsum dolor sit amet,,8.4
+Alice,2024-01-31,Alice Workout,1h,Bench Press (Barbell),1,112.86,5,0,0,Lorem ipsum dolor sit amet,,9.5
+Alice,2024-02-01,Alice Workout,1h,Bench Press (Barbell),1,113.57,10,0,0,Lorem ipsum dolor sit amet,,9.9
+Alice,2024-02-02,Alice Workout,1h,Bench Press (Barbell),1,114.25,7,0,0,Lorem ipsum dolor sit amet,,7.1
+Alice,2024-02-03,Alice Workout,1h,Bench Press (Barbell),1,114.97,7,0,0,Lorem ipsum dolor sit amet,,7.3
+Alice,2024-02-04,Alice Workout,1h,Bench Press (Barbell),1,115.46,10,0,0,Lorem ipsum dolor sit amet,,6.2
+Alice,2024-02-05,Alice Workout,1h,Bench Press (Barbell),1,116.29,10,0,0,Lorem ipsum dolor sit amet,,7.9
+Alice,2024-02-06,Alice Workout,1h,Bench Press (Barbell),1,116.89,9,0,0,Lorem ipsum dolor sit amet,,8.3
+Alice,2024-02-07,Alice Workout,1h,Bench Press (Barbell),1,117.28,9,0,0,Lorem ipsum dolor sit amet,,8.1
+Alice,2024-02-08,Alice Workout,1h,Bench Press (Barbell),1,118.15,7,0,0,Lorem ipsum dolor sit amet,,8.8
+Alice,2024-02-09,Alice Workout,1h,Bench Press (Barbell),1,118.63,5,0,0,Lorem ipsum dolor sit amet,,7.9
+Alice,2024-02-10,Alice Workout,1h,Bench Press (Barbell),1,119.19,9,0,0,Lorem ipsum dolor sit amet,,9.0
+Alice,2024-02-11,Alice Workout,1h,Bench Press (Barbell),1,119.57,10,0,0,Lorem ipsum dolor sit amet,,7.8
+Alice,2024-02-12,Alice Workout,1h,Bench Press (Barbell),1,120.11,10,0,0,Lorem ipsum dolor sit amet,,8.6
+Alice,2024-02-13,Alice Workout,1h,Bench Press (Barbell),1,120.74,9,0,0,Lorem ipsum dolor sit amet,,6.9
+Alice,2024-02-14,Alice Workout,1h,Bench Press (Barbell),1,121.52,8,0,0,Lorem ipsum dolor sit amet,,10.0
+Alice,2024-02-15,Alice Workout,1h,Bench Press (Barbell),1,122.13,5,0,0,Lorem ipsum dolor sit amet,,6.4
+Alice,2024-02-16,Alice Workout,1h,Bench Press (Barbell),1,122.78,10,0,0,Lorem ipsum dolor sit amet,,7.0
+Alice,2024-02-17,Alice Workout,1h,Bench Press (Barbell),1,123.56,7,0,0,Lorem ipsum dolor sit amet,,6.5
+Alice,2024-02-18,Alice Workout,1h,Bench Press (Barbell),1,124.16,5,0,0,Lorem ipsum dolor sit amet,,9.8
+Alice,2024-02-19,Alice Workout,1h,Bench Press (Barbell),1,124.67,10,0,0,Lorem ipsum dolor sit amet,,9.3
+Alice,2024-02-20,Alice Workout,1h,Bench Press (Barbell),1,125.34,8,0,0,Lorem ipsum dolor sit amet,,9.2
+Alice,2024-02-21,Alice Workout,1h,Bench Press (Barbell),1,125.75,8,0,0,Lorem ipsum dolor sit amet,,9.1
+Alice,2024-02-22,Alice Workout,1h,Bench Press (Barbell),1,125.74,5,0,0,Lorem ipsum dolor sit amet,,8.9
+Alice,2024-02-23,Alice Workout,1h,Bench Press (Barbell),1,126.41,5,0,0,Lorem ipsum dolor sit amet,,6.9
+Alice,2024-02-24,Alice Workout,1h,Bench Press (Barbell),1,126.87,5,0,0,Lorem ipsum dolor sit amet,,8.0
+Alice,2024-02-25,Alice Workout,1h,Bench Press (Barbell),1,127.41,5,0,0,Lorem ipsum dolor sit amet,,7.4
+Alice,2024-02-26,Alice Workout,1h,Bench Press (Barbell),1,128.18,6,0,0,Lorem ipsum dolor sit amet,,8.6
+Alice,2024-02-27,Alice Workout,1h,Bench Press (Barbell),1,128.85,5,0,0,Lorem ipsum dolor sit amet,,9.9
+Alice,2024-02-28,Alice Workout,1h,Bench Press (Barbell),1,129.49,6,0,0,Lorem ipsum dolor sit amet,,8.0
+Alice,2024-02-29,Alice Workout,1h,Bench Press (Barbell),1,129.92,6,0,0,Lorem ipsum dolor sit amet,,6.7
+Alice,2024-03-01,Alice Workout,1h,Bench Press (Barbell),1,130.4,9,0,0,Lorem ipsum dolor sit amet,,9.7
+Alice,2024-03-02,Alice Workout,1h,Bench Press (Barbell),1,130.91,6,0,0,Lorem ipsum dolor sit amet,,6.8
+Alice,2024-03-03,Alice Workout,1h,Bench Press (Barbell),1,131.7,9,0,0,Lorem ipsum dolor sit amet,,9.8
+Alice,2024-03-04,Alice Workout,1h,Bench Press (Barbell),1,132.36,10,0,0,Lorem ipsum dolor sit amet,,8.8
+Alice,2024-03-05,Alice Workout,1h,Bench Press (Barbell),1,132.95,7,0,0,Lorem ipsum dolor sit amet,,9.6
+Alice,2024-03-06,Alice Workout,1h,Bench Press (Barbell),1,133.86,7,0,0,Lorem ipsum dolor sit amet,,6.6
+Alice,2024-03-07,Alice Workout,1h,Bench Press (Barbell),1,134.64,8,0,0,Lorem ipsum dolor sit amet,,7.5
+Alice,2024-03-08,Alice Workout,1h,Bench Press (Barbell),1,135.16,9,0,0,Lorem ipsum dolor sit amet,,6.7
+Alice,2024-03-09,Alice Workout,1h,Bench Press (Barbell),1,135.73,10,0,0,Lorem ipsum dolor sit amet,,6.7
+Alice,2024-03-10,Alice Workout,1h,Bench Press (Barbell),1,136.38,10,0,0,Lorem ipsum dolor sit amet,,9.1
+Alice,2024-03-11,Alice Workout,1h,Bench Press (Barbell),1,137.06,7,0,0,Lorem ipsum dolor sit amet,,6.0
+Alice,2024-03-12,Alice Workout,1h,Bench Press (Barbell),1,137.86,7,0,0,Lorem ipsum dolor sit amet,,8.3
+Alice,2024-03-13,Alice Workout,1h,Bench Press (Barbell),1,138.59,7,0,0,Lorem ipsum dolor sit amet,,9.6
+Alice,2024-03-14,Alice Workout,1h,Bench Press (Barbell),1,139.31,7,0,0,Lorem ipsum dolor sit amet,,6.5
+Alice,2024-03-15,Alice Workout,1h,Bench Press (Barbell),1,139.76,5,0,0,Lorem ipsum dolor sit amet,,8.5
+Alice,2024-03-16,Alice Workout,1h,Bench Press (Barbell),1,140.7,6,0,0,Lorem ipsum dolor sit amet,,7.3
+Alice,2024-03-17,Alice Workout,1h,Bench Press (Barbell),1,141.44,10,0,0,Lorem ipsum dolor sit amet,,8.7
+Alice,2024-03-18,Alice Workout,1h,Bench Press (Barbell),1,141.96,6,0,0,Lorem ipsum dolor sit amet,,9.1
+Alice,2024-03-19,Alice Workout,1h,Bench Press (Barbell),1,142.7,10,0,0,Lorem ipsum dolor sit amet,,8.8
+Alice,2024-03-20,Alice Workout,1h,Bench Press (Barbell),1,143.33,8,0,0,Lorem ipsum dolor sit amet,,9.2
+Alice,2024-03-21,Alice Workout,1h,Bench Press (Barbell),1,143.99,5,0,0,Lorem ipsum dolor sit amet,,9.4
+Alice,2024-03-22,Alice Workout,1h,Bench Press (Barbell),1,144.99,8,0,0,Lorem ipsum dolor sit amet,,8.6
+Alice,2024-03-23,Alice Workout,1h,Bench Press (Barbell),1,145.4,9,0,0,Lorem ipsum dolor sit amet,,8.9
+Alice,2024-03-24,Alice Workout,1h,Bench Press (Barbell),1,146.22,8,0,0,Lorem ipsum dolor sit amet,,9.1
+Alice,2024-03-25,Alice Workout,1h,Bench Press (Barbell),1,147.17,9,0,0,Lorem ipsum dolor sit amet,,8.6
+Alice,2024-03-26,Alice Workout,1h,Bench Press (Barbell),1,148.08,7,0,0,Lorem ipsum dolor sit amet,,6.9
+Alice,2024-03-27,Alice Workout,1h,Bench Press (Barbell),1,149.0,6,0,0,Lorem ipsum dolor sit amet,,6.2
+Alice,2024-03-28,Alice Workout,1h,Bench Press (Barbell),1,149.67,5,0,0,Lorem ipsum dolor sit amet,,9.8
+Alice,2024-03-29,Alice Workout,1h,Bench Press (Barbell),1,150.46,9,0,0,Lorem ipsum dolor sit amet,,6.1
+Alice,2024-03-30,Alice Workout,1h,Bench Press (Barbell),1,151.64,8,0,0,Lorem ipsum dolor sit amet,,7.9
+Alice,2024-01-01,Alice Workout,1h,Deadlift (Barbell),1,95.57,6,0,0,Lorem ipsum dolor sit amet,,6.2
+Alice,2024-01-02,Alice Workout,1h,Deadlift (Barbell),1,95.9,8,0,0,Lorem ipsum dolor sit amet,,7.3
+Alice,2024-01-03,Alice Workout,1h,Deadlift (Barbell),1,96.26,5,0,0,Lorem ipsum dolor sit amet,,6.8
+Alice,2024-01-04,Alice Workout,1h,Deadlift (Barbell),1,96.75,8,0,0,Lorem ipsum dolor sit amet,,6.5
+Alice,2024-01-05,Alice Workout,1h,Deadlift (Barbell),1,97.03,6,0,0,Lorem ipsum dolor sit amet,,8.7
+Alice,2024-01-06,Alice Workout,1h,Deadlift (Barbell),1,97.35,5,0,0,Lorem ipsum dolor sit amet,,9.7
+Alice,2024-01-07,Alice Workout,1h,Deadlift (Barbell),1,97.79,7,0,0,Lorem ipsum dolor sit amet,,7.6
+Alice,2024-01-08,Alice Workout,1h,Deadlift (Barbell),1,98.19,6,0,0,Lorem ipsum dolor sit amet,,9.3
+Alice,2024-01-09,Alice Workout,1h,Deadlift (Barbell),1,98.46,7,0,0,Lorem ipsum dolor sit amet,,8.5
+Alice,2024-01-10,Alice Workout,1h,Deadlift (Barbell),1,98.81,9,0,0,Lorem ipsum dolor sit amet,,9.9
+Alice,2024-01-11,Alice Workout,1h,Deadlift (Barbell),1,98.98,6,0,0,Lorem ipsum dolor sit amet,,6.4
+Alice,2024-01-12,Alice Workout,1h,Deadlift (Barbell),1,99.38,10,0,0,Lorem ipsum dolor sit amet,,8.4
+Alice,2024-01-13,Alice Workout,1h,Deadlift (Barbell),1,99.89,6,0,0,Lorem ipsum dolor sit amet,,6.6
+Alice,2024-01-14,Alice Workout,1h,Deadlift (Barbell),1,100.27,6,0,0,Lorem ipsum dolor sit amet,,9.3
+Alice,2024-01-15,Alice Workout,1h,Deadlift (Barbell),1,100.56,7,0,0,Lorem ipsum dolor sit amet,,9.0
+Alice,2024-01-16,Alice Workout,1h,Deadlift (Barbell),1,100.91,8,0,0,Lorem ipsum dolor sit amet,,7.1
+Alice,2024-01-17,Alice Workout,1h,Deadlift (Barbell),1,101.26,7,0,0,Lorem ipsum dolor sit amet,,9.3
+Alice,2024-01-18,Alice Workout,1h,Deadlift (Barbell),1,101.46,5,0,0,Lorem ipsum dolor sit amet,,6.2
+Alice,2024-01-19,Alice Workout,1h,Deadlift (Barbell),1,101.9,8,0,0,Lorem ipsum dolor sit amet,,9.7
+Alice,2024-01-20,Alice Workout,1h,Deadlift (Barbell),1,102.45,5,0,0,Lorem ipsum dolor sit amet,,7.5
+Alice,2024-01-21,Alice Workout,1h,Deadlift (Barbell),1,102.73,9,0,0,Lorem ipsum dolor sit amet,,8.4
+Alice,2024-01-22,Alice Workout,1h,Deadlift (Barbell),1,103.23,5,0,0,Lorem ipsum dolor sit amet,,7.3
+Alice,2024-01-23,Alice Workout,1h,Deadlift (Barbell),1,103.63,6,0,0,Lorem ipsum dolor sit amet,,7.2
+Alice,2024-01-24,Alice Workout,1h,Deadlift (Barbell),1,104.11,8,0,0,Lorem ipsum dolor sit amet,,9.7
+Alice,2024-01-25,Alice Workout,1h,Deadlift (Barbell),1,104.73,9,0,0,Lorem ipsum dolor sit amet,,8.1
+Alice,2024-01-26,Alice Workout,1h,Deadlift (Barbell),1,105.32,10,0,0,Lorem ipsum dolor sit amet,,9.8
+Alice,2024-01-27,Alice Workout,1h,Deadlift (Barbell),1,105.69,9,0,0,Lorem ipsum dolor sit amet,,8.4
+Alice,2024-01-28,Alice Workout,1h,Deadlift (Barbell),1,106.33,6,0,0,Lorem ipsum dolor sit amet,,7.7
+Alice,2024-01-29,Alice Workout,1h,Deadlift (Barbell),1,106.67,10,0,0,Lorem ipsum dolor sit amet,,7.4
+Alice,2024-01-30,Alice Workout,1h,Deadlift (Barbell),1,107.09,9,0,0,Lorem ipsum dolor sit amet,,8.5
+Alice,2024-01-31,Alice Workout,1h,Deadlift (Barbell),1,107.34,9,0,0,Lorem ipsum dolor sit amet,,7.7
+Alice,2024-02-01,Alice Workout,1h,Deadlift (Barbell),1,107.84,6,0,0,Lorem ipsum dolor sit amet,,8.6
+Alice,2024-02-02,Alice Workout,1h,Deadlift (Barbell),1,108.04,6,0,0,Lorem ipsum dolor sit amet,,8.4
+Alice,2024-02-03,Alice Workout,1h,Deadlift (Barbell),1,108.26,5,0,0,Lorem ipsum dolor sit amet,,8.6
+Alice,2024-02-04,Alice Workout,1h,Deadlift (Barbell),1,108.7,9,0,0,Lorem ipsum dolor sit amet,,8.7
+Alice,2024-02-05,Alice Workout,1h,Deadlift (Barbell),1,109.09,5,0,0,Lorem ipsum dolor sit amet,,6.2
+Alice,2024-02-06,Alice Workout,1h,Deadlift (Barbell),1,109.57,10,0,0,Lorem ipsum dolor sit amet,,6.7
+Alice,2024-02-07,Alice Workout,1h,Deadlift (Barbell),1,110.1,5,0,0,Lorem ipsum dolor sit amet,,9.2
+Alice,2024-02-08,Alice Workout,1h,Deadlift (Barbell),1,110.38,5,0,0,Lorem ipsum dolor sit amet,,8.4
+Alice,2024-02-09,Alice Workout,1h,Deadlift (Barbell),1,110.88,10,0,0,Lorem ipsum dolor sit amet,,7.1
+Alice,2024-02-10,Alice Workout,1h,Deadlift (Barbell),1,111.64,10,0,0,Lorem ipsum dolor sit amet,,8.7
+Alice,2024-02-11,Alice Workout,1h,Deadlift (Barbell),1,112.15,8,0,0,Lorem ipsum dolor sit amet,,7.6
+Alice,2024-02-12,Alice Workout,1h,Deadlift (Barbell),1,112.53,6,0,0,Lorem ipsum dolor sit amet,,7.4
+Alice,2024-02-13,Alice Workout,1h,Deadlift (Barbell),1,112.87,6,0,0,Lorem ipsum dolor sit amet,,6.9
+Alice,2024-02-14,Alice Workout,1h,Deadlift (Barbell),1,113.43,7,0,0,Lorem ipsum dolor sit amet,,8.9
+Alice,2024-02-15,Alice Workout,1h,Deadlift (Barbell),1,114.05,10,0,0,Lorem ipsum dolor sit amet,,6.5
+Alice,2024-02-16,Alice Workout,1h,Deadlift (Barbell),1,114.43,9,0,0,Lorem ipsum dolor sit amet,,8.5
+Alice,2024-02-17,Alice Workout,1h,Deadlift (Barbell),1,114.95,6,0,0,Lorem ipsum dolor sit amet,,9.6
+Alice,2024-02-18,Alice Workout,1h,Deadlift (Barbell),1,115.46,10,0,0,Lorem ipsum dolor sit amet,,6.1
+Alice,2024-02-19,Alice Workout,1h,Deadlift (Barbell),1,115.9,5,0,0,Lorem ipsum dolor sit amet,,7.7
+Alice,2024-02-20,Alice Workout,1h,Deadlift (Barbell),1,116.38,10,0,0,Lorem ipsum dolor sit amet,,6.4
+Alice,2024-02-21,Alice Workout,1h,Deadlift (Barbell),1,116.69,8,0,0,Lorem ipsum dolor sit amet,,8.1
+Alice,2024-02-22,Alice Workout,1h,Deadlift (Barbell),1,116.93,5,0,0,Lorem ipsum dolor sit amet,,9.7
+Alice,2024-02-23,Alice Workout,1h,Deadlift (Barbell),1,117.34,6,0,0,Lorem ipsum dolor sit amet,,6.5
+Alice,2024-02-24,Alice Workout,1h,Deadlift (Barbell),1,117.8,8,0,0,Lorem ipsum dolor sit amet,,9.6
+Alice,2024-02-25,Alice Workout,1h,Deadlift (Barbell),1,118.08,8,0,0,Lorem ipsum dolor sit amet,,8.8
+Alice,2024-02-26,Alice Workout,1h,Deadlift (Barbell),1,118.47,7,0,0,Lorem ipsum dolor sit amet,,9.4
+Alice,2024-02-27,Alice Workout,1h,Deadlift (Barbell),1,118.8,5,0,0,Lorem ipsum dolor sit amet,,9.0
+Alice,2024-02-28,Alice Workout,1h,Deadlift (Barbell),1,119.2,6,0,0,Lorem ipsum dolor sit amet,,8.3
+Alice,2024-02-29,Alice Workout,1h,Deadlift (Barbell),1,119.73,10,0,0,Lorem ipsum dolor sit amet,,7.0
+Alice,2024-03-01,Alice Workout,1h,Deadlift (Barbell),1,120.18,6,0,0,Lorem ipsum dolor sit amet,,6.9
+Alice,2024-03-02,Alice Workout,1h,Deadlift (Barbell),1,120.74,8,0,0,Lorem ipsum dolor sit amet,,6.6
+Alice,2024-03-03,Alice Workout,1h,Deadlift (Barbell),1,121.11,8,0,0,Lorem ipsum dolor sit amet,,7.9
+Alice,2024-03-04,Alice Workout,1h,Deadlift (Barbell),1,121.59,8,0,0,Lorem ipsum dolor sit amet,,7.8
+Alice,2024-03-05,Alice Workout,1h,Deadlift (Barbell),1,122.36,5,0,0,Lorem ipsum dolor sit amet,,7.8
+Alice,2024-03-06,Alice Workout,1h,Deadlift (Barbell),1,122.98,7,0,0,Lorem ipsum dolor sit amet,,6.8
+Alice,2024-03-07,Alice Workout,1h,Deadlift (Barbell),1,123.81,5,0,0,Lorem ipsum dolor sit amet,,6.5
+Alice,2024-03-08,Alice Workout,1h,Deadlift (Barbell),1,124.49,5,0,0,Lorem ipsum dolor sit amet,,9.3
+Alice,2024-03-09,Alice Workout,1h,Deadlift (Barbell),1,124.91,9,0,0,Lorem ipsum dolor sit amet,,8.9
+Alice,2024-03-10,Alice Workout,1h,Deadlift (Barbell),1,125.52,7,0,0,Lorem ipsum dolor sit amet,,8.9
+Alice,2024-03-11,Alice Workout,1h,Deadlift (Barbell),1,126.02,5,0,0,Lorem ipsum dolor sit amet,,8.5
+Alice,2024-03-12,Alice Workout,1h,Deadlift (Barbell),1,126.97,6,0,0,Lorem ipsum dolor sit amet,,8.6
+Alice,2024-03-13,Alice Workout,1h,Deadlift (Barbell),1,127.61,7,0,0,Lorem ipsum dolor sit amet,,6.4
+Alice,2024-03-14,Alice Workout,1h,Deadlift (Barbell),1,128.17,5,0,0,Lorem ipsum dolor sit amet,,8.5
+Alice,2024-03-15,Alice Workout,1h,Deadlift (Barbell),1,128.83,8,0,0,Lorem ipsum dolor sit amet,,6.6
+Alice,2024-03-16,Alice Workout,1h,Deadlift (Barbell),1,129.37,5,0,0,Lorem ipsum dolor sit amet,,8.5
+Alice,2024-03-17,Alice Workout,1h,Deadlift (Barbell),1,129.79,9,0,0,Lorem ipsum dolor sit amet,,9.3
+Alice,2024-03-18,Alice Workout,1h,Deadlift (Barbell),1,130.26,8,0,0,Lorem ipsum dolor sit amet,,7.4
+Alice,2024-03-19,Alice Workout,1h,Deadlift (Barbell),1,130.65,10,0,0,Lorem ipsum dolor sit amet,,8.9
+Alice,2024-03-20,Alice Workout,1h,Deadlift (Barbell),1,131.37,7,0,0,Lorem ipsum dolor sit amet,,6.3
+Alice,2024-03-21,Alice Workout,1h,Deadlift (Barbell),1,132.24,6,0,0,Lorem ipsum dolor sit amet,,7.5
+Alice,2024-03-22,Alice Workout,1h,Deadlift (Barbell),1,132.65,8,0,0,Lorem ipsum dolor sit amet,,6.8
+Alice,2024-03-23,Alice Workout,1h,Deadlift (Barbell),1,133.29,10,0,0,Lorem ipsum dolor sit amet,,6.7
+Alice,2024-03-24,Alice Workout,1h,Deadlift (Barbell),1,134.04,6,0,0,Lorem ipsum dolor sit amet,,9.0
+Alice,2024-03-25,Alice Workout,1h,Deadlift (Barbell),1,134.72,7,0,0,Lorem ipsum dolor sit amet,,7.6
+Alice,2024-03-26,Alice Workout,1h,Deadlift (Barbell),1,135.36,6,0,0,Lorem ipsum dolor sit amet,,9.6
+Alice,2024-03-27,Alice Workout,1h,Deadlift (Barbell),1,136.06,5,0,0,Lorem ipsum dolor sit amet,,9.6
+Alice,2024-03-28,Alice Workout,1h,Deadlift (Barbell),1,136.69,7,0,0,Lorem ipsum dolor sit amet,,8.0
+Alice,2024-03-29,Alice Workout,1h,Deadlift (Barbell),1,137.39,7,0,0,Lorem ipsum dolor sit amet,,7.8
+Alice,2024-03-30,Alice Workout,1h,Deadlift (Barbell),1,137.73,7,0,0,Lorem ipsum dolor sit amet,,6.8
+Alice,2024-01-01,Alice Workout,1h,Squat (Barbell),1,60.06,5,0,0,Lorem ipsum dolor sit amet,,9.9
+Alice,2024-01-02,Alice Workout,1h,Squat (Barbell),1,60.14,7,0,0,Lorem ipsum dolor sit amet,,8.0
+Alice,2024-01-03,Alice Workout,1h,Squat (Barbell),1,60.15,9,0,0,Lorem ipsum dolor sit amet,,8.7
+Alice,2024-01-04,Alice Workout,1h,Squat (Barbell),1,60.21,7,0,0,Lorem ipsum dolor sit amet,,8.6
+Alice,2024-01-05,Alice Workout,1h,Squat (Barbell),1,60.29,5,0,0,Lorem ipsum dolor sit amet,,7.6
+Alice,2024-01-06,Alice Workout,1h,Squat (Barbell),1,60.54,10,0,0,Lorem ipsum dolor sit amet,,9.2
+Alice,2024-01-07,Alice Workout,1h,Squat (Barbell),1,60.68,9,0,0,Lorem ipsum dolor sit amet,,9.2
+Alice,2024-01-08,Alice Workout,1h,Squat (Barbell),1,60.77,5,0,0,Lorem ipsum dolor sit amet,,7.3
+Alice,2024-01-09,Alice Workout,1h,Squat (Barbell),1,60.86,8,0,0,Lorem ipsum dolor sit amet,,8.5
+Alice,2024-01-10,Alice Workout,1h,Squat (Barbell),1,60.95,6,0,0,Lorem ipsum dolor sit amet,,8.6
+Alice,2024-01-11,Alice Workout,1h,Squat (Barbell),1,61.26,5,0,0,Lorem ipsum dolor sit amet,,7.2
+Alice,2024-01-12,Alice Workout,1h,Squat (Barbell),1,61.27,5,0,0,Lorem ipsum dolor sit amet,,8.6
+Alice,2024-01-13,Alice Workout,1h,Squat (Barbell),1,61.54,8,0,0,Lorem ipsum dolor sit amet,,7.5
+Alice,2024-01-14,Alice Workout,1h,Squat (Barbell),1,61.52,9,0,0,Lorem ipsum dolor sit amet,,7.8
+Alice,2024-01-15,Alice Workout,1h,Squat (Barbell),1,61.68,7,0,0,Lorem ipsum dolor sit amet,,8.1
+Alice,2024-01-16,Alice Workout,1h,Squat (Barbell),1,61.73,7,0,0,Lorem ipsum dolor sit amet,,9.7
+Alice,2024-01-17,Alice Workout,1h,Squat (Barbell),1,61.82,9,0,0,Lorem ipsum dolor sit amet,,8.5
+Alice,2024-01-18,Alice Workout,1h,Squat (Barbell),1,62.27,8,0,0,Lorem ipsum dolor sit amet,,6.7
+Alice,2024-01-19,Alice Workout,1h,Squat (Barbell),1,62.18,9,0,0,Lorem ipsum dolor sit amet,,9.9
+Alice,2024-01-20,Alice Workout,1h,Squat (Barbell),1,62.2,7,0,0,Lorem ipsum dolor sit amet,,9.4
+Alice,2024-01-21,Alice Workout,1h,Squat (Barbell),1,62.45,7,0,0,Lorem ipsum dolor sit amet,,8.7
+Alice,2024-01-22,Alice Workout,1h,Squat (Barbell),1,62.75,10,0,0,Lorem ipsum dolor sit amet,,6.4
+Alice,2024-01-23,Alice Workout,1h,Squat (Barbell),1,62.73,8,0,0,Lorem ipsum dolor sit amet,,9.0
+Alice,2024-01-24,Alice Workout,1h,Squat (Barbell),1,62.8,9,0,0,Lorem ipsum dolor sit amet,,8.2
+Alice,2024-01-25,Alice Workout,1h,Squat (Barbell),1,62.92,6,0,0,Lorem ipsum dolor sit amet,,9.2
+Alice,2024-01-26,Alice Workout,1h,Squat (Barbell),1,63.09,8,0,0,Lorem ipsum dolor sit amet,,7.8
+Alice,2024-01-27,Alice Workout,1h,Squat (Barbell),1,63.3,9,0,0,Lorem ipsum dolor sit amet,,9.9
+Alice,2024-01-28,Alice Workout,1h,Squat (Barbell),1,63.46,6,0,0,Lorem ipsum dolor sit amet,,7.4
+Alice,2024-01-29,Alice Workout,1h,Squat (Barbell),1,63.52,7,0,0,Lorem ipsum dolor sit amet,,8.3
+Alice,2024-01-30,Alice Workout,1h,Squat (Barbell),1,63.92,8,0,0,Lorem ipsum dolor sit amet,,9.2
+Alice,2024-01-31,Alice Workout,1h,Squat (Barbell),1,64.29,8,0,0,Lorem ipsum dolor sit amet,,8.9
+Alice,2024-02-01,Alice Workout,1h,Squat (Barbell),1,64.47,6,0,0,Lorem ipsum dolor sit amet,,8.4
+Alice,2024-02-02,Alice Workout,1h,Squat (Barbell),1,64.84,7,0,0,Lorem ipsum dolor sit amet,,9.9
+Alice,2024-02-03,Alice Workout,1h,Squat (Barbell),1,64.75,10,0,0,Lorem ipsum dolor sit amet,,8.5
+Alice,2024-02-04,Alice Workout,1h,Squat (Barbell),1,64.99,7,0,0,Lorem ipsum dolor sit amet,,8.0
+Alice,2024-02-05,Alice Workout,1h,Squat (Barbell),1,65.01,7,0,0,Lorem ipsum dolor sit amet,,7.7
+Alice,2024-02-06,Alice Workout,1h,Squat (Barbell),1,65.25,10,0,0,Lorem ipsum dolor sit amet,,7.2
+Alice,2024-02-07,Alice Workout,1h,Squat (Barbell),1,65.31,5,0,0,Lorem ipsum dolor sit amet,,8.7
+Alice,2024-02-08,Alice Workout,1h,Squat (Barbell),1,65.52,7,0,0,Lorem ipsum dolor sit amet,,7.4
+Alice,2024-02-09,Alice Workout,1h,Squat (Barbell),1,65.79,6,0,0,Lorem ipsum dolor sit amet,,6.9
+Alice,2024-02-10,Alice Workout,1h,Squat (Barbell),1,65.88,10,0,0,Lorem ipsum dolor sit amet,,7.1
+Alice,2024-02-11,Alice Workout,1h,Squat (Barbell),1,65.95,5,0,0,Lorem ipsum dolor sit amet,,9.9
+Alice,2024-02-12,Alice Workout,1h,Squat (Barbell),1,65.96,10,0,0,Lorem ipsum dolor sit amet,,8.0
+Alice,2024-02-13,Alice Workout,1h,Squat (Barbell),1,65.96,9,0,0,Lorem ipsum dolor sit amet,,8.2
+Alice,2024-02-14,Alice Workout,1h,Squat (Barbell),1,66.21,9,0,0,Lorem ipsum dolor sit amet,,6.4
+Alice,2024-02-15,Alice Workout,1h,Squat (Barbell),1,66.68,6,0,0,Lorem ipsum dolor sit amet,,6.9
+Alice,2024-02-16,Alice Workout,1h,Squat (Barbell),1,66.88,6,0,0,Lorem ipsum dolor sit amet,,8.0
+Alice,2024-02-17,Alice Workout,1h,Squat (Barbell),1,67.14,6,0,0,Lorem ipsum dolor sit amet,,7.1
+Alice,2024-02-18,Alice Workout,1h,Squat (Barbell),1,67.36,10,0,0,Lorem ipsum dolor sit amet,,8.4
+Alice,2024-02-19,Alice Workout,1h,Squat (Barbell),1,67.45,7,0,0,Lorem ipsum dolor sit amet,,7.5
+Alice,2024-02-20,Alice Workout,1h,Squat (Barbell),1,67.39,6,0,0,Lorem ipsum dolor sit amet,,8.0
+Alice,2024-02-21,Alice Workout,1h,Squat (Barbell),1,67.47,9,0,0,Lorem ipsum dolor sit amet,,6.1
+Alice,2024-02-22,Alice Workout,1h,Squat (Barbell),1,67.6,8,0,0,Lorem ipsum dolor sit amet,,7.8
+Alice,2024-02-23,Alice Workout,1h,Squat (Barbell),1,67.79,9,0,0,Lorem ipsum dolor sit amet,,7.8
+Alice,2024-02-24,Alice Workout,1h,Squat (Barbell),1,67.85,9,0,0,Lorem ipsum dolor sit amet,,8.1
+Alice,2024-02-25,Alice Workout,1h,Squat (Barbell),1,67.94,10,0,0,Lorem ipsum dolor sit amet,,8.6
+Alice,2024-02-26,Alice Workout,1h,Squat (Barbell),1,68.37,8,0,0,Lorem ipsum dolor sit amet,,6.9
+Alice,2024-02-27,Alice Workout,1h,Squat (Barbell),1,68.25,10,0,0,Lorem ipsum dolor sit amet,,8.3
+Alice,2024-02-28,Alice Workout,1h,Squat (Barbell),1,68.45,5,0,0,Lorem ipsum dolor sit amet,,8.4
+Alice,2024-02-29,Alice Workout,1h,Squat (Barbell),1,68.64,8,0,0,Lorem ipsum dolor sit amet,,9.1
+Alice,2024-03-01,Alice Workout,1h,Squat (Barbell),1,68.47,10,0,0,Lorem ipsum dolor sit amet,,8.4
+Alice,2024-03-02,Alice Workout,1h,Squat (Barbell),1,68.52,6,0,0,Lorem ipsum dolor sit amet,,8.1
+Alice,2024-03-03,Alice Workout,1h,Squat (Barbell),1,68.7,10,0,0,Lorem ipsum dolor sit amet,,8.2
+Alice,2024-03-04,Alice Workout,1h,Squat (Barbell),1,68.72,6,0,0,Lorem ipsum dolor sit amet,,8.3
+Alice,2024-03-05,Alice Workout,1h,Squat (Barbell),1,68.89,7,0,0,Lorem ipsum dolor sit amet,,7.2
+Alice,2024-03-06,Alice Workout,1h,Squat (Barbell),1,69.18,6,0,0,Lorem ipsum dolor sit amet,,8.6
+Alice,2024-03-07,Alice Workout,1h,Squat (Barbell),1,69.26,10,0,0,Lorem ipsum dolor sit amet,,6.2
+Alice,2024-03-08,Alice Workout,1h,Squat (Barbell),1,69.65,7,0,0,Lorem ipsum dolor sit amet,,9.4
+Alice,2024-03-09,Alice Workout,1h,Squat (Barbell),1,69.94,9,0,0,Lorem ipsum dolor sit amet,,7.0
+Alice,2024-03-10,Alice Workout,1h,Squat (Barbell),1,70.18,6,0,0,Lorem ipsum dolor sit amet,,9.2
+Alice,2024-03-11,Alice Workout,1h,Squat (Barbell),1,70.56,9,0,0,Lorem ipsum dolor sit amet,,8.7
+Alice,2024-03-12,Alice Workout,1h,Squat (Barbell),1,71.0,10,0,0,Lorem ipsum dolor sit amet,,9.5
+Alice,2024-03-13,Alice Workout,1h,Squat (Barbell),1,71.0,8,0,0,Lorem ipsum dolor sit amet,,7.0
+Alice,2024-03-14,Alice Workout,1h,Squat (Barbell),1,71.13,5,0,0,Lorem ipsum dolor sit amet,,8.0
+Alice,2024-03-15,Alice Workout,1h,Squat (Barbell),1,71.1,5,0,0,Lorem ipsum dolor sit amet,,8.3
+Alice,2024-03-16,Alice Workout,1h,Squat (Barbell),1,71.41,10,0,0,Lorem ipsum dolor sit amet,,7.9
+Alice,2024-03-17,Alice Workout,1h,Squat (Barbell),1,71.56,5,0,0,Lorem ipsum dolor sit amet,,7.9
+Alice,2024-03-18,Alice Workout,1h,Squat (Barbell),1,71.54,6,0,0,Lorem ipsum dolor sit amet,,7.2
+Alice,2024-03-19,Alice Workout,1h,Squat (Barbell),1,71.82,7,0,0,Lorem ipsum dolor sit amet,,9.9
+Alice,2024-03-20,Alice Workout,1h,Squat (Barbell),1,72.01,5,0,0,Lorem ipsum dolor sit amet,,8.4
+Alice,2024-03-21,Alice Workout,1h,Squat (Barbell),1,72.49,8,0,0,Lorem ipsum dolor sit amet,,9.1
+Alice,2024-03-22,Alice Workout,1h,Squat (Barbell),1,72.77,6,0,0,Lorem ipsum dolor sit amet,,8.3
+Alice,2024-03-23,Alice Workout,1h,Squat (Barbell),1,73.03,5,0,0,Lorem ipsum dolor sit amet,,7.4
+Alice,2024-03-24,Alice Workout,1h,Squat (Barbell),1,73.19,5,0,0,Lorem ipsum dolor sit amet,,6.7
+Alice,2024-03-25,Alice Workout,1h,Squat (Barbell),1,73.28,9,0,0,Lorem ipsum dolor sit amet,,9.0
+Alice,2024-03-26,Alice Workout,1h,Squat (Barbell),1,73.67,5,0,0,Lorem ipsum dolor sit amet,,8.7
+Alice,2024-03-27,Alice Workout,1h,Squat (Barbell),1,73.88,7,0,0,Lorem ipsum dolor sit amet,,7.7
+Alice,2024-03-28,Alice Workout,1h,Squat (Barbell),1,74.15,8,0,0,Lorem ipsum dolor sit amet,,9.3
+Alice,2024-03-29,Alice Workout,1h,Squat (Barbell),1,74.24,5,0,0,Lorem ipsum dolor sit amet,,7.2
+Alice,2024-03-30,Alice Workout,1h,Squat (Barbell),1,74.69,9,0,0,Lorem ipsum dolor sit amet,,8.4
+Bob,2024-01-01,Bob Workout,1h,Bench Press (Barbell),1,64.79,6,0,0,Lorem ipsum dolor sit amet,,8.3
+Bob,2024-01-02,Bob Workout,1h,Bench Press (Barbell),1,64.92,7,0,0,Lorem ipsum dolor sit amet,,6.7
+Bob,2024-01-03,Bob Workout,1h,Bench Press (Barbell),1,65.18,9,0,0,Lorem ipsum dolor sit amet,,7.3
+Bob,2024-01-04,Bob Workout,1h,Bench Press (Barbell),1,65.39,10,0,0,Lorem ipsum dolor sit amet,,7.3
+Bob,2024-01-05,Bob Workout,1h,Bench Press (Barbell),1,65.51,8,0,0,Lorem ipsum dolor sit amet,,7.3
+Bob,2024-01-06,Bob Workout,1h,Bench Press (Barbell),1,65.71,8,0,0,Lorem ipsum dolor sit amet,,7.3
+Bob,2024-01-07,Bob Workout,1h,Bench Press (Barbell),1,65.93,10,0,0,Lorem ipsum dolor sit amet,,9.2
+Bob,2024-01-08,Bob Workout,1h,Bench Press (Barbell),1,66.15,5,0,0,Lorem ipsum dolor sit amet,,8.6
+Bob,2024-01-09,Bob Workout,1h,Bench Press (Barbell),1,66.4,9,0,0,Lorem ipsum dolor sit amet,,9.2
+Bob,2024-01-10,Bob Workout,1h,Bench Press (Barbell),1,66.68,6,0,0,Lorem ipsum dolor sit amet,,9.4
+Bob,2024-01-11,Bob Workout,1h,Bench Press (Barbell),1,66.62,6,0,0,Lorem ipsum dolor sit amet,,10.0
+Bob,2024-01-12,Bob Workout,1h,Bench Press (Barbell),1,66.92,9,0,0,Lorem ipsum dolor sit amet,,6.4
+Bob,2024-01-13,Bob Workout,1h,Bench Press (Barbell),1,67.13,10,0,0,Lorem ipsum dolor sit amet,,6.2
+Bob,2024-01-14,Bob Workout,1h,Bench Press (Barbell),1,67.35,6,0,0,Lorem ipsum dolor sit amet,,8.2
+Bob,2024-01-15,Bob Workout,1h,Bench Press (Barbell),1,67.51,9,0,0,Lorem ipsum dolor sit amet,,7.9
+Bob,2024-01-16,Bob Workout,1h,Bench Press (Barbell),1,67.73,9,0,0,Lorem ipsum dolor sit amet,,6.3
+Bob,2024-01-17,Bob Workout,1h,Bench Press (Barbell),1,67.96,6,0,0,Lorem ipsum dolor sit amet,,8.1
+Bob,2024-01-18,Bob Workout,1h,Bench Press (Barbell),1,68.16,10,0,0,Lorem ipsum dolor sit amet,,8.4
+Bob,2024-01-19,Bob Workout,1h,Bench Press (Barbell),1,68.39,8,0,0,Lorem ipsum dolor sit amet,,7.9
+Bob,2024-01-20,Bob Workout,1h,Bench Press (Barbell),1,68.56,7,0,0,Lorem ipsum dolor sit amet,,8.8
+Bob,2024-01-21,Bob Workout,1h,Bench Press (Barbell),1,68.97,6,0,0,Lorem ipsum dolor sit amet,,8.6
+Bob,2024-01-22,Bob Workout,1h,Bench Press (Barbell),1,69.27,10,0,0,Lorem ipsum dolor sit amet,,7.6
+Bob,2024-01-23,Bob Workout,1h,Bench Press (Barbell),1,69.49,6,0,0,Lorem ipsum dolor sit amet,,6.4
+Bob,2024-01-24,Bob Workout,1h,Bench Press (Barbell),1,69.56,9,0,0,Lorem ipsum dolor sit amet,,8.5
+Bob,2024-01-25,Bob Workout,1h,Bench Press (Barbell),1,69.88,10,0,0,Lorem ipsum dolor sit amet,,7.7
+Bob,2024-01-26,Bob Workout,1h,Bench Press (Barbell),1,70.24,8,0,0,Lorem ipsum dolor sit amet,,7.5
+Bob,2024-01-27,Bob Workout,1h,Bench Press (Barbell),1,70.54,8,0,0,Lorem ipsum dolor sit amet,,8.4
+Bob,2024-01-28,Bob Workout,1h,Bench Press (Barbell),1,70.79,10,0,0,Lorem ipsum dolor sit amet,,7.8
+Bob,2024-01-29,Bob Workout,1h,Bench Press (Barbell),1,70.88,5,0,0,Lorem ipsum dolor sit amet,,9.0
+Bob,2024-01-30,Bob Workout,1h,Bench Press (Barbell),1,71.21,6,0,0,Lorem ipsum dolor sit amet,,9.5
+Bob,2024-01-31,Bob Workout,1h,Bench Press (Barbell),1,71.33,7,0,0,Lorem ipsum dolor sit amet,,9.0
+Bob,2024-02-01,Bob Workout,1h,Bench Press (Barbell),1,71.58,7,0,0,Lorem ipsum dolor sit amet,,8.1
+Bob,2024-02-02,Bob Workout,1h,Bench Press (Barbell),1,71.89,9,0,0,Lorem ipsum dolor sit amet,,6.6
+Bob,2024-02-03,Bob Workout,1h,Bench Press (Barbell),1,72.0,10,0,0,Lorem ipsum dolor sit amet,,6.9
+Bob,2024-02-04,Bob Workout,1h,Bench Press (Barbell),1,72.22,6,0,0,Lorem ipsum dolor sit amet,,7.3
+Bob,2024-02-05,Bob Workout,1h,Bench Press (Barbell),1,72.58,10,0,0,Lorem ipsum dolor sit amet,,8.9
+Bob,2024-02-06,Bob Workout,1h,Bench Press (Barbell),1,72.83,5,0,0,Lorem ipsum dolor sit amet,,9.7
+Bob,2024-02-07,Bob Workout,1h,Bench Press (Barbell),1,72.93,8,0,0,Lorem ipsum dolor sit amet,,7.7
+Bob,2024-02-08,Bob Workout,1h,Bench Press (Barbell),1,73.15,10,0,0,Lorem ipsum dolor sit amet,,9.4
+Bob,2024-02-09,Bob Workout,1h,Bench Press (Barbell),1,73.58,5,0,0,Lorem ipsum dolor sit amet,,6.6
+Bob,2024-02-10,Bob Workout,1h,Bench Press (Barbell),1,73.69,10,0,0,Lorem ipsum dolor sit amet,,9.1
+Bob,2024-02-11,Bob Workout,1h,Bench Press (Barbell),1,73.81,6,0,0,Lorem ipsum dolor sit amet,,6.5
+Bob,2024-02-12,Bob Workout,1h,Bench Press (Barbell),1,74.04,9,0,0,Lorem ipsum dolor sit amet,,9.5
+Bob,2024-02-13,Bob Workout,1h,Bench Press (Barbell),1,74.45,9,0,0,Lorem ipsum dolor sit amet,,8.1
+Bob,2024-02-14,Bob Workout,1h,Bench Press (Barbell),1,74.67,7,0,0,Lorem ipsum dolor sit amet,,7.4
+Bob,2024-02-15,Bob Workout,1h,Bench Press (Barbell),1,74.81,8,0,0,Lorem ipsum dolor sit amet,,9.4
+Bob,2024-02-16,Bob Workout,1h,Bench Press (Barbell),1,74.94,5,0,0,Lorem ipsum dolor sit amet,,7.7
+Bob,2024-02-17,Bob Workout,1h,Bench Press (Barbell),1,75.35,5,0,0,Lorem ipsum dolor sit amet,,6.3
+Bob,2024-02-18,Bob Workout,1h,Bench Press (Barbell),1,75.44,6,0,0,Lorem ipsum dolor sit amet,,8.4
+Bob,2024-02-19,Bob Workout,1h,Bench Press (Barbell),1,75.63,10,0,0,Lorem ipsum dolor sit amet,,9.9
+Bob,2024-02-20,Bob Workout,1h,Bench Press (Barbell),1,75.97,10,0,0,Lorem ipsum dolor sit amet,,6.2
+Bob,2024-02-21,Bob Workout,1h,Bench Press (Barbell),1,76.1,5,0,0,Lorem ipsum dolor sit amet,,7.4
+Bob,2024-02-22,Bob Workout,1h,Bench Press (Barbell),1,76.29,10,0,0,Lorem ipsum dolor sit amet,,8.4
+Bob,2024-02-23,Bob Workout,1h,Bench Press (Barbell),1,76.51,8,0,0,Lorem ipsum dolor sit amet,,6.6
+Bob,2024-02-24,Bob Workout,1h,Bench Press (Barbell),1,76.7,10,0,0,Lorem ipsum dolor sit amet,,8.0
+Bob,2024-02-25,Bob Workout,1h,Bench Press (Barbell),1,77.11,9,0,0,Lorem ipsum dolor sit amet,,6.5
+Bob,2024-02-26,Bob Workout,1h,Bench Press (Barbell),1,77.46,9,0,0,Lorem ipsum dolor sit amet,,6.8
+Bob,2024-02-27,Bob Workout,1h,Bench Press (Barbell),1,77.49,10,0,0,Lorem ipsum dolor sit amet,,7.9
+Bob,2024-02-28,Bob Workout,1h,Bench Press (Barbell),1,77.74,6,0,0,Lorem ipsum dolor sit amet,,6.3
+Bob,2024-02-29,Bob Workout,1h,Bench Press (Barbell),1,77.92,9,0,0,Lorem ipsum dolor sit amet,,10.0
+Bob,2024-03-01,Bob Workout,1h,Bench Press (Barbell),1,78.13,6,0,0,Lorem ipsum dolor sit amet,,6.6
+Bob,2024-03-02,Bob Workout,1h,Bench Press (Barbell),1,78.66,10,0,0,Lorem ipsum dolor sit amet,,8.2
+Bob,2024-03-03,Bob Workout,1h,Bench Press (Barbell),1,78.89,7,0,0,Lorem ipsum dolor sit amet,,9.3
+Bob,2024-03-04,Bob Workout,1h,Bench Press (Barbell),1,79.12,7,0,0,Lorem ipsum dolor sit amet,,7.8
+Bob,2024-03-05,Bob Workout,1h,Bench Press (Barbell),1,79.57,6,0,0,Lorem ipsum dolor sit amet,,6.3
+Bob,2024-03-06,Bob Workout,1h,Bench Press (Barbell),1,79.55,6,0,0,Lorem ipsum dolor sit amet,,6.3
+Bob,2024-03-07,Bob Workout,1h,Bench Press (Barbell),1,80.12,8,0,0,Lorem ipsum dolor sit amet,,6.2
+Bob,2024-03-08,Bob Workout,1h,Bench Press (Barbell),1,80.47,9,0,0,Lorem ipsum dolor sit amet,,6.7
+Bob,2024-03-09,Bob Workout,1h,Bench Press (Barbell),1,80.45,10,0,0,Lorem ipsum dolor sit amet,,8.8
+Bob,2024-03-10,Bob Workout,1h,Bench Press (Barbell),1,81.09,5,0,0,Lorem ipsum dolor sit amet,,7.6
+Bob,2024-03-11,Bob Workout,1h,Bench Press (Barbell),1,81.15,7,0,0,Lorem ipsum dolor sit amet,,8.9
+Bob,2024-03-12,Bob Workout,1h,Bench Press (Barbell),1,81.47,10,0,0,Lorem ipsum dolor sit amet,,9.7
+Bob,2024-03-13,Bob Workout,1h,Bench Press (Barbell),1,81.91,6,0,0,Lorem ipsum dolor sit amet,,8.8
+Bob,2024-03-14,Bob Workout,1h,Bench Press (Barbell),1,82.41,5,0,0,Lorem ipsum dolor sit amet,,7.0
+Bob,2024-03-15,Bob Workout,1h,Bench Press (Barbell),1,82.72,10,0,0,Lorem ipsum dolor sit amet,,8.5
+Bob,2024-03-16,Bob Workout,1h,Bench Press (Barbell),1,82.53,7,0,0,Lorem ipsum dolor sit amet,,8.9
+Bob,2024-03-17,Bob Workout,1h,Bench Press (Barbell),1,82.99,9,0,0,Lorem ipsum dolor sit amet,,6.7
+Bob,2024-03-18,Bob Workout,1h,Bench Press (Barbell),1,83.64,10,0,0,Lorem ipsum dolor sit amet,,7.5
+Bob,2024-03-19,Bob Workout,1h,Bench Press (Barbell),1,83.84,8,0,0,Lorem ipsum dolor sit amet,,8.2
+Bob,2024-03-20,Bob Workout,1h,Bench Press (Barbell),1,84.01,10,0,0,Lorem ipsum dolor sit amet,,6.9
+Bob,2024-03-21,Bob Workout,1h,Bench Press (Barbell),1,84.57,9,0,0,Lorem ipsum dolor sit amet,,7.1
+Bob,2024-03-22,Bob Workout,1h,Bench Press (Barbell),1,85.03,5,0,0,Lorem ipsum dolor sit amet,,7.8
+Bob,2024-03-23,Bob Workout,1h,Bench Press (Barbell),1,85.29,10,0,0,Lorem ipsum dolor sit amet,,6.6
+Bob,2024-03-24,Bob Workout,1h,Bench Press (Barbell),1,85.52,5,0,0,Lorem ipsum dolor sit amet,,8.8
+Bob,2024-03-25,Bob Workout,1h,Bench Press (Barbell),1,85.84,8,0,0,Lorem ipsum dolor sit amet,,6.7
+Bob,2024-03-26,Bob Workout,1h,Bench Press (Barbell),1,86.02,8,0,0,Lorem ipsum dolor sit amet,,6.0
+Bob,2024-03-27,Bob Workout,1h,Bench Press (Barbell),1,86.25,5,0,0,Lorem ipsum dolor sit amet,,6.6
+Bob,2024-03-28,Bob Workout,1h,Bench Press (Barbell),1,86.58,5,0,0,Lorem ipsum dolor sit amet,,6.4
+Bob,2024-03-29,Bob Workout,1h,Bench Press (Barbell),1,86.79,9,0,0,Lorem ipsum dolor sit amet,,8.4
+Bob,2024-03-30,Bob Workout,1h,Bench Press (Barbell),1,87.25,8,0,0,Lorem ipsum dolor sit amet,,9.9
+Bob,2024-01-01,Bob Workout,1h,Deadlift (Barbell),1,73.71,8,0,0,Lorem ipsum dolor sit amet,,9.8
+Bob,2024-01-02,Bob Workout,1h,Deadlift (Barbell),1,73.97,7,0,0,Lorem ipsum dolor sit amet,,8.4
+Bob,2024-01-03,Bob Workout,1h,Deadlift (Barbell),1,74.14,9,0,0,Lorem ipsum dolor sit amet,,6.9
+Bob,2024-01-04,Bob Workout,1h,Deadlift (Barbell),1,74.36,7,0,0,Lorem ipsum dolor sit amet,,7.1
+Bob,2024-01-05,Bob Workout,1h,Deadlift (Barbell),1,74.62,9,0,0,Lorem ipsum dolor sit amet,,8.4
+Bob,2024-01-06,Bob Workout,1h,Deadlift (Barbell),1,74.72,8,0,0,Lorem ipsum dolor sit amet,,6.5
+Bob,2024-01-07,Bob Workout,1h,Deadlift (Barbell),1,74.64,9,0,0,Lorem ipsum dolor sit amet,,9.1
+Bob,2024-01-08,Bob Workout,1h,Deadlift (Barbell),1,74.8,5,0,0,Lorem ipsum dolor sit amet,,6.1
+Bob,2024-01-09,Bob Workout,1h,Deadlift (Barbell),1,75.23,10,0,0,Lorem ipsum dolor sit amet,,8.5
+Bob,2024-01-10,Bob Workout,1h,Deadlift (Barbell),1,75.5,6,0,0,Lorem ipsum dolor sit amet,,8.4
+Bob,2024-01-11,Bob Workout,1h,Deadlift (Barbell),1,75.7,9,0,0,Lorem ipsum dolor sit amet,,8.2
+Bob,2024-01-12,Bob Workout,1h,Deadlift (Barbell),1,76.1,10,0,0,Lorem ipsum dolor sit amet,,8.8
+Bob,2024-01-13,Bob Workout,1h,Deadlift (Barbell),1,76.41,10,0,0,Lorem ipsum dolor sit amet,,9.0
+Bob,2024-01-14,Bob Workout,1h,Deadlift (Barbell),1,76.6,9,0,0,Lorem ipsum dolor sit amet,,8.5
+Bob,2024-01-15,Bob Workout,1h,Deadlift (Barbell),1,76.85,6,0,0,Lorem ipsum dolor sit amet,,7.5
+Bob,2024-01-16,Bob Workout,1h,Deadlift (Barbell),1,77.22,5,0,0,Lorem ipsum dolor sit amet,,8.9
+Bob,2024-01-17,Bob Workout,1h,Deadlift (Barbell),1,77.71,6,0,0,Lorem ipsum dolor sit amet,,9.8
+Bob,2024-01-18,Bob Workout,1h,Deadlift (Barbell),1,77.95,9,0,0,Lorem ipsum dolor sit amet,,6.3
+Bob,2024-01-19,Bob Workout,1h,Deadlift (Barbell),1,78.14,7,0,0,Lorem ipsum dolor sit amet,,6.1
+Bob,2024-01-20,Bob Workout,1h,Deadlift (Barbell),1,78.48,9,0,0,Lorem ipsum dolor sit amet,,9.6
+Bob,2024-01-21,Bob Workout,1h,Deadlift (Barbell),1,78.55,7,0,0,Lorem ipsum dolor sit amet,,9.3
+Bob,2024-01-22,Bob Workout,1h,Deadlift (Barbell),1,78.76,5,0,0,Lorem ipsum dolor sit amet,,7.6
+Bob,2024-01-23,Bob Workout,1h,Deadlift (Barbell),1,78.85,5,0,0,Lorem ipsum dolor sit amet,,7.3
+Bob,2024-01-24,Bob Workout,1h,Deadlift (Barbell),1,79.14,7,0,0,Lorem ipsum dolor sit amet,,6.8
+Bob,2024-01-25,Bob Workout,1h,Deadlift (Barbell),1,79.38,10,0,0,Lorem ipsum dolor sit amet,,6.2
+Bob,2024-01-26,Bob Workout,1h,Deadlift (Barbell),1,79.73,8,0,0,Lorem ipsum dolor sit amet,,6.8
+Bob,2024-01-27,Bob Workout,1h,Deadlift (Barbell),1,80.03,5,0,0,Lorem ipsum dolor sit amet,,8.8
+Bob,2024-01-28,Bob Workout,1h,Deadlift (Barbell),1,80.27,6,0,0,Lorem ipsum dolor sit amet,,7.3
+Bob,2024-01-29,Bob Workout,1h,Deadlift (Barbell),1,80.51,8,0,0,Lorem ipsum dolor sit amet,,7.8
+Bob,2024-01-30,Bob Workout,1h,Deadlift (Barbell),1,80.89,10,0,0,Lorem ipsum dolor sit amet,,8.8
+Bob,2024-01-31,Bob Workout,1h,Deadlift (Barbell),1,81.27,8,0,0,Lorem ipsum dolor sit amet,,8.8
+Bob,2024-02-01,Bob Workout,1h,Deadlift (Barbell),1,81.56,8,0,0,Lorem ipsum dolor sit amet,,6.8
+Bob,2024-02-02,Bob Workout,1h,Deadlift (Barbell),1,81.91,7,0,0,Lorem ipsum dolor sit amet,,7.0
+Bob,2024-02-03,Bob Workout,1h,Deadlift (Barbell),1,82.21,7,0,0,Lorem ipsum dolor sit amet,,8.6
+Bob,2024-02-04,Bob Workout,1h,Deadlift (Barbell),1,82.55,8,0,0,Lorem ipsum dolor sit amet,,7.3
+Bob,2024-02-05,Bob Workout,1h,Deadlift (Barbell),1,82.79,8,0,0,Lorem ipsum dolor sit amet,,9.1
+Bob,2024-02-06,Bob Workout,1h,Deadlift (Barbell),1,83.06,10,0,0,Lorem ipsum dolor sit amet,,6.6
+Bob,2024-02-07,Bob Workout,1h,Deadlift (Barbell),1,83.28,10,0,0,Lorem ipsum dolor sit amet,,9.1
+Bob,2024-02-08,Bob Workout,1h,Deadlift (Barbell),1,83.54,6,0,0,Lorem ipsum dolor sit amet,,6.7
+Bob,2024-02-09,Bob Workout,1h,Deadlift (Barbell),1,83.71,9,0,0,Lorem ipsum dolor sit amet,,9.3
+Bob,2024-02-10,Bob Workout,1h,Deadlift (Barbell),1,83.9,10,0,0,Lorem ipsum dolor sit amet,,8.8
+Bob,2024-02-11,Bob Workout,1h,Deadlift (Barbell),1,84.04,9,0,0,Lorem ipsum dolor sit amet,,6.4
+Bob,2024-02-12,Bob Workout,1h,Deadlift (Barbell),1,84.05,8,0,0,Lorem ipsum dolor sit amet,,8.7
+Bob,2024-02-13,Bob Workout,1h,Deadlift (Barbell),1,83.95,7,0,0,Lorem ipsum dolor sit amet,,8.1
+Bob,2024-02-14,Bob Workout,1h,Deadlift (Barbell),1,84.17,8,0,0,Lorem ipsum dolor sit amet,,8.5
+Bob,2024-02-15,Bob Workout,1h,Deadlift (Barbell),1,84.14,9,0,0,Lorem ipsum dolor sit amet,,9.1
+Bob,2024-02-16,Bob Workout,1h,Deadlift (Barbell),1,84.58,9,0,0,Lorem ipsum dolor sit amet,,6.4
+Bob,2024-02-17,Bob Workout,1h,Deadlift (Barbell),1,84.64,10,0,0,Lorem ipsum dolor sit amet,,6.9
+Bob,2024-02-18,Bob Workout,1h,Deadlift (Barbell),1,84.95,8,0,0,Lorem ipsum dolor sit amet,,6.2
+Bob,2024-02-19,Bob Workout,1h,Deadlift (Barbell),1,85.03,8,0,0,Lorem ipsum dolor sit amet,,8.9
+Bob,2024-02-20,Bob Workout,1h,Deadlift (Barbell),1,85.38,7,0,0,Lorem ipsum dolor sit amet,,9.5
+Bob,2024-02-21,Bob Workout,1h,Deadlift (Barbell),1,85.64,8,0,0,Lorem ipsum dolor sit amet,,7.1
+Bob,2024-02-22,Bob Workout,1h,Deadlift (Barbell),1,85.97,6,0,0,Lorem ipsum dolor sit amet,,6.2
+Bob,2024-02-23,Bob Workout,1h,Deadlift (Barbell),1,86.16,8,0,0,Lorem ipsum dolor sit amet,,8.0
+Bob,2024-02-24,Bob Workout,1h,Deadlift (Barbell),1,86.52,6,0,0,Lorem ipsum dolor sit amet,,7.2
+Bob,2024-02-25,Bob Workout,1h,Deadlift (Barbell),1,86.97,9,0,0,Lorem ipsum dolor sit amet,,8.4
+Bob,2024-02-26,Bob Workout,1h,Deadlift (Barbell),1,87.19,8,0,0,Lorem ipsum dolor sit amet,,8.7
+Bob,2024-02-27,Bob Workout,1h,Deadlift (Barbell),1,87.4,10,0,0,Lorem ipsum dolor sit amet,,6.4
+Bob,2024-02-28,Bob Workout,1h,Deadlift (Barbell),1,87.68,5,0,0,Lorem ipsum dolor sit amet,,7.6
+Bob,2024-02-29,Bob Workout,1h,Deadlift (Barbell),1,87.72,10,0,0,Lorem ipsum dolor sit amet,,8.0
+Bob,2024-03-01,Bob Workout,1h,Deadlift (Barbell),1,88.2,10,0,0,Lorem ipsum dolor sit amet,,9.2
+Bob,2024-03-02,Bob Workout,1h,Deadlift (Barbell),1,88.78,8,0,0,Lorem ipsum dolor sit amet,,10.0
+Bob,2024-03-03,Bob Workout,1h,Deadlift (Barbell),1,89.16,7,0,0,Lorem ipsum dolor sit amet,,9.2
+Bob,2024-03-04,Bob Workout,1h,Deadlift (Barbell),1,89.66,8,0,0,Lorem ipsum dolor sit amet,,7.4
+Bob,2024-03-05,Bob Workout,1h,Deadlift (Barbell),1,89.96,10,0,0,Lorem ipsum dolor sit amet,,6.4
+Bob,2024-03-06,Bob Workout,1h,Deadlift (Barbell),1,90.18,8,0,0,Lorem ipsum dolor sit amet,,6.2
+Bob,2024-03-07,Bob Workout,1h,Deadlift (Barbell),1,90.5,10,0,0,Lorem ipsum dolor sit amet,,6.1
+Bob,2024-03-08,Bob Workout,1h,Deadlift (Barbell),1,90.85,5,0,0,Lorem ipsum dolor sit amet,,8.3
+Bob,2024-03-09,Bob Workout,1h,Deadlift (Barbell),1,91.37,5,0,0,Lorem ipsum dolor sit amet,,8.5
+Bob,2024-03-10,Bob Workout,1h,Deadlift (Barbell),1,91.84,6,0,0,Lorem ipsum dolor sit amet,,7.4
+Bob,2024-03-11,Bob Workout,1h,Deadlift (Barbell),1,92.15,6,0,0,Lorem ipsum dolor sit amet,,6.5
+Bob,2024-03-12,Bob Workout,1h,Deadlift (Barbell),1,92.63,9,0,0,Lorem ipsum dolor sit amet,,9.0
+Bob,2024-03-13,Bob Workout,1h,Deadlift (Barbell),1,93.04,9,0,0,Lorem ipsum dolor sit amet,,8.8
+Bob,2024-03-14,Bob Workout,1h,Deadlift (Barbell),1,93.43,8,0,0,Lorem ipsum dolor sit amet,,7.0
+Bob,2024-03-15,Bob Workout,1h,Deadlift (Barbell),1,93.99,7,0,0,Lorem ipsum dolor sit amet,,6.4
+Bob,2024-03-16,Bob Workout,1h,Deadlift (Barbell),1,94.44,7,0,0,Lorem ipsum dolor sit amet,,7.3
+Bob,2024-03-17,Bob Workout,1h,Deadlift (Barbell),1,94.62,6,0,0,Lorem ipsum dolor sit amet,,9.1
+Bob,2024-03-18,Bob Workout,1h,Deadlift (Barbell),1,95.01,9,0,0,Lorem ipsum dolor sit amet,,9.7
+Bob,2024-03-19,Bob Workout,1h,Deadlift (Barbell),1,95.11,10,0,0,Lorem ipsum dolor sit amet,,6.6
+Bob,2024-03-20,Bob Workout,1h,Deadlift (Barbell),1,95.42,5,0,0,Lorem ipsum dolor sit amet,,8.6
+Bob,2024-03-21,Bob Workout,1h,Deadlift (Barbell),1,96.0,7,0,0,Lorem ipsum dolor sit amet,,7.9
+Bob,2024-03-22,Bob Workout,1h,Deadlift (Barbell),1,96.34,8,0,0,Lorem ipsum dolor sit amet,,9.2
+Bob,2024-03-23,Bob Workout,1h,Deadlift (Barbell),1,96.49,9,0,0,Lorem ipsum dolor sit amet,,9.9
+Bob,2024-03-24,Bob Workout,1h,Deadlift (Barbell),1,97.06,8,0,0,Lorem ipsum dolor sit amet,,6.1
+Bob,2024-03-25,Bob Workout,1h,Deadlift (Barbell),1,97.28,8,0,0,Lorem ipsum dolor sit amet,,8.3
+Bob,2024-03-26,Bob Workout,1h,Deadlift (Barbell),1,97.53,10,0,0,Lorem ipsum dolor sit amet,,9.0
+Bob,2024-03-27,Bob Workout,1h,Deadlift (Barbell),1,97.67,9,0,0,Lorem ipsum dolor sit amet,,8.7
+Bob,2024-03-28,Bob Workout,1h,Deadlift (Barbell),1,97.9,6,0,0,Lorem ipsum dolor sit amet,,7.2
+Bob,2024-03-29,Bob Workout,1h,Deadlift (Barbell),1,98.64,10,0,0,Lorem ipsum dolor sit amet,,8.8
+Bob,2024-03-30,Bob Workout,1h,Deadlift (Barbell),1,99.12,7,0,0,Lorem ipsum dolor sit amet,,9.2
+Bob,2024-01-01,Bob Workout,1h,Squat (Barbell),1,93.01,5,0,0,Lorem ipsum dolor sit amet,,9.4
+Bob,2024-01-02,Bob Workout,1h,Squat (Barbell),1,93.24,9,0,0,Lorem ipsum dolor sit amet,,6.6
+Bob,2024-01-03,Bob Workout,1h,Squat (Barbell),1,93.71,7,0,0,Lorem ipsum dolor sit amet,,6.1
+Bob,2024-01-04,Bob Workout,1h,Squat (Barbell),1,94.04,6,0,0,Lorem ipsum dolor sit amet,,6.8
+Bob,2024-01-05,Bob Workout,1h,Squat (Barbell),1,94.63,7,0,0,Lorem ipsum dolor sit amet,,9.9
+Bob,2024-01-06,Bob Workout,1h,Squat (Barbell),1,95.16,9,0,0,Lorem ipsum dolor sit amet,,7.4
+Bob,2024-01-07,Bob Workout,1h,Squat (Barbell),1,95.51,10,0,0,Lorem ipsum dolor sit amet,,6.3
+Bob,2024-01-08,Bob Workout,1h,Squat (Barbell),1,96.04,8,0,0,Lorem ipsum dolor sit amet,,6.0
+Bob,2024-01-09,Bob Workout,1h,Squat (Barbell),1,96.35,5,0,0,Lorem ipsum dolor sit amet,,6.5
+Bob,2024-01-10,Bob Workout,1h,Squat (Barbell),1,96.95,7,0,0,Lorem ipsum dolor sit amet,,9.1
+Bob,2024-01-11,Bob Workout,1h,Squat (Barbell),1,97.41,7,0,0,Lorem ipsum dolor sit amet,,6.2
+Bob,2024-01-12,Bob Workout,1h,Squat (Barbell),1,97.73,9,0,0,Lorem ipsum dolor sit amet,,8.3
+Bob,2024-01-13,Bob Workout,1h,Squat (Barbell),1,98.39,10,0,0,Lorem ipsum dolor sit amet,,8.4
+Bob,2024-01-14,Bob Workout,1h,Squat (Barbell),1,98.89,10,0,0,Lorem ipsum dolor sit amet,,7.0
+Bob,2024-01-15,Bob Workout,1h,Squat (Barbell),1,99.4,8,0,0,Lorem ipsum dolor sit amet,,8.7
+Bob,2024-01-16,Bob Workout,1h,Squat (Barbell),1,99.96,10,0,0,Lorem ipsum dolor sit amet,,9.5
+Bob,2024-01-17,Bob Workout,1h,Squat (Barbell),1,100.47,5,0,0,Lorem ipsum dolor sit amet,,6.3
+Bob,2024-01-18,Bob Workout,1h,Squat (Barbell),1,100.81,10,0,0,Lorem ipsum dolor sit amet,,8.4
+Bob,2024-01-19,Bob Workout,1h,Squat (Barbell),1,101.29,7,0,0,Lorem ipsum dolor sit amet,,6.5
+Bob,2024-01-20,Bob Workout,1h,Squat (Barbell),1,101.62,10,0,0,Lorem ipsum dolor sit amet,,6.9
+Bob,2024-01-21,Bob Workout,1h,Squat (Barbell),1,102.05,5,0,0,Lorem ipsum dolor sit amet,,7.0
+Bob,2024-01-22,Bob Workout,1h,Squat (Barbell),1,102.38,10,0,0,Lorem ipsum dolor sit amet,,6.5
+Bob,2024-01-23,Bob Workout,1h,Squat (Barbell),1,102.94,10,0,0,Lorem ipsum dolor sit amet,,7.2
+Bob,2024-01-24,Bob Workout,1h,Squat (Barbell),1,103.5,6,0,0,Lorem ipsum dolor sit amet,,8.0
+Bob,2024-01-25,Bob Workout,1h,Squat (Barbell),1,103.96,8,0,0,Lorem ipsum dolor sit amet,,7.7
+Bob,2024-01-26,Bob Workout,1h,Squat (Barbell),1,104.39,9,0,0,Lorem ipsum dolor sit amet,,9.1
+Bob,2024-01-27,Bob Workout,1h,Squat (Barbell),1,104.96,7,0,0,Lorem ipsum dolor sit amet,,6.7
+Bob,2024-01-28,Bob Workout,1h,Squat (Barbell),1,105.31,6,0,0,Lorem ipsum dolor sit amet,,7.7
+Bob,2024-01-29,Bob Workout,1h,Squat (Barbell),1,105.81,10,0,0,Lorem ipsum dolor sit amet,,8.6
+Bob,2024-01-30,Bob Workout,1h,Squat (Barbell),1,106.18,7,0,0,Lorem ipsum dolor sit amet,,6.2
+Bob,2024-01-31,Bob Workout,1h,Squat (Barbell),1,106.58,9,0,0,Lorem ipsum dolor sit amet,,7.8
+Bob,2024-02-01,Bob Workout,1h,Squat (Barbell),1,107.22,6,0,0,Lorem ipsum dolor sit amet,,6.7
+Bob,2024-02-02,Bob Workout,1h,Squat (Barbell),1,107.58,5,0,0,Lorem ipsum dolor sit amet,,7.2
+Bob,2024-02-03,Bob Workout,1h,Squat (Barbell),1,108.17,9,0,0,Lorem ipsum dolor sit amet,,8.2
+Bob,2024-02-04,Bob Workout,1h,Squat (Barbell),1,108.52,9,0,0,Lorem ipsum dolor sit amet,,8.4
+Bob,2024-02-05,Bob Workout,1h,Squat (Barbell),1,109.09,7,0,0,Lorem ipsum dolor sit amet,,7.5
+Bob,2024-02-06,Bob Workout,1h,Squat (Barbell),1,109.53,8,0,0,Lorem ipsum dolor sit amet,,9.0
+Bob,2024-02-07,Bob Workout,1h,Squat (Barbell),1,110.19,9,0,0,Lorem ipsum dolor sit amet,,8.9
+Bob,2024-02-08,Bob Workout,1h,Squat (Barbell),1,110.76,6,0,0,Lorem ipsum dolor sit amet,,9.6
+Bob,2024-02-09,Bob Workout,1h,Squat (Barbell),1,111.32,10,0,0,Lorem ipsum dolor sit amet,,10.0
+Bob,2024-02-10,Bob Workout,1h,Squat (Barbell),1,112.02,9,0,0,Lorem ipsum dolor sit amet,,8.6
+Bob,2024-02-11,Bob Workout,1h,Squat (Barbell),1,112.5,7,0,0,Lorem ipsum dolor sit amet,,9.9
+Bob,2024-02-12,Bob Workout,1h,Squat (Barbell),1,113.02,10,0,0,Lorem ipsum dolor sit amet,,8.7
+Bob,2024-02-13,Bob Workout,1h,Squat (Barbell),1,113.45,6,0,0,Lorem ipsum dolor sit amet,,8.2
+Bob,2024-02-14,Bob Workout,1h,Squat (Barbell),1,114.01,6,0,0,Lorem ipsum dolor sit amet,,7.6
+Bob,2024-02-15,Bob Workout,1h,Squat (Barbell),1,114.41,9,0,0,Lorem ipsum dolor sit amet,,6.2
+Bob,2024-02-16,Bob Workout,1h,Squat (Barbell),1,114.93,10,0,0,Lorem ipsum dolor sit amet,,7.4
+Bob,2024-02-17,Bob Workout,1h,Squat (Barbell),1,115.78,7,0,0,Lorem ipsum dolor sit amet,,8.5
+Bob,2024-02-18,Bob Workout,1h,Squat (Barbell),1,116.24,5,0,0,Lorem ipsum dolor sit amet,,6.5
+Bob,2024-02-19,Bob Workout,1h,Squat (Barbell),1,116.84,6,0,0,Lorem ipsum dolor sit amet,,9.2
+Bob,2024-02-20,Bob Workout,1h,Squat (Barbell),1,117.14,5,0,0,Lorem ipsum dolor sit amet,,8.5
+Bob,2024-02-21,Bob Workout,1h,Squat (Barbell),1,117.88,10,0,0,Lorem ipsum dolor sit amet,,6.6
+Bob,2024-02-22,Bob Workout,1h,Squat (Barbell),1,118.53,7,0,0,Lorem ipsum dolor sit amet,,6.7
+Bob,2024-02-23,Bob Workout,1h,Squat (Barbell),1,119.29,9,0,0,Lorem ipsum dolor sit amet,,9.1
+Bob,2024-02-24,Bob Workout,1h,Squat (Barbell),1,119.81,6,0,0,Lorem ipsum dolor sit amet,,9.8
+Bob,2024-02-25,Bob Workout,1h,Squat (Barbell),1,120.38,5,0,0,Lorem ipsum dolor sit amet,,9.5
+Bob,2024-02-26,Bob Workout,1h,Squat (Barbell),1,120.95,8,0,0,Lorem ipsum dolor sit amet,,8.1
+Bob,2024-02-27,Bob Workout,1h,Squat (Barbell),1,121.38,10,0,0,Lorem ipsum dolor sit amet,,9.9
+Bob,2024-02-28,Bob Workout,1h,Squat (Barbell),1,121.99,5,0,0,Lorem ipsum dolor sit amet,,9.3
+Bob,2024-02-29,Bob Workout,1h,Squat (Barbell),1,122.66,8,0,0,Lorem ipsum dolor sit amet,,8.6
+Bob,2024-03-01,Bob Workout,1h,Squat (Barbell),1,123.26,9,0,0,Lorem ipsum dolor sit amet,,7.0
+Bob,2024-03-02,Bob Workout,1h,Squat (Barbell),1,123.59,9,0,0,Lorem ipsum dolor sit amet,,8.9
+Bob,2024-03-03,Bob Workout,1h,Squat (Barbell),1,124.35,6,0,0,Lorem ipsum dolor sit amet,,8.2
+Bob,2024-03-04,Bob Workout,1h,Squat (Barbell),1,125.07,7,0,0,Lorem ipsum dolor sit amet,,8.6
+Bob,2024-03-05,Bob Workout,1h,Squat (Barbell),1,125.57,5,0,0,Lorem ipsum dolor sit amet,,8.3
+Bob,2024-03-06,Bob Workout,1h,Squat (Barbell),1,126.59,6,0,0,Lorem ipsum dolor sit amet,,9.1
+Bob,2024-03-07,Bob Workout,1h,Squat (Barbell),1,127.46,9,0,0,Lorem ipsum dolor sit amet,,8.9
+Bob,2024-03-08,Bob Workout,1h,Squat (Barbell),1,128.11,8,0,0,Lorem ipsum dolor sit amet,,7.7
+Bob,2024-03-09,Bob Workout,1h,Squat (Barbell),1,128.84,6,0,0,Lorem ipsum dolor sit amet,,8.8
+Bob,2024-03-10,Bob Workout,1h,Squat (Barbell),1,129.64,7,0,0,Lorem ipsum dolor sit amet,,6.6
+Bob,2024-03-11,Bob Workout,1h,Squat (Barbell),1,130.44,10,0,0,Lorem ipsum dolor sit amet,,9.5
+Bob,2024-03-12,Bob Workout,1h,Squat (Barbell),1,131.32,8,0,0,Lorem ipsum dolor sit amet,,8.8
+Bob,2024-03-13,Bob Workout,1h,Squat (Barbell),1,132.26,9,0,0,Lorem ipsum dolor sit amet,,9.7
+Bob,2024-03-14,Bob Workout,1h,Squat (Barbell),1,133.23,8,0,0,Lorem ipsum dolor sit amet,,6.6
+Bob,2024-03-15,Bob Workout,1h,Squat (Barbell),1,134.0,7,0,0,Lorem ipsum dolor sit amet,,6.0
+Bob,2024-03-16,Bob Workout,1h,Squat (Barbell),1,134.75,10,0,0,Lorem ipsum dolor sit amet,,7.0
+Bob,2024-03-17,Bob Workout,1h,Squat (Barbell),1,135.37,10,0,0,Lorem ipsum dolor sit amet,,6.8
+Bob,2024-03-18,Bob Workout,1h,Squat (Barbell),1,135.76,6,0,0,Lorem ipsum dolor sit amet,,7.5
+Bob,2024-03-19,Bob Workout,1h,Squat (Barbell),1,136.34,5,0,0,Lorem ipsum dolor sit amet,,7.5
+Bob,2024-03-20,Bob Workout,1h,Squat (Barbell),1,136.88,9,0,0,Lorem ipsum dolor sit amet,,9.1
+Bob,2024-03-21,Bob Workout,1h,Squat (Barbell),1,137.75,10,0,0,Lorem ipsum dolor sit amet,,6.1
+Bob,2024-03-22,Bob Workout,1h,Squat (Barbell),1,138.38,8,0,0,Lorem ipsum dolor sit amet,,7.1
+Bob,2024-03-23,Bob Workout,1h,Squat (Barbell),1,138.57,9,0,0,Lorem ipsum dolor sit amet,,6.3
+Bob,2024-03-24,Bob Workout,1h,Squat (Barbell),1,139.12,6,0,0,Lorem ipsum dolor sit amet,,9.0
+Bob,2024-03-25,Bob Workout,1h,Squat (Barbell),1,139.97,8,0,0,Lorem ipsum dolor sit amet,,6.8
+Bob,2024-03-26,Bob Workout,1h,Squat (Barbell),1,140.7,7,0,0,Lorem ipsum dolor sit amet,,8.7
+Bob,2024-03-27,Bob Workout,1h,Squat (Barbell),1,141.66,8,0,0,Lorem ipsum dolor sit amet,,8.2
+Bob,2024-03-28,Bob Workout,1h,Squat (Barbell),1,142.04,6,0,0,Lorem ipsum dolor sit amet,,9.4
+Bob,2024-03-29,Bob Workout,1h,Squat (Barbell),1,142.53,5,0,0,Lorem ipsum dolor sit amet,,6.6
+Bob,2024-03-30,Bob Workout,1h,Squat (Barbell),1,143.15,10,0,0,Lorem ipsum dolor sit amet,,7.1
+Emily,2024-01-01,Emily Workout,1h,Bench Press (Barbell),1,76.92,7,0,0,Lorem ipsum dolor sit amet,,8.9
+Emily,2024-01-02,Emily Workout,1h,Bench Press (Barbell),1,77.38,5,0,0,Lorem ipsum dolor sit amet,,6.8
+Emily,2024-01-03,Emily Workout,1h,Bench Press (Barbell),1,77.66,9,0,0,Lorem ipsum dolor sit amet,,9.1
+Emily,2024-01-04,Emily Workout,1h,Bench Press (Barbell),1,78.19,5,0,0,Lorem ipsum dolor sit amet,,6.0
+Emily,2024-01-05,Emily Workout,1h,Bench Press (Barbell),1,78.57,8,0,0,Lorem ipsum dolor sit amet,,7.2
+Emily,2024-01-06,Emily Workout,1h,Bench Press (Barbell),1,78.95,5,0,0,Lorem ipsum dolor sit amet,,6.8
+Emily,2024-01-07,Emily Workout,1h,Bench Press (Barbell),1,79.35,8,0,0,Lorem ipsum dolor sit amet,,6.2
+Emily,2024-01-08,Emily Workout,1h,Bench Press (Barbell),1,79.75,10,0,0,Lorem ipsum dolor sit amet,,7.2
+Emily,2024-01-09,Emily Workout,1h,Bench Press (Barbell),1,80.32,7,0,0,Lorem ipsum dolor sit amet,,9.1
+Emily,2024-01-10,Emily Workout,1h,Bench Press (Barbell),1,80.82,7,0,0,Lorem ipsum dolor sit amet,,7.8
+Emily,2024-01-11,Emily Workout,1h,Bench Press (Barbell),1,81.43,6,0,0,Lorem ipsum dolor sit amet,,9.9
+Emily,2024-01-12,Emily Workout,1h,Bench Press (Barbell),1,81.9,8,0,0,Lorem ipsum dolor sit amet,,7.2
+Emily,2024-01-13,Emily Workout,1h,Bench Press (Barbell),1,82.42,6,0,0,Lorem ipsum dolor sit amet,,8.0
+Emily,2024-01-14,Emily Workout,1h,Bench Press (Barbell),1,82.64,6,0,0,Lorem ipsum dolor sit amet,,9.6
+Emily,2024-01-15,Emily Workout,1h,Bench Press (Barbell),1,83.06,7,0,0,Lorem ipsum dolor sit amet,,7.6
+Emily,2024-01-16,Emily Workout,1h,Bench Press (Barbell),1,83.36,5,0,0,Lorem ipsum dolor sit amet,,6.5
+Emily,2024-01-17,Emily Workout,1h,Bench Press (Barbell),1,83.99,7,0,0,Lorem ipsum dolor sit amet,,6.2
+Emily,2024-01-18,Emily Workout,1h,Bench Press (Barbell),1,84.43,7,0,0,Lorem ipsum dolor sit amet,,7.1
+Emily,2024-01-19,Emily Workout,1h,Bench Press (Barbell),1,85.02,7,0,0,Lorem ipsum dolor sit amet,,6.5
+Emily,2024-01-20,Emily Workout,1h,Bench Press (Barbell),1,85.31,7,0,0,Lorem ipsum dolor sit amet,,6.7
+Emily,2024-01-21,Emily Workout,1h,Bench Press (Barbell),1,85.81,7,0,0,Lorem ipsum dolor sit amet,,8.7
+Emily,2024-01-22,Emily Workout,1h,Bench Press (Barbell),1,86.46,6,0,0,Lorem ipsum dolor sit amet,,7.4
+Emily,2024-01-23,Emily Workout,1h,Bench Press (Barbell),1,86.94,9,0,0,Lorem ipsum dolor sit amet,,6.8
+Emily,2024-01-24,Emily Workout,1h,Bench Press (Barbell),1,87.5,9,0,0,Lorem ipsum dolor sit amet,,9.7
+Emily,2024-01-25,Emily Workout,1h,Bench Press (Barbell),1,87.99,8,0,0,Lorem ipsum dolor sit amet,,8.2
+Emily,2024-01-26,Emily Workout,1h,Bench Press (Barbell),1,88.63,9,0,0,Lorem ipsum dolor sit amet,,7.0
+Emily,2024-01-27,Emily Workout,1h,Bench Press (Barbell),1,89.12,6,0,0,Lorem ipsum dolor sit amet,,6.4
+Emily,2024-01-28,Emily Workout,1h,Bench Press (Barbell),1,89.55,9,0,0,Lorem ipsum dolor sit amet,,8.3
+Emily,2024-01-29,Emily Workout,1h,Bench Press (Barbell),1,89.89,9,0,0,Lorem ipsum dolor sit amet,,6.2
+Emily,2024-01-30,Emily Workout,1h,Bench Press (Barbell),1,90.57,6,0,0,Lorem ipsum dolor sit amet,,6.4
+Emily,2024-01-31,Emily Workout,1h,Bench Press (Barbell),1,90.87,7,0,0,Lorem ipsum dolor sit amet,,9.1
+Emily,2024-02-01,Emily Workout,1h,Bench Press (Barbell),1,91.27,8,0,0,Lorem ipsum dolor sit amet,,8.9
+Emily,2024-02-02,Emily Workout,1h,Bench Press (Barbell),1,91.74,7,0,0,Lorem ipsum dolor sit amet,,9.0
+Emily,2024-02-03,Emily Workout,1h,Bench Press (Barbell),1,92.38,5,0,0,Lorem ipsum dolor sit amet,,9.4
+Emily,2024-02-04,Emily Workout,1h,Bench Press (Barbell),1,93.07,9,0,0,Lorem ipsum dolor sit amet,,7.1
+Emily,2024-02-05,Emily Workout,1h,Bench Press (Barbell),1,93.63,5,0,0,Lorem ipsum dolor sit amet,,8.7
+Emily,2024-02-06,Emily Workout,1h,Bench Press (Barbell),1,94.09,6,0,0,Lorem ipsum dolor sit amet,,6.3
+Emily,2024-02-07,Emily Workout,1h,Bench Press (Barbell),1,94.88,7,0,0,Lorem ipsum dolor sit amet,,9.4
+Emily,2024-02-08,Emily Workout,1h,Bench Press (Barbell),1,95.42,9,0,0,Lorem ipsum dolor sit amet,,7.2
+Emily,2024-02-09,Emily Workout,1h,Bench Press (Barbell),1,95.92,5,0,0,Lorem ipsum dolor sit amet,,7.3
+Emily,2024-02-10,Emily Workout,1h,Bench Press (Barbell),1,96.44,5,0,0,Lorem ipsum dolor sit amet,,6.4
+Emily,2024-02-11,Emily Workout,1h,Bench Press (Barbell),1,97.07,9,0,0,Lorem ipsum dolor sit amet,,9.1
+Emily,2024-02-12,Emily Workout,1h,Bench Press (Barbell),1,97.66,7,0,0,Lorem ipsum dolor sit amet,,6.7
+Emily,2024-02-13,Emily Workout,1h,Bench Press (Barbell),1,98.31,10,0,0,Lorem ipsum dolor sit amet,,9.7
+Emily,2024-02-14,Emily Workout,1h,Bench Press (Barbell),1,98.98,9,0,0,Lorem ipsum dolor sit amet,,6.5
+Emily,2024-02-15,Emily Workout,1h,Bench Press (Barbell),1,99.73,7,0,0,Lorem ipsum dolor sit amet,,6.7
+Emily,2024-02-16,Emily Workout,1h,Bench Press (Barbell),1,100.02,10,0,0,Lorem ipsum dolor sit amet,,9.8
+Emily,2024-02-17,Emily Workout,1h,Bench Press (Barbell),1,100.68,6,0,0,Lorem ipsum dolor sit amet,,8.8
+Emily,2024-02-18,Emily Workout,1h,Bench Press (Barbell),1,101.17,6,0,0,Lorem ipsum dolor sit amet,,9.2
+Emily,2024-02-19,Emily Workout,1h,Bench Press (Barbell),1,101.85,5,0,0,Lorem ipsum dolor sit amet,,6.4
+Emily,2024-02-20,Emily Workout,1h,Bench Press (Barbell),1,102.57,9,0,0,Lorem ipsum dolor sit amet,,8.3
+Emily,2024-02-21,Emily Workout,1h,Bench Press (Barbell),1,103.43,6,0,0,Lorem ipsum dolor sit amet,,7.1
+Emily,2024-02-22,Emily Workout,1h,Bench Press (Barbell),1,103.66,6,0,0,Lorem ipsum dolor sit amet,,6.4
+Emily,2024-02-23,Emily Workout,1h,Bench Press (Barbell),1,104.08,7,0,0,Lorem ipsum dolor sit amet,,7.0
+Emily,2024-02-24,Emily Workout,1h,Bench Press (Barbell),1,104.93,6,0,0,Lorem ipsum dolor sit amet,,8.6
+Emily,2024-02-25,Emily Workout,1h,Bench Press (Barbell),1,105.62,10,0,0,Lorem ipsum dolor sit amet,,6.2
+Emily,2024-02-26,Emily Workout,1h,Bench Press (Barbell),1,106.18,5,0,0,Lorem ipsum dolor sit amet,,9.3
+Emily,2024-02-27,Emily Workout,1h,Bench Press (Barbell),1,106.64,10,0,0,Lorem ipsum dolor sit amet,,7.9
+Emily,2024-02-28,Emily Workout,1h,Bench Press (Barbell),1,107.47,5,0,0,Lorem ipsum dolor sit amet,,9.8
+Emily,2024-02-29,Emily Workout,1h,Bench Press (Barbell),1,108.42,9,0,0,Lorem ipsum dolor sit amet,,7.8
+Emily,2024-03-01,Emily Workout,1h,Bench Press (Barbell),1,109.13,7,0,0,Lorem ipsum dolor sit amet,,8.6
+Emily,2024-03-02,Emily Workout,1h,Bench Press (Barbell),1,109.83,10,0,0,Lorem ipsum dolor sit amet,,9.3
+Emily,2024-03-03,Emily Workout,1h,Bench Press (Barbell),1,110.71,9,0,0,Lorem ipsum dolor sit amet,,9.4
+Emily,2024-03-04,Emily Workout,1h,Bench Press (Barbell),1,111.42,6,0,0,Lorem ipsum dolor sit amet,,9.4
+Emily,2024-03-05,Emily Workout,1h,Bench Press (Barbell),1,112.12,5,0,0,Lorem ipsum dolor sit amet,,8.6
+Emily,2024-03-06,Emily Workout,1h,Bench Press (Barbell),1,112.84,7,0,0,Lorem ipsum dolor sit amet,,9.0
+Emily,2024-03-07,Emily Workout,1h,Bench Press (Barbell),1,113.6,10,0,0,Lorem ipsum dolor sit amet,,7.3
+Emily,2024-03-08,Emily Workout,1h,Bench Press (Barbell),1,114.24,7,0,0,Lorem ipsum dolor sit amet,,9.4
+Emily,2024-03-09,Emily Workout,1h,Bench Press (Barbell),1,114.95,8,0,0,Lorem ipsum dolor sit amet,,7.7
+Emily,2024-03-10,Emily Workout,1h,Bench Press (Barbell),1,115.5,6,0,0,Lorem ipsum dolor sit amet,,8.3
+Emily,2024-03-11,Emily Workout,1h,Bench Press (Barbell),1,116.28,6,0,0,Lorem ipsum dolor sit amet,,8.9
+Emily,2024-03-12,Emily Workout,1h,Bench Press (Barbell),1,117.09,9,0,0,Lorem ipsum dolor sit amet,,9.4
+Emily,2024-03-13,Emily Workout,1h,Bench Press (Barbell),1,117.86,5,0,0,Lorem ipsum dolor sit amet,,8.8
+Emily,2024-03-14,Emily Workout,1h,Bench Press (Barbell),1,118.67,7,0,0,Lorem ipsum dolor sit amet,,7.6
+Emily,2024-03-15,Emily Workout,1h,Bench Press (Barbell),1,119.29,5,0,0,Lorem ipsum dolor sit amet,,6.4
+Emily,2024-03-16,Emily Workout,1h,Bench Press (Barbell),1,119.95,6,0,0,Lorem ipsum dolor sit amet,,7.7
+Emily,2024-03-17,Emily Workout,1h,Bench Press (Barbell),1,120.82,9,0,0,Lorem ipsum dolor sit amet,,6.5
+Emily,2024-03-18,Emily Workout,1h,Bench Press (Barbell),1,121.31,9,0,0,Lorem ipsum dolor sit amet,,8.3
+Emily,2024-03-19,Emily Workout,1h,Bench Press (Barbell),1,122.05,8,0,0,Lorem ipsum dolor sit amet,,7.9
+Emily,2024-03-20,Emily Workout,1h,Bench Press (Barbell),1,122.95,10,0,0,Lorem ipsum dolor sit amet,,9.3
+Emily,2024-03-21,Emily Workout,1h,Bench Press (Barbell),1,123.68,8,0,0,Lorem ipsum dolor sit amet,,9.2
+Emily,2024-03-22,Emily Workout,1h,Bench Press (Barbell),1,124.51,5,0,0,Lorem ipsum dolor sit amet,,7.2
+Emily,2024-03-23,Emily Workout,1h,Bench Press (Barbell),1,125.5,7,0,0,Lorem ipsum dolor sit amet,,7.6
+Emily,2024-03-24,Emily Workout,1h,Bench Press (Barbell),1,126.41,6,0,0,Lorem ipsum dolor sit amet,,7.0
+Emily,2024-03-25,Emily Workout,1h,Bench Press (Barbell),1,126.89,5,0,0,Lorem ipsum dolor sit amet,,6.9
+Emily,2024-03-26,Emily Workout,1h,Bench Press (Barbell),1,127.9,6,0,0,Lorem ipsum dolor sit amet,,6.7
+Emily,2024-03-27,Emily Workout,1h,Bench Press (Barbell),1,128.62,9,0,0,Lorem ipsum dolor sit amet,,6.0
+Emily,2024-03-28,Emily Workout,1h,Bench Press (Barbell),1,129.49,6,0,0,Lorem ipsum dolor sit amet,,6.5
+Emily,2024-03-29,Emily Workout,1h,Bench Press (Barbell),1,130.27,5,0,0,Lorem ipsum dolor sit amet,,7.5
+Emily,2024-03-30,Emily Workout,1h,Bench Press (Barbell),1,130.7,5,0,0,Lorem ipsum dolor sit amet,,9.7
+Emily,2024-01-01,Emily Workout,1h,Deadlift (Barbell),1,73.49,5,0,0,Lorem ipsum dolor sit amet,,9.4
+Emily,2024-01-02,Emily Workout,1h,Deadlift (Barbell),1,74.0,7,0,0,Lorem ipsum dolor sit amet,,6.9
+Emily,2024-01-03,Emily Workout,1h,Deadlift (Barbell),1,74.52,7,0,0,Lorem ipsum dolor sit amet,,6.8
+Emily,2024-01-04,Emily Workout,1h,Deadlift (Barbell),1,74.9,8,0,0,Lorem ipsum dolor sit amet,,6.3
+Emily,2024-01-05,Emily Workout,1h,Deadlift (Barbell),1,75.28,10,0,0,Lorem ipsum dolor sit amet,,7.4
+Emily,2024-01-06,Emily Workout,1h,Deadlift (Barbell),1,75.74,6,0,0,Lorem ipsum dolor sit amet,,6.3
+Emily,2024-01-07,Emily Workout,1h,Deadlift (Barbell),1,76.13,8,0,0,Lorem ipsum dolor sit amet,,9.0
+Emily,2024-01-08,Emily Workout,1h,Deadlift (Barbell),1,76.57,7,0,0,Lorem ipsum dolor sit amet,,9.3
+Emily,2024-01-09,Emily Workout,1h,Deadlift (Barbell),1,76.97,10,0,0,Lorem ipsum dolor sit amet,,9.6
+Emily,2024-01-10,Emily Workout,1h,Deadlift (Barbell),1,77.35,8,0,0,Lorem ipsum dolor sit amet,,8.4
+Emily,2024-01-11,Emily Workout,1h,Deadlift (Barbell),1,78.02,8,0,0,Lorem ipsum dolor sit amet,,7.9
+Emily,2024-01-12,Emily Workout,1h,Deadlift (Barbell),1,78.47,7,0,0,Lorem ipsum dolor sit amet,,6.4
+Emily,2024-01-13,Emily Workout,1h,Deadlift (Barbell),1,78.98,9,0,0,Lorem ipsum dolor sit amet,,9.5
+Emily,2024-01-14,Emily Workout,1h,Deadlift (Barbell),1,79.5,6,0,0,Lorem ipsum dolor sit amet,,9.7
+Emily,2024-01-15,Emily Workout,1h,Deadlift (Barbell),1,80.01,5,0,0,Lorem ipsum dolor sit amet,,9.5
+Emily,2024-01-16,Emily Workout,1h,Deadlift (Barbell),1,80.61,9,0,0,Lorem ipsum dolor sit amet,,8.6
+Emily,2024-01-17,Emily Workout,1h,Deadlift (Barbell),1,81.14,9,0,0,Lorem ipsum dolor sit amet,,7.4
+Emily,2024-01-18,Emily Workout,1h,Deadlift (Barbell),1,81.54,6,0,0,Lorem ipsum dolor sit amet,,9.0
+Emily,2024-01-19,Emily Workout,1h,Deadlift (Barbell),1,82.07,9,0,0,Lorem ipsum dolor sit amet,,6.5
+Emily,2024-01-20,Emily Workout,1h,Deadlift (Barbell),1,82.49,6,0,0,Lorem ipsum dolor sit amet,,6.4
+Emily,2024-01-21,Emily Workout,1h,Deadlift (Barbell),1,82.84,8,0,0,Lorem ipsum dolor sit amet,,6.4
+Emily,2024-01-22,Emily Workout,1h,Deadlift (Barbell),1,83.18,7,0,0,Lorem ipsum dolor sit amet,,8.6
+Emily,2024-01-23,Emily Workout,1h,Deadlift (Barbell),1,83.89,5,0,0,Lorem ipsum dolor sit amet,,9.5
+Emily,2024-01-24,Emily Workout,1h,Deadlift (Barbell),1,84.5,6,0,0,Lorem ipsum dolor sit amet,,7.4
+Emily,2024-01-25,Emily Workout,1h,Deadlift (Barbell),1,84.97,5,0,0,Lorem ipsum dolor sit amet,,8.8
+Emily,2024-01-26,Emily Workout,1h,Deadlift (Barbell),1,85.49,8,0,0,Lorem ipsum dolor sit amet,,7.7
+Emily,2024-01-27,Emily Workout,1h,Deadlift (Barbell),1,86.35,8,0,0,Lorem ipsum dolor sit amet,,6.1
+Emily,2024-01-28,Emily Workout,1h,Deadlift (Barbell),1,87.12,5,0,0,Lorem ipsum dolor sit amet,,6.3
+Emily,2024-01-29,Emily Workout,1h,Deadlift (Barbell),1,87.72,7,0,0,Lorem ipsum dolor sit amet,,8.3
+Emily,2024-01-30,Emily Workout,1h,Deadlift (Barbell),1,88.56,5,0,0,Lorem ipsum dolor sit amet,,6.3
+Emily,2024-01-31,Emily Workout,1h,Deadlift (Barbell),1,89.18,6,0,0,Lorem ipsum dolor sit amet,,9.4
+Emily,2024-02-01,Emily Workout,1h,Deadlift (Barbell),1,89.77,7,0,0,Lorem ipsum dolor sit amet,,10.0
+Emily,2024-02-02,Emily Workout,1h,Deadlift (Barbell),1,90.42,10,0,0,Lorem ipsum dolor sit amet,,8.0
+Emily,2024-02-03,Emily Workout,1h,Deadlift (Barbell),1,91.05,7,0,0,Lorem ipsum dolor sit amet,,8.4
+Emily,2024-02-04,Emily Workout,1h,Deadlift (Barbell),1,91.41,6,0,0,Lorem ipsum dolor sit amet,,7.2
+Emily,2024-02-05,Emily Workout,1h,Deadlift (Barbell),1,91.87,5,0,0,Lorem ipsum dolor sit amet,,6.1
+Emily,2024-02-06,Emily Workout,1h,Deadlift (Barbell),1,92.41,7,0,0,Lorem ipsum dolor sit amet,,9.5
+Emily,2024-02-07,Emily Workout,1h,Deadlift (Barbell),1,93.09,7,0,0,Lorem ipsum dolor sit amet,,7.2
+Emily,2024-02-08,Emily Workout,1h,Deadlift (Barbell),1,93.73,8,0,0,Lorem ipsum dolor sit amet,,6.4
+Emily,2024-02-09,Emily Workout,1h,Deadlift (Barbell),1,94.56,8,0,0,Lorem ipsum dolor sit amet,,9.2
+Emily,2024-02-10,Emily Workout,1h,Deadlift (Barbell),1,95.1,5,0,0,Lorem ipsum dolor sit amet,,8.4
+Emily,2024-02-11,Emily Workout,1h,Deadlift (Barbell),1,95.83,6,0,0,Lorem ipsum dolor sit amet,,8.0
+Emily,2024-02-12,Emily Workout,1h,Deadlift (Barbell),1,96.58,9,0,0,Lorem ipsum dolor sit amet,,9.0
+Emily,2024-02-13,Emily Workout,1h,Deadlift (Barbell),1,97.42,7,0,0,Lorem ipsum dolor sit amet,,7.7
+Emily,2024-02-14,Emily Workout,1h,Deadlift (Barbell),1,97.97,8,0,0,Lorem ipsum dolor sit amet,,8.6
+Emily,2024-02-15,Emily Workout,1h,Deadlift (Barbell),1,98.47,10,0,0,Lorem ipsum dolor sit amet,,6.7
+Emily,2024-02-16,Emily Workout,1h,Deadlift (Barbell),1,99.1,10,0,0,Lorem ipsum dolor sit amet,,7.5
+Emily,2024-02-17,Emily Workout,1h,Deadlift (Barbell),1,99.78,5,0,0,Lorem ipsum dolor sit amet,,8.5
+Emily,2024-02-18,Emily Workout,1h,Deadlift (Barbell),1,100.53,8,0,0,Lorem ipsum dolor sit amet,,7.0
+Emily,2024-02-19,Emily Workout,1h,Deadlift (Barbell),1,101.35,6,0,0,Lorem ipsum dolor sit amet,,6.6
+Emily,2024-02-20,Emily Workout,1h,Deadlift (Barbell),1,101.91,7,0,0,Lorem ipsum dolor sit amet,,8.5
+Emily,2024-02-21,Emily Workout,1h,Deadlift (Barbell),1,103.11,9,0,0,Lorem ipsum dolor sit amet,,7.0
+Emily,2024-02-22,Emily Workout,1h,Deadlift (Barbell),1,103.86,5,0,0,Lorem ipsum dolor sit amet,,8.8
+Emily,2024-02-23,Emily Workout,1h,Deadlift (Barbell),1,104.07,6,0,0,Lorem ipsum dolor sit amet,,9.0
+Emily,2024-02-24,Emily Workout,1h,Deadlift (Barbell),1,104.73,8,0,0,Lorem ipsum dolor sit amet,,6.9
+Emily,2024-02-25,Emily Workout,1h,Deadlift (Barbell),1,105.27,10,0,0,Lorem ipsum dolor sit amet,,6.4
+Emily,2024-02-26,Emily Workout,1h,Deadlift (Barbell),1,105.88,8,0,0,Lorem ipsum dolor sit amet,,9.8
+Emily,2024-02-27,Emily Workout,1h,Deadlift (Barbell),1,106.66,10,0,0,Lorem ipsum dolor sit amet,,9.1
+Emily,2024-02-28,Emily Workout,1h,Deadlift (Barbell),1,107.2,6,0,0,Lorem ipsum dolor sit amet,,8.7
+Emily,2024-02-29,Emily Workout,1h,Deadlift (Barbell),1,107.9,7,0,0,Lorem ipsum dolor sit amet,,6.1
+Emily,2024-03-01,Emily Workout,1h,Deadlift (Barbell),1,108.86,9,0,0,Lorem ipsum dolor sit amet,,9.3
+Emily,2024-03-02,Emily Workout,1h,Deadlift (Barbell),1,109.66,7,0,0,Lorem ipsum dolor sit amet,,8.8
+Emily,2024-03-03,Emily Workout,1h,Deadlift (Barbell),1,110.49,8,0,0,Lorem ipsum dolor sit amet,,8.7
+Emily,2024-03-04,Emily Workout,1h,Deadlift (Barbell),1,111.15,7,0,0,Lorem ipsum dolor sit amet,,7.5
+Emily,2024-03-05,Emily Workout,1h,Deadlift (Barbell),1,111.62,9,0,0,Lorem ipsum dolor sit amet,,6.1
+Emily,2024-03-06,Emily Workout,1h,Deadlift (Barbell),1,112.58,9,0,0,Lorem ipsum dolor sit amet,,7.4
+Emily,2024-03-07,Emily Workout,1h,Deadlift (Barbell),1,113.49,10,0,0,Lorem ipsum dolor sit amet,,8.0
+Emily,2024-03-08,Emily Workout,1h,Deadlift (Barbell),1,114.46,8,0,0,Lorem ipsum dolor sit amet,,6.9
+Emily,2024-03-09,Emily Workout,1h,Deadlift (Barbell),1,114.85,7,0,0,Lorem ipsum dolor sit amet,,6.8
+Emily,2024-03-10,Emily Workout,1h,Deadlift (Barbell),1,115.69,9,0,0,Lorem ipsum dolor sit amet,,9.5
+Emily,2024-03-11,Emily Workout,1h,Deadlift (Barbell),1,116.16,8,0,0,Lorem ipsum dolor sit amet,,7.3
+Emily,2024-03-12,Emily Workout,1h,Deadlift (Barbell),1,116.91,10,0,0,Lorem ipsum dolor sit amet,,6.1
+Emily,2024-03-13,Emily Workout,1h,Deadlift (Barbell),1,117.29,5,0,0,Lorem ipsum dolor sit amet,,7.5
+Emily,2024-03-14,Emily Workout,1h,Deadlift (Barbell),1,118.22,8,0,0,Lorem ipsum dolor sit amet,,8.7
+Emily,2024-03-15,Emily Workout,1h,Deadlift (Barbell),1,119.01,7,0,0,Lorem ipsum dolor sit amet,,6.9
+Emily,2024-03-16,Emily Workout,1h,Deadlift (Barbell),1,119.62,9,0,0,Lorem ipsum dolor sit amet,,6.5
+Emily,2024-03-17,Emily Workout,1h,Deadlift (Barbell),1,120.42,10,0,0,Lorem ipsum dolor sit amet,,9.6
+Emily,2024-03-18,Emily Workout,1h,Deadlift (Barbell),1,121.1,10,0,0,Lorem ipsum dolor sit amet,,6.2
+Emily,2024-03-19,Emily Workout,1h,Deadlift (Barbell),1,121.91,5,0,0,Lorem ipsum dolor sit amet,,9.9
+Emily,2024-03-20,Emily Workout,1h,Deadlift (Barbell),1,122.96,8,0,0,Lorem ipsum dolor sit amet,,10.0
+Emily,2024-03-21,Emily Workout,1h,Deadlift (Barbell),1,123.71,9,0,0,Lorem ipsum dolor sit amet,,6.4
+Emily,2024-03-22,Emily Workout,1h,Deadlift (Barbell),1,124.64,9,0,0,Lorem ipsum dolor sit amet,,8.0
+Emily,2024-03-23,Emily Workout,1h,Deadlift (Barbell),1,125.21,6,0,0,Lorem ipsum dolor sit amet,,6.9
+Emily,2024-03-24,Emily Workout,1h,Deadlift (Barbell),1,126.44,7,0,0,Lorem ipsum dolor sit amet,,9.3
+Emily,2024-03-25,Emily Workout,1h,Deadlift (Barbell),1,127.55,10,0,0,Lorem ipsum dolor sit amet,,9.7
+Emily,2024-03-26,Emily Workout,1h,Deadlift (Barbell),1,128.13,10,0,0,Lorem ipsum dolor sit amet,,9.2
+Emily,2024-03-27,Emily Workout,1h,Deadlift (Barbell),1,129.16,7,0,0,Lorem ipsum dolor sit amet,,9.5
+Emily,2024-03-28,Emily Workout,1h,Deadlift (Barbell),1,130.12,7,0,0,Lorem ipsum dolor sit amet,,6.7
+Emily,2024-03-29,Emily Workout,1h,Deadlift (Barbell),1,131.05,10,0,0,Lorem ipsum dolor sit amet,,8.4
+Emily,2024-03-30,Emily Workout,1h,Deadlift (Barbell),1,131.9,5,0,0,Lorem ipsum dolor sit amet,,9.3
+Emily,2024-01-01,Emily Workout,1h,Squat (Barbell),1,94.03,9,0,0,Lorem ipsum dolor sit amet,,9.3
+Emily,2024-01-02,Emily Workout,1h,Squat (Barbell),1,94.3,6,0,0,Lorem ipsum dolor sit amet,,8.6
+Emily,2024-01-03,Emily Workout,1h,Squat (Barbell),1,94.65,5,0,0,Lorem ipsum dolor sit amet,,6.1
+Emily,2024-01-04,Emily Workout,1h,Squat (Barbell),1,95.02,10,0,0,Lorem ipsum dolor sit amet,,7.2
+Emily,2024-01-05,Emily Workout,1h,Squat (Barbell),1,95.34,9,0,0,Lorem ipsum dolor sit amet,,8.0
+Emily,2024-01-06,Emily Workout,1h,Squat (Barbell),1,95.75,5,0,0,Lorem ipsum dolor sit amet,,8.7
+Emily,2024-01-07,Emily Workout,1h,Squat (Barbell),1,96.12,8,0,0,Lorem ipsum dolor sit amet,,9.9
+Emily,2024-01-08,Emily Workout,1h,Squat (Barbell),1,96.64,8,0,0,Lorem ipsum dolor sit amet,,7.3
+Emily,2024-01-09,Emily Workout,1h,Squat (Barbell),1,96.99,7,0,0,Lorem ipsum dolor sit amet,,6.2
+Emily,2024-01-10,Emily Workout,1h,Squat (Barbell),1,97.38,5,0,0,Lorem ipsum dolor sit amet,,10.0
+Emily,2024-01-11,Emily Workout,1h,Squat (Barbell),1,97.79,7,0,0,Lorem ipsum dolor sit amet,,7.9
+Emily,2024-01-12,Emily Workout,1h,Squat (Barbell),1,98.29,6,0,0,Lorem ipsum dolor sit amet,,9.1
+Emily,2024-01-13,Emily Workout,1h,Squat (Barbell),1,98.67,8,0,0,Lorem ipsum dolor sit amet,,9.6
+Emily,2024-01-14,Emily Workout,1h,Squat (Barbell),1,99.18,7,0,0,Lorem ipsum dolor sit amet,,6.8
+Emily,2024-01-15,Emily Workout,1h,Squat (Barbell),1,99.71,5,0,0,Lorem ipsum dolor sit amet,,8.6
+Emily,2024-01-16,Emily Workout,1h,Squat (Barbell),1,100.01,8,0,0,Lorem ipsum dolor sit amet,,6.5
+Emily,2024-01-17,Emily Workout,1h,Squat (Barbell),1,100.45,10,0,0,Lorem ipsum dolor sit amet,,8.0
+Emily,2024-01-18,Emily Workout,1h,Squat (Barbell),1,100.7,7,0,0,Lorem ipsum dolor sit amet,,8.0
+Emily,2024-01-19,Emily Workout,1h,Squat (Barbell),1,101.15,7,0,0,Lorem ipsum dolor sit amet,,6.8
+Emily,2024-01-20,Emily Workout,1h,Squat (Barbell),1,101.65,6,0,0,Lorem ipsum dolor sit amet,,9.5
+Emily,2024-01-21,Emily Workout,1h,Squat (Barbell),1,101.9,10,0,0,Lorem ipsum dolor sit amet,,6.1
+Emily,2024-01-22,Emily Workout,1h,Squat (Barbell),1,102.44,7,0,0,Lorem ipsum dolor sit amet,,9.4
+Emily,2024-01-23,Emily Workout,1h,Squat (Barbell),1,103.04,9,0,0,Lorem ipsum dolor sit amet,,9.7
+Emily,2024-01-24,Emily Workout,1h,Squat (Barbell),1,103.4,5,0,0,Lorem ipsum dolor sit amet,,9.0
+Emily,2024-01-25,Emily Workout,1h,Squat (Barbell),1,103.88,10,0,0,Lorem ipsum dolor sit amet,,8.0
+Emily,2024-01-26,Emily Workout,1h,Squat (Barbell),1,104.19,5,0,0,Lorem ipsum dolor sit amet,,6.0
+Emily,2024-01-27,Emily Workout,1h,Squat (Barbell),1,104.61,10,0,0,Lorem ipsum dolor sit amet,,7.8
+Emily,2024-01-28,Emily Workout,1h,Squat (Barbell),1,105.08,9,0,0,Lorem ipsum dolor sit amet,,7.2
+Emily,2024-01-29,Emily Workout,1h,Squat (Barbell),1,105.65,5,0,0,Lorem ipsum dolor sit amet,,7.0
+Emily,2024-01-30,Emily Workout,1h,Squat (Barbell),1,106.32,7,0,0,Lorem ipsum dolor sit amet,,9.7
+Emily,2024-01-31,Emily Workout,1h,Squat (Barbell),1,107.03,10,0,0,Lorem ipsum dolor sit amet,,8.9
+Emily,2024-02-01,Emily Workout,1h,Squat (Barbell),1,107.67,5,0,0,Lorem ipsum dolor sit amet,,8.5
+Emily,2024-02-02,Emily Workout,1h,Squat (Barbell),1,108.19,5,0,0,Lorem ipsum dolor sit amet,,8.4
+Emily,2024-02-03,Emily Workout,1h,Squat (Barbell),1,108.75,7,0,0,Lorem ipsum dolor sit amet,,8.6
+Emily,2024-02-04,Emily Workout,1h,Squat (Barbell),1,109.0,6,0,0,Lorem ipsum dolor sit amet,,7.8
+Emily,2024-02-05,Emily Workout,1h,Squat (Barbell),1,109.58,5,0,0,Lorem ipsum dolor sit amet,,6.8
+Emily,2024-02-06,Emily Workout,1h,Squat (Barbell),1,109.96,10,0,0,Lorem ipsum dolor sit amet,,9.8
+Emily,2024-02-07,Emily Workout,1h,Squat (Barbell),1,110.57,6,0,0,Lorem ipsum dolor sit amet,,8.7
+Emily,2024-02-08,Emily Workout,1h,Squat (Barbell),1,111.06,6,0,0,Lorem ipsum dolor sit amet,,8.6
+Emily,2024-02-09,Emily Workout,1h,Squat (Barbell),1,111.4,8,0,0,Lorem ipsum dolor sit amet,,9.4
+Emily,2024-02-10,Emily Workout,1h,Squat (Barbell),1,111.89,10,0,0,Lorem ipsum dolor sit amet,,8.3
+Emily,2024-02-11,Emily Workout,1h,Squat (Barbell),1,112.19,6,0,0,Lorem ipsum dolor sit amet,,7.1
+Emily,2024-02-12,Emily Workout,1h,Squat (Barbell),1,112.77,6,0,0,Lorem ipsum dolor sit amet,,8.2
+Emily,2024-02-13,Emily Workout,1h,Squat (Barbell),1,113.16,5,0,0,Lorem ipsum dolor sit amet,,9.5
+Emily,2024-02-14,Emily Workout,1h,Squat (Barbell),1,113.55,8,0,0,Lorem ipsum dolor sit amet,,8.1
+Emily,2024-02-15,Emily Workout,1h,Squat (Barbell),1,114.35,6,0,0,Lorem ipsum dolor sit amet,,8.8
+Emily,2024-02-16,Emily Workout,1h,Squat (Barbell),1,114.87,6,0,0,Lorem ipsum dolor sit amet,,9.8
+Emily,2024-02-17,Emily Workout,1h,Squat (Barbell),1,115.52,8,0,0,Lorem ipsum dolor sit amet,,8.9
+Emily,2024-02-18,Emily Workout,1h,Squat (Barbell),1,115.95,9,0,0,Lorem ipsum dolor sit amet,,7.9
+Emily,2024-02-19,Emily Workout,1h,Squat (Barbell),1,116.49,10,0,0,Lorem ipsum dolor sit amet,,8.3
+Emily,2024-02-20,Emily Workout,1h,Squat (Barbell),1,116.85,6,0,0,Lorem ipsum dolor sit amet,,8.4
+Emily,2024-02-21,Emily Workout,1h,Squat (Barbell),1,117.49,7,0,0,Lorem ipsum dolor sit amet,,9.2
+Emily,2024-02-22,Emily Workout,1h,Squat (Barbell),1,118.05,10,0,0,Lorem ipsum dolor sit amet,,7.9
+Emily,2024-02-23,Emily Workout,1h,Squat (Barbell),1,118.59,9,0,0,Lorem ipsum dolor sit amet,,8.5
+Emily,2024-02-24,Emily Workout,1h,Squat (Barbell),1,119.15,9,0,0,Lorem ipsum dolor sit amet,,7.6
+Emily,2024-02-25,Emily Workout,1h,Squat (Barbell),1,119.66,7,0,0,Lorem ipsum dolor sit amet,,8.6
+Emily,2024-02-26,Emily Workout,1h,Squat (Barbell),1,120.34,6,0,0,Lorem ipsum dolor sit amet,,9.2
+Emily,2024-02-27,Emily Workout,1h,Squat (Barbell),1,120.71,7,0,0,Lorem ipsum dolor sit amet,,8.0
+Emily,2024-02-28,Emily Workout,1h,Squat (Barbell),1,121.22,9,0,0,Lorem ipsum dolor sit amet,,6.7
+Emily,2024-02-29,Emily Workout,1h,Squat (Barbell),1,121.72,8,0,0,Lorem ipsum dolor sit amet,,9.5
+Emily,2024-03-01,Emily Workout,1h,Squat (Barbell),1,122.14,9,0,0,Lorem ipsum dolor sit amet,,8.2
+Emily,2024-03-02,Emily Workout,1h,Squat (Barbell),1,122.6,5,0,0,Lorem ipsum dolor sit amet,,8.4
+Emily,2024-03-03,Emily Workout,1h,Squat (Barbell),1,123.24,6,0,0,Lorem ipsum dolor sit amet,,7.9
+Emily,2024-03-04,Emily Workout,1h,Squat (Barbell),1,124.03,10,0,0,Lorem ipsum dolor sit amet,,8.9
+Emily,2024-03-05,Emily Workout,1h,Squat (Barbell),1,124.69,6,0,0,Lorem ipsum dolor sit amet,,9.5
+Emily,2024-03-06,Emily Workout,1h,Squat (Barbell),1,125.42,7,0,0,Lorem ipsum dolor sit amet,,6.1
+Emily,2024-03-07,Emily Workout,1h,Squat (Barbell),1,125.94,9,0,0,Lorem ipsum dolor sit amet,,6.5
+Emily,2024-03-08,Emily Workout,1h,Squat (Barbell),1,126.74,9,0,0,Lorem ipsum dolor sit amet,,9.0
+Emily,2024-03-09,Emily Workout,1h,Squat (Barbell),1,127.34,7,0,0,Lorem ipsum dolor sit amet,,8.5
+Emily,2024-03-10,Emily Workout,1h,Squat (Barbell),1,127.85,6,0,0,Lorem ipsum dolor sit amet,,7.2
+Emily,2024-03-11,Emily Workout,1h,Squat (Barbell),1,128.78,6,0,0,Lorem ipsum dolor sit amet,,8.0
+Emily,2024-03-12,Emily Workout,1h,Squat (Barbell),1,129.43,10,0,0,Lorem ipsum dolor sit amet,,8.3
+Emily,2024-03-13,Emily Workout,1h,Squat (Barbell),1,129.87,10,0,0,Lorem ipsum dolor sit amet,,6.5
+Emily,2024-03-14,Emily Workout,1h,Squat (Barbell),1,130.61,5,0,0,Lorem ipsum dolor sit amet,,6.4
+Emily,2024-03-15,Emily Workout,1h,Squat (Barbell),1,131.5,6,0,0,Lorem ipsum dolor sit amet,,6.1
+Emily,2024-03-16,Emily Workout,1h,Squat (Barbell),1,132.03,10,0,0,Lorem ipsum dolor sit amet,,7.0
+Emily,2024-03-17,Emily Workout,1h,Squat (Barbell),1,132.85,6,0,0,Lorem ipsum dolor sit amet,,8.3
+Emily,2024-03-18,Emily Workout,1h,Squat (Barbell),1,133.61,6,0,0,Lorem ipsum dolor sit amet,,8.7
+Emily,2024-03-19,Emily Workout,1h,Squat (Barbell),1,134.04,10,0,0,Lorem ipsum dolor sit amet,,6.6
+Emily,2024-03-20,Emily Workout,1h,Squat (Barbell),1,134.91,9,0,0,Lorem ipsum dolor sit amet,,7.2
+Emily,2024-03-21,Emily Workout,1h,Squat (Barbell),1,135.32,6,0,0,Lorem ipsum dolor sit amet,,7.9
+Emily,2024-03-22,Emily Workout,1h,Squat (Barbell),1,135.86,10,0,0,Lorem ipsum dolor sit amet,,6.3
+Emily,2024-03-23,Emily Workout,1h,Squat (Barbell),1,136.7,7,0,0,Lorem ipsum dolor sit amet,,7.9
+Emily,2024-03-24,Emily Workout,1h,Squat (Barbell),1,137.51,10,0,0,Lorem ipsum dolor sit amet,,6.0
+Emily,2024-03-25,Emily Workout,1h,Squat (Barbell),1,137.89,9,0,0,Lorem ipsum dolor sit amet,,7.1
+Emily,2024-03-26,Emily Workout,1h,Squat (Barbell),1,138.96,9,0,0,Lorem ipsum dolor sit amet,,9.1
+Emily,2024-03-27,Emily Workout,1h,Squat (Barbell),1,139.64,7,0,0,Lorem ipsum dolor sit amet,,8.5
+Emily,2024-03-28,Emily Workout,1h,Squat (Barbell),1,140.14,6,0,0,Lorem ipsum dolor sit amet,,6.5
+Emily,2024-03-29,Emily Workout,1h,Squat (Barbell),1,140.63,6,0,0,Lorem ipsum dolor sit amet,,7.3
+Emily,2024-03-30,Emily Workout,1h,Squat (Barbell),1,141.48,8,0,0,Lorem ipsum dolor sit amet,,6.5
